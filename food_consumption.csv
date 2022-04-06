@@ -1,1431 +1,1431 @@
-region,country,food_category,product_type,consumption,co2_emmission
-South America,Argentina,Pork,Animal,10.51,37.2
-South America,Argentina,Poultry,Animal,38.66,41.53
-South America,Argentina,Beef,Animal,55.48,1712
-South America,Argentina,Lamb & Goat,Animal,1.56,54.63
-South America,Argentina,Fish,Animal,4.36,6.96
-South America,Argentina,Eggs,Animal,11.39,10.46
-South America,Argentina,Milk - inc. cheese,Animal,195.08,277.87
-South America,Argentina,Wheat and Wheat Products,Plant,103.11,19.66
-South America,Argentina,Rice,Plant,8.77,11.22
-South America,Argentina,Soybeans,Plant,0,0
-South America,Argentina,Nuts inc. Peanut Butter,Plant,0.49,0.87
-Oceania,Australia,Pork,Animal,24.14,85.44
-Oceania,Australia,Poultry,Animal,46.12,49.54
-Oceania,Australia,Beef,Animal,33.86,1044.85
-Oceania,Australia,Lamb & Goat,Animal,9.87,345.65
-Oceania,Australia,Fish,Animal,17.69,28.25
-Oceania,Australia,Eggs,Animal,8.51,7.82
-Oceania,Australia,Milk - inc. cheese,Animal,234.49,334.01
-Oceania,Australia,Wheat and Wheat Products,Plant,70.46,13.44
-Oceania,Australia,Rice,Plant,11.03,14.12
-Oceania,Australia,Soybeans,Plant,0.19,0.09
-Oceania,Australia,Nuts inc. Peanut Butter,Plant,8.73,15.45
-Europe,Albania,Pork,Animal,10.88,38.51
-Europe,Albania,Poultry,Animal,13.23,14.21
-Europe,Albania,Beef,Animal,22.5,694.3
-Europe,Albania,Lamb & Goat,Animal,15.32,536.5
-Europe,Albania,Fish,Animal,3.85,6.15
-Europe,Albania,Eggs,Animal,12.45,11.44
-Europe,Albania,Milk - inc. cheese,Animal,303.72,432.62
-Europe,Albania,Wheat and Wheat Products,Plant,138.64,26.44
-Europe,Albania,Rice,Plant,7.78,9.96
-Europe,Albania,Soybeans,Plant,0,0
-Europe,Albania,Nuts inc. Peanut Butter,Plant,4.36,7.72
-Europe,Iceland,Pork,Animal,21.69,76.77
-Europe,Iceland,Poultry,Animal,26.87,28.86
-Europe,Iceland,Beef,Animal,13.36,412.26
-Europe,Iceland,Lamb & Goat,Animal,21.12,739.62
-Europe,Iceland,Fish,Animal,74.41,118.81
-Europe,Iceland,Eggs,Animal,8.24,7.57
-Europe,Iceland,Milk - inc. cheese,Animal,225.82,321.66
-Europe,Iceland,Wheat and Wheat Products,Plant,72.92,13.91
-Europe,Iceland,Rice,Plant,3.89,4.98
-Europe,Iceland,Soybeans,Plant,0.11,0.05
-Europe,Iceland,Nuts inc. Peanut Butter,Plant,3.88,6.87
-Oceania,New Zealand,Pork,Animal,22.29,78.9
-Oceania,New Zealand,Poultry,Animal,34.98,37.58
-Oceania,New Zealand,Beef,Animal,22.49,693.99
-Oceania,New Zealand,Lamb & Goat,Animal,18.91,662.23
-Oceania,New Zealand,Fish,Animal,20.36,32.51
-Oceania,New Zealand,Eggs,Animal,9.91,9.1
-Oceania,New Zealand,Milk - inc. cheese,Animal,137.25,195.5
-Oceania,New Zealand,Wheat and Wheat Products,Plant,76.91,14.67
-Oceania,New Zealand,Rice,Plant,9.16,11.72
-Oceania,New Zealand,Soybeans,Plant,0.44,0.2
-Oceania,New Zealand,Nuts inc. Peanut Butter,Plant,8.22,14.55
-North America,USA,Pork,Animal,27.64,97.83
-North America,USA,Poultry,Animal,50.01,53.72
-North America,USA,Beef,Animal,36.24,1118.29
-North America,USA,Lamb & Goat,Animal,0.43,15.06
-North America,USA,Fish,Animal,12.35,19.72
-North America,USA,Eggs,Animal,14.58,13.39
-North America,USA,Milk - inc. cheese,Animal,254.69,362.78
-North America,USA,Wheat and Wheat Products,Plant,80.43,15.34
-North America,USA,Rice,Plant,6.88,8.8
-North America,USA,Soybeans,Plant,0.04,0.02
-North America,USA,Nuts inc. Peanut Butter,Plant,7.86,13.91
-South America,Uruguay,Pork,Animal,16.84,59.61
-South America,Uruguay,Poultry,Animal,27.45,29.49
-South America,Uruguay,Beef,Animal,29.1,897.96
-South America,Uruguay,Lamb & Goat,Animal,8.23,288.21
-South America,Uruguay,Fish,Animal,6.53,10.43
-South America,Uruguay,Eggs,Animal,13.14,12.07
-South America,Uruguay,Milk - inc. cheese,Animal,210.54,299.89
-South America,Uruguay,Wheat and Wheat Products,Plant,109.31,20.85
-South America,Uruguay,Rice,Plant,11.5,14.72
-South America,Uruguay,Soybeans,Plant,0.01,0
-South America,Uruguay,Nuts inc. Peanut Butter,Plant,0.95,1.68
-Europe,Luxembourg,Pork,Animal,43.58,154.25
-Europe,Luxembourg,Poultry,Animal,21.37,22.96
-Europe,Luxembourg,Beef,Animal,29.88,922.03
-Europe,Luxembourg,Lamb & Goat,Animal,1.67,58.48
-Europe,Luxembourg,Fish,Animal,23.09,36.87
-Europe,Luxembourg,Eggs,Animal,14.64,13.45
-Europe,Luxembourg,Milk - inc. cheese,Animal,255.3,363.65
-Europe,Luxembourg,Wheat and Wheat Products,Plant,103.2,19.68
-Europe,Luxembourg,Rice,Plant,4.2,5.37
-Europe,Luxembourg,Soybeans,Plant,0.04,0.02
-Europe,Luxembourg,Nuts inc. Peanut Butter,Plant,0.93,1.65
-South America,Brazil,Pork,Animal,12.6,44.6
-South America,Brazil,Poultry,Animal,45,48.34
-South America,Brazil,Beef,Animal,39.25,1211.17
-South America,Brazil,Lamb & Goat,Animal,0.62,21.71
-South America,Brazil,Fish,Animal,10.01,15.98
-South America,Brazil,Eggs,Animal,8.98,8.25
-South America,Brazil,Milk - inc. cheese,Animal,149.28,212.63
-South America,Brazil,Wheat and Wheat Products,Plant,53,10.11
-South America,Brazil,Rice,Plant,32.13,41.12
-South America,Brazil,Soybeans,Plant,3.62,1.63
-South America,Brazil,Nuts inc. Peanut Butter,Plant,0.67,1.19
-Asia,Kazakhstan,Pork,Animal,10.36,36.67
-Asia,Kazakhstan,Poultry,Animal,18.38,19.74
-Asia,Kazakhstan,Beef,Animal,23.38,721.46
-Asia,Kazakhstan,Lamb & Goat,Animal,9.56,334.79
-Asia,Kazakhstan,Fish,Animal,5.21,8.32
-Asia,Kazakhstan,Eggs,Animal,8.29,7.62
-Asia,Kazakhstan,Milk - inc. cheese,Animal,288.12,410.4
-Asia,Kazakhstan,Wheat and Wheat Products,Plant,92.31,17.6
-Asia,Kazakhstan,Rice,Plant,7.32,9.37
-Asia,Kazakhstan,Soybeans,Plant,0.03,0.01
-Asia,Kazakhstan,Nuts inc. Peanut Butter,Plant,5.14,9.1
-Europe,Sweden,Pork,Animal,37,130.96
-Europe,Sweden,Poultry,Animal,16.64,17.87
-Europe,Sweden,Beef,Animal,24.58,758.49
-Europe,Sweden,Lamb & Goat,Animal,1.41,49.38
-Europe,Sweden,Fish,Animal,23.86,38.1
-Europe,Sweden,Eggs,Animal,13.37,12.28
-Europe,Sweden,Milk - inc. cheese,Animal,341.23,486.05
-Europe,Sweden,Wheat and Wheat Products,Plant,79.59,15.18
-Europe,Sweden,Rice,Plant,5.96,7.63
-Europe,Sweden,Soybeans,Plant,0.13,0.06
-Europe,Sweden,Nuts inc. Peanut Butter,Plant,6.23,11.03
-North America,Bermuda,Pork,Animal,28.24,99.96
-North America,Bermuda,Poultry,Animal,32.62,35.04
-North America,Bermuda,Beef,Animal,33.15,1022.94
-North America,Bermuda,Lamb & Goat,Animal,2.71,94.9
-North America,Bermuda,Fish,Animal,33.22,53.04
-North America,Bermuda,Eggs,Animal,14.92,13.71
-North America,Bermuda,Milk - inc. cheese,Animal,95.56,136.12
-North America,Bermuda,Wheat and Wheat Products,Plant,54.88,10.47
-North America,Bermuda,Rice,Plant,5.38,6.88
-North America,Bermuda,Soybeans,Plant,0.22,0.1
-North America,Bermuda,Nuts inc. Peanut Butter,Plant,5.72,10.12
-Europe,Denmark,Pork,Animal,24.87,88.03
-Europe,Denmark,Poultry,Animal,26.75,28.73
-Europe,Denmark,Beef,Animal,28.46,878.22
-Europe,Denmark,Lamb & Goat,Animal,0.92,32.22
-Europe,Denmark,Fish,Animal,16.49,26.33
-Europe,Denmark,Eggs,Animal,15.35,14.1
-Europe,Denmark,Milk - inc. cheese,Animal,277.3,394.99
-Europe,Denmark,Wheat and Wheat Products,Plant,98,18.69
-Europe,Denmark,Rice,Plant,4.96,6.35
-Europe,Denmark,Soybeans,Plant,0.03,0.01
-Europe,Denmark,Nuts inc. Peanut Butter,Plant,5.94,10.51
-Europe,Finland,Pork,Animal,36.14,127.92
-Europe,Finland,Poultry,Animal,19.87,21.34
-Europe,Finland,Beef,Animal,19.22,593.09
-Europe,Finland,Lamb & Goat,Animal,0.53,18.56
-Europe,Finland,Fish,Animal,33.8,53.97
-Europe,Finland,Eggs,Animal,9.55,8.77
-Europe,Finland,Milk - inc. cheese,Animal,430.76,613.57
-Europe,Finland,Wheat and Wheat Products,Plant,81.99,15.64
-Europe,Finland,Rice,Plant,4.42,5.66
-Europe,Finland,Soybeans,Plant,0.08,0.04
-Europe,Finland,Nuts inc. Peanut Butter,Plant,3.43,6.07
-Europe,Ireland,Pork,Animal,32.4,114.68
-Europe,Ireland,Poultry,Animal,26.26,28.21
-Europe,Ireland,Beef,Animal,22.35,689.67
-Europe,Ireland,Lamb & Goat,Animal,4.1,143.58
-Europe,Ireland,Fish,Animal,17.39,27.77
-Europe,Ireland,Eggs,Animal,8.96,8.23
-Europe,Ireland,Milk - inc. cheese,Animal,291.86,415.73
-Europe,Ireland,Wheat and Wheat Products,Plant,107.98,20.59
-Europe,Ireland,Rice,Plant,3,3.84
-Europe,Ireland,Soybeans,Plant,0.25,0.11
-Europe,Ireland,Nuts inc. Peanut Butter,Plant,4.1,7.26
-Europe,Greece,Pork,Animal,28.31,100.2
-Europe,Greece,Poultry,Animal,15.74,16.91
-Europe,Greece,Beef,Animal,16.1,496.81
-Europe,Greece,Lamb & Goat,Animal,12.47,436.7
-Europe,Greece,Fish,Animal,14.42,23.02
-Europe,Greece,Eggs,Animal,10.13,9.31
-Europe,Greece,Milk - inc. cheese,Animal,255.26,363.59
-Europe,Greece,Wheat and Wheat Products,Plant,124.04,23.65
-Europe,Greece,Rice,Plant,6.64,8.5
-Europe,Greece,Soybeans,Plant,0.02,0.01
-Europe,Greece,Nuts inc. Peanut Butter,Plant,10.5,18.59
-Europe,France,Pork,Animal,33.05,116.98
-Europe,France,Poultry,Animal,22.93,24.63
-Europe,France,Beef,Animal,23.81,734.73
-Europe,France,Lamb & Goat,Animal,3.28,114.87
-Europe,France,Fish,Animal,22.91,36.58
-Europe,France,Eggs,Animal,13.13,12.06
-Europe,France,Milk - inc. cheese,Animal,241.31,343.72
-Europe,France,Wheat and Wheat Products,Plant,108.43,20.68
-Europe,France,Rice,Plant,4.88,6.24
-Europe,France,Soybeans,Plant,0.05,0.02
-Europe,France,Nuts inc. Peanut Butter,Plant,5.39,9.54
-Europe,Canada,Pork,Animal,22.81,80.74
-Europe,Canada,Poultry,Animal,36.68,39.4
-Europe,Canada,Beef,Animal,30.25,933.45
-Europe,Canada,Lamb & Goat,Animal,0.97,33.97
-Europe,Canada,Fish,Animal,14.56,23.25
-Europe,Canada,Eggs,Animal,12.95,11.9
-Europe,Canada,Milk - inc. cheese,Animal,187.77,267.46
-Europe,Canada,Wheat and Wheat Products,Plant,84.96,16.2
-Europe,Canada,Rice,Plant,12.65,16.19
-Europe,Canada,Soybeans,Plant,0.94,0.42
-Europe,Canada,Nuts inc. Peanut Butter,Plant,8.01,14.18
-Europe,Norway,Pork,Animal,23.51,83.21
-Europe,Norway,Poultry,Animal,21.01,22.57
-Europe,Norway,Beef,Animal,19.83,611.91
-Europe,Norway,Lamb & Goat,Animal,5.34,187.01
-Europe,Norway,Fish,Animal,38.18,60.96
-Europe,Norway,Eggs,Animal,11.41,10.48
-Europe,Norway,Milk - inc. cheese,Animal,261.34,372.25
-Europe,Norway,Wheat and Wheat Products,Plant,97.12,18.52
-Europe,Norway,Rice,Plant,4.36,5.58
-Europe,Norway,Soybeans,Plant,0.11,0.05
-Europe,Norway,Nuts inc. Peanut Butter,Plant,5.28,9.35
-Asia,Hong Kong SAR. China,Pork,Animal,67.11,237.54
-Asia,Hong Kong SAR. China,Poultry,Animal,54.86,58.93
-Asia,Hong Kong SAR. China,Beef,Animal,25.82,796.75
-Asia,Hong Kong SAR. China,Lamb & Goat,Animal,2.22,77.74
-Asia,Hong Kong SAR. China,Fish,Animal,42.44,67.76
-Asia,Hong Kong SAR. China,Eggs,Animal,14.5,13.32
-Asia,Hong Kong SAR. China,Milk - inc. cheese,Animal,105.85,150.77
-Asia,Hong Kong SAR. China,Wheat and Wheat Products,Plant,53.14,10.13
-Asia,Hong Kong SAR. China,Rice,Plant,43.48,55.64
-Asia,Hong Kong SAR. China,Soybeans,Plant,2.79,1.26
-Asia,Hong Kong SAR. China,Nuts inc. Peanut Butter,Plant,13.81,24.44
-Oceania,French Polynesia,Pork,Animal,14.75,52.21
-Oceania,French Polynesia,Poultry,Animal,49.55,53.23
-Oceania,French Polynesia,Beef,Animal,30.9,953.51
-Oceania,French Polynesia,Lamb & Goat,Animal,2.83,99.11
-Oceania,French Polynesia,Fish,Animal,38.95,62.19
-Oceania,French Polynesia,Eggs,Animal,8.75,8.04
-Oceania,French Polynesia,Milk - inc. cheese,Animal,93.56,133.27
-Oceania,French Polynesia,Wheat and Wheat Products,Plant,68.67,13.1
-Oceania,French Polynesia,Rice,Plant,35.59,45.54
-Oceania,French Polynesia,Soybeans,Plant,0.77,0.35
-Oceania,French Polynesia,Nuts inc. Peanut Butter,Plant,2.34,4.14
-Europe,Israel,Pork,Animal,1.99,7.04
-Europe,Israel,Poultry,Animal,62.5,67.14
-Europe,Israel,Beef,Animal,28.78,888.09
-Europe,Israel,Lamb & Goat,Animal,1.87,65.49
-Europe,Israel,Fish,Animal,22.18,35.41
-Europe,Israel,Eggs,Animal,11.35,10.43
-Europe,Israel,Milk - inc. cheese,Animal,193.6,275.76
-Europe,Israel,Wheat and Wheat Products,Plant,110.86,21.14
-Europe,Israel,Rice,Plant,16.81,21.51
-Europe,Israel,Soybeans,Plant,0.1,0.05
-Europe,Israel,Nuts inc. Peanut Butter,Plant,7.71,13.65
-Europe,Switzerland,Pork,Animal,31.49,111.46
-Europe,Switzerland,Poultry,Animal,16.38,17.6
-Europe,Switzerland,Beef,Animal,21.26,656.04
-Europe,Switzerland,Lamb & Goat,Animal,1.42,49.73
-Europe,Switzerland,Fish,Animal,13.48,21.52
-Europe,Switzerland,Eggs,Animal,10.53,9.67
-Europe,Switzerland,Milk - inc. cheese,Animal,318.69,453.94
-Europe,Switzerland,Wheat and Wheat Products,Plant,89.51,17.07
-Europe,Switzerland,Rice,Plant,2.43,3.11
-Europe,Switzerland,Soybeans,Plant,0.44,0.2
-Europe,Switzerland,Nuts inc. Peanut Butter,Plant,9.27,16.41
-Europe,Netherlands,Pork,Animal,36.36,128.7
-Europe,Netherlands,Poultry,Animal,23.9,25.67
-Europe,Netherlands,Beef,Animal,17.67,545.26
-Europe,Netherlands,Lamb & Goat,Animal,0.94,32.92
-Europe,Netherlands,Fish,Animal,18.64,29.76
-Europe,Netherlands,Eggs,Animal,14.03,12.89
-Europe,Netherlands,Milk - inc. cheese,Animal,341.47,486.39
-Europe,Netherlands,Wheat and Wheat Products,Plant,70.17,13.38
-Europe,Netherlands,Rice,Plant,2.93,3.75
-Europe,Netherlands,Soybeans,Plant,0.12,0.05
-Europe,Netherlands,Nuts inc. Peanut Butter,Plant,7.94,14.05
-Asia,Kuwait,Pork,Animal,0,0
-Asia,Kuwait,Poultry,Animal,53.61,57.59
-Asia,Kuwait,Beef,Animal,13.03,402.08
-Asia,Kuwait,Lamb & Goat,Animal,15.61,546.66
-Asia,Kuwait,Fish,Animal,11.99,19.14
-Asia,Kuwait,Eggs,Animal,12.6,11.57
-Asia,Kuwait,Milk - inc. cheese,Animal,157.66,224.57
-Asia,Kuwait,Wheat and Wheat Products,Plant,96.76,18.45
-Asia,Kuwait,Rice,Plant,43.83,56.09
-Asia,Kuwait,Soybeans,Plant,0.06,0.03
-Asia,Kuwait,Nuts inc. Peanut Butter,Plant,5.23,9.26
-Europe,United Kingdom,Pork,Animal,25.79,91.28
-Europe,United Kingdom,Poultry,Animal,31.55,33.89
-Europe,United Kingdom,Beef,Animal,18.12,559.15
-Europe,United Kingdom,Lamb & Goat,Animal,4.49,157.24
-Europe,United Kingdom,Fish,Animal,15.49,24.73
-Europe,United Kingdom,Eggs,Animal,11.08,10.18
-Europe,United Kingdom,Milk - inc. cheese,Animal,232.2,330.75
-Europe,United Kingdom,Wheat and Wheat Products,Plant,98.63,18.81
-Europe,United Kingdom,Rice,Plant,6.39,8.18
-Europe,United Kingdom,Soybeans,Plant,0.05,0.02
-Europe,United Kingdom,Nuts inc. Peanut Butter,Plant,4.18,7.4
-Europe,Austria,Pork,Animal,52.56,186.04
-Europe,Austria,Poultry,Animal,18.61,19.99
-Europe,Austria,Beef,Animal,17.14,528.9
-Europe,Austria,Lamb & Goat,Animal,1.16,40.62
-Europe,Austria,Fish,Animal,12.16,19.42
-Europe,Austria,Eggs,Animal,14.68,13.49
-Europe,Austria,Milk - inc. cheese,Animal,258.09,367.62
-Europe,Austria,Wheat and Wheat Products,Plant,81.1,15.47
-Europe,Austria,Rice,Plant,3.7,4.73
-Europe,Austria,Soybeans,Plant,2.06,0.93
-Europe,Austria,Nuts inc. Peanut Butter,Plant,7.88,13.95
-Asia,Oman,Pork,Animal,0.01,0.04
-Asia,Oman,Poultry,Animal,31.51,33.85
-Asia,Oman,Beef,Animal,15.1,465.95
-Asia,Oman,Lamb & Goat,Animal,12.87,450.71
-Asia,Oman,Fish,Animal,21.56,34.42
-Asia,Oman,Eggs,Animal,7.8,7.17
-Asia,Oman,Milk - inc. cheese,Animal,152.28,216.91
-Asia,Oman,Wheat and Wheat Products,Plant,64.1,12.22
-Asia,Oman,Rice,Plant,56.55,72.37
-Asia,Oman,Soybeans,Plant,0.21,0.09
-Asia,Oman,Nuts inc. Peanut Butter,Plant,1.68,2.97
-Europe,Italy,Pork,Animal,40.28,142.57
-Europe,Italy,Poultry,Animal,18.61,19.99
-Europe,Italy,Beef,Animal,18.6,573.96
-Europe,Italy,Lamb & Goat,Animal,0.92,32.22
-Europe,Italy,Fish,Animal,15.6,24.91
-Europe,Italy,Eggs,Animal,13.34,12.25
-Europe,Italy,Milk - inc. cheese,Animal,246.88,351.66
-Europe,Italy,Wheat and Wheat Products,Plant,146.37,27.91
-Europe,Italy,Rice,Plant,5.74,7.35
-Europe,Italy,Soybeans,Plant,0.01,0
-Europe,Italy,Nuts inc. Peanut Butter,Plant,7.63,13.51
-North America,Bahamas,Pork,Animal,32.74,115.88
-North America,Bahamas,Poultry,Animal,45.74,49.13
-North America,Bahamas,Beef,Animal,19.92,614.69
-North America,Bahamas,Lamb & Goat,Animal,5.22,182.8
-North America,Bahamas,Fish,Animal,18.8,30.02
-North America,Bahamas,Eggs,Animal,6.2,5.7
-North America,Bahamas,Milk - inc. cheese,Animal,104.76,149.22
-North America,Bahamas,Wheat and Wheat Products,Plant,39.98,7.62
-North America,Bahamas,Rice,Plant,23.97,30.67
-North America,Bahamas,Soybeans,Plant,0.09,0.04
-North America,Bahamas,Nuts inc. Peanut Butter,Plant,4.03,7.13
-Europe,Portugal,Pork,Animal,37.91,134.18
-Europe,Portugal,Poultry,Animal,30.14,32.38
-Europe,Portugal,Beef,Animal,16.45,507.61
-Europe,Portugal,Lamb & Goat,Animal,2.38,83.35
-Europe,Portugal,Fish,Animal,45.39,72.47
-Europe,Portugal,Eggs,Animal,9.05,8.31
-Europe,Portugal,Milk - inc. cheese,Animal,205.04,292.06
-Europe,Portugal,Wheat and Wheat Products,Plant,94.3,17.98
-Europe,Portugal,Rice,Plant,14.86,19.02
-Europe,Portugal,Soybeans,Plant,0.01,0
-Europe,Portugal,Nuts inc. Peanut Butter,Plant,3.91,6.92
-Europe,Malta,Pork,Animal,34.24,121.19
-Europe,Malta,Poultry,Animal,26.4,28.36
-Europe,Malta,Beef,Animal,19.22,593.09
-Europe,Malta,Lamb & Goat,Animal,1.19,41.67
-Europe,Malta,Fish,Animal,24.58,39.25
-Europe,Malta,Eggs,Animal,11.64,10.69
-Europe,Malta,Milk - inc. cheese,Animal,190.06,270.72
-Europe,Malta,Wheat and Wheat Products,Plant,139.58,26.62
-Europe,Malta,Rice,Plant,4.96,6.35
-Europe,Malta,Soybeans,Plant,0.05,0.02
-Europe,Malta,Nuts inc. Peanut Butter,Plant,5.62,9.95
-Asia,Armenia,Pork,Animal,9.67,34.23
-Asia,Armenia,Poultry,Animal,13.35,14.34
-Asia,Armenia,Beef,Animal,19.66,606.67
-Asia,Armenia,Lamb & Goat,Animal,3.02,105.76
-Asia,Armenia,Fish,Animal,4.36,6.96
-Asia,Armenia,Eggs,Animal,11.69,10.74
-Asia,Armenia,Milk - inc. cheese,Animal,209.03,297.74
-Asia,Armenia,Wheat and Wheat Products,Plant,130.6,24.91
-Asia,Armenia,Rice,Plant,3.18,4.07
-Asia,Armenia,Soybeans,Plant,0,0
-Asia,Armenia,Nuts inc. Peanut Butter,Plant,2.55,4.51
-Europe,Slovenia,Pork,Animal,28.19,99.78
-Europe,Slovenia,Poultry,Animal,23.46,25.2
-Europe,Slovenia,Beef,Animal,18.43,568.71
-Europe,Slovenia,Lamb & Goat,Animal,0.79,27.67
-Europe,Slovenia,Fish,Animal,7.76,12.39
-Europe,Slovenia,Eggs,Animal,9.36,8.6
-Europe,Slovenia,Milk - inc. cheese,Animal,235.01,334.75
-Europe,Slovenia,Wheat and Wheat Products,Plant,103.43,19.72
-Europe,Slovenia,Rice,Plant,3.95,5.05
-Europe,Slovenia,Soybeans,Plant,0.75,0.34
-Europe,Slovenia,Nuts inc. Peanut Butter,Plant,5.28,9.35
-South America,Chile,Pork,Animal,24.68,87.35
-South America,Chile,Poultry,Animal,36.52,39.23
-South America,Chile,Beef,Animal,23.86,736.27
-South America,Chile,Lamb & Goat,Animal,0.42,14.71
-South America,Chile,Fish,Animal,7.65,12.21
-South America,Chile,Eggs,Animal,9.97,9.16
-South America,Chile,Milk - inc. cheese,Animal,116.11,165.39
-South America,Chile,Wheat and Wheat Products,Plant,104.74,19.97
-South America,Chile,Rice,Plant,8.85,11.33
-South America,Chile,Soybeans,Plant,0.04,0.02
-South America,Chile,Nuts inc. Peanut Butter,Plant,2.22,3.93
-South America,Venezuela,Pork,Animal,7.23,25.59
-South America,Venezuela,Poultry,Animal,39.28,42.19
-South America,Venezuela,Beef,Animal,25.89,798.91
-South America,Venezuela,Lamb & Goat,Animal,0.32,11.21
-South America,Venezuela,Fish,Animal,8.34,13.32
-South America,Venezuela,Eggs,Animal,5.63,5.17
-South America,Venezuela,Milk - inc. cheese,Animal,117.79,167.78
-South America,Venezuela,Wheat and Wheat Products,Plant,49.17,9.38
-South America,Venezuela,Rice,Plant,23.39,29.93
-South America,Venezuela,Soybeans,Plant,0,0
-South America,Venezuela,Nuts inc. Peanut Butter,Plant,0.35,0.62
-Europe,Belgium,Pork,Animal,38.65,136.8
-Europe,Belgium,Poultry,Animal,12.2,13.11
-Europe,Belgium,Beef,Animal,15.63,482.31
-Europe,Belgium,Lamb & Goat,Animal,1.32,46.23
-Europe,Belgium,Fish,Animal,18.97,30.29
-Europe,Belgium,Eggs,Animal,12.59,11.57
-Europe,Belgium,Milk - inc. cheese,Animal,236.19,336.43
-Europe,Belgium,Wheat and Wheat Products,Plant,111.91,21.34
-Europe,Belgium,Rice,Plant,8.61,11.02
-Europe,Belgium,Soybeans,Plant,0.07,0.03
-Europe,Belgium,Nuts inc. Peanut Butter,Plant,7.32,12.96
-Europe,Germany,Pork,Animal,51.81,183.38
-Europe,Germany,Poultry,Animal,17.75,19.07
-Europe,Germany,Beef,Animal,13.16,406.09
-Europe,Germany,Lamb & Goat,Animal,0.73,25.56
-Europe,Germany,Fish,Animal,11.16,17.82
-Europe,Germany,Eggs,Animal,12.2,11.21
-Europe,Germany,Milk - inc. cheese,Animal,258.7,368.49
-Europe,Germany,Wheat and Wheat Products,Plant,83.41,15.91
-Europe,Germany,Rice,Plant,3.34,4.27
-Europe,Germany,Soybeans,Plant,0.88,0.4
-Europe,Germany,Nuts inc. Peanut Butter,Plant,7.96,14.09
-Europe,Russia,Pork,Animal,25.66,90.82
-Europe,Russia,Poultry,Animal,27.5,29.54
-Europe,Russia,Beef,Animal,16.98,523.97
-Europe,Russia,Lamb & Goat,Animal,1.4,49.03
-Europe,Russia,Fish,Animal,20.82,33.24
-Europe,Russia,Eggs,Animal,15.43,14.17
-Europe,Russia,Milk - inc. cheese,Animal,163.57,232.99
-Europe,Russia,Wheat and Wheat Products,Plant,130.99,24.98
-Europe,Russia,Rice,Plant,4.71,6.03
-Europe,Russia,Soybeans,Plant,0.05,0.02
-Europe,Russia,Nuts inc. Peanut Butter,Plant,1.62,2.87
-Europe,Croatia,Pork,Animal,42.79,151.46
-Europe,Croatia,Poultry,Animal,8.52,9.15
-Europe,Croatia,Beef,Animal,12.41,382.95
-Europe,Croatia,Lamb & Goat,Animal,1.71,59.88
-Europe,Croatia,Fish,Animal,15.83,25.28
-Europe,Croatia,Eggs,Animal,8.48,7.79
-Europe,Croatia,Milk - inc. cheese,Animal,231.02,329.06
-Europe,Croatia,Wheat and Wheat Products,Plant,106.59,20.33
-Europe,Croatia,Rice,Plant,2.64,3.38
-Europe,Croatia,Soybeans,Plant,0,0
-Europe,Croatia,Nuts inc. Peanut Butter,Plant,3.88,6.87
-Europe,Belarus,Pork,Animal,40.37,142.89
-Europe,Belarus,Poultry,Animal,31.29,33.61
-Europe,Belarus,Beef,Animal,17.11,527.98
-Europe,Belarus,Lamb & Goat,Animal,0.11,3.85
-Europe,Belarus,Fish,Animal,15.75,25.15
-Europe,Belarus,Eggs,Animal,15.86,14.57
-Europe,Belarus,Milk - inc. cheese,Animal,133.73,190.49
-Europe,Belarus,Wheat and Wheat Products,Plant,60.48,11.53
-Europe,Belarus,Rice,Plant,3.17,4.06
-Europe,Belarus,Soybeans,Plant,0.3,0.14
-Europe,Belarus,Nuts inc. Peanut Butter,Plant,3.36,5.95
-Europe,Spain,Pork,Animal,48.92,173.15
-Europe,Spain,Poultry,Animal,28.63,30.75
-Europe,Spain,Beef,Animal,12.15,374.92
-Europe,Spain,Lamb & Goat,Animal,2.16,75.64
-Europe,Spain,Fish,Animal,28.83,46.03
-Europe,Spain,Eggs,Animal,13.32,12.24
-Europe,Spain,Milk - inc. cheese,Animal,164.29,234.01
-Europe,Spain,Wheat and Wheat Products,Plant,93.88,17.9
-Europe,Spain,Rice,Plant,8.32,10.65
-Europe,Spain,Soybeans,Plant,0.02,0.01
-Europe,Spain,Nuts inc. Peanut Butter,Plant,7.44,13.17
-South America,Paraguay,Pork,Animal,26.24,92.88
-South America,Paraguay,Poultry,Animal,6.39,6.86
-South America,Paraguay,Beef,Animal,19.81,611.29
-South America,Paraguay,Lamb & Goat,Animal,0.56,19.61
-South America,Paraguay,Fish,Animal,3.6,5.75
-South America,Paraguay,Eggs,Animal,18.83,17.3
-South America,Paraguay,Milk - inc. cheese,Animal,75.72,107.86
-South America,Paraguay,Wheat and Wheat Products,Plant,31.51,6.01
-South America,Paraguay,Rice,Plant,4.91,6.28
-South America,Paraguay,Soybeans,Plant,0,0
-South America,Paraguay,Nuts inc. Peanut Butter,Plant,1.6,2.83
-Oceania,New Caledonia,Pork,Animal,19.9,70.44
-Oceania,New Caledonia,Poultry,Animal,44.36,47.65
-Oceania,New Caledonia,Beef,Animal,16.07,495.89
-Oceania,New Caledonia,Lamb & Goat,Animal,1.95,68.29
-Oceania,New Caledonia,Fish,Animal,19.38,30.94
-Oceania,New Caledonia,Eggs,Animal,8.85,8.13
-Oceania,New Caledonia,Milk - inc. cheese,Animal,108,153.84
-Oceania,New Caledonia,Wheat and Wheat Products,Plant,81.75,15.59
-Oceania,New Caledonia,Rice,Plant,17.47,22.36
-Oceania,New Caledonia,Soybeans,Plant,0.55,0.25
-Oceania,New Caledonia,Nuts inc. Peanut Butter,Plant,2.96,5.24
-Africa,South Africa,Pork,Animal,4.16,14.72
-Africa,South Africa,Poultry,Animal,37.57,40.36
-Africa,South Africa,Beef,Animal,18.03,556.37
-Africa,South Africa,Lamb & Goat,Animal,4.28,149.89
-Africa,South Africa,Fish,Animal,5.56,8.88
-Africa,South Africa,Eggs,Animal,7.21,6.62
-Africa,South Africa,Milk - inc. cheese,Animal,55.75,79.41
-Africa,South Africa,Wheat and Wheat Products,Plant,60.13,11.47
-Africa,South Africa,Rice,Plant,17.41,22.28
-Africa,South Africa,Soybeans,Plant,1.27,0.57
-Africa,South Africa,Nuts inc. Peanut Butter,Plant,1.04,1.84
-North America,Barbados,Pork,Animal,8.3,29.38
-North America,Barbados,Poultry,Animal,42.62,45.78
-North America,Barbados,Beef,Animal,13.13,405.16
-North America,Barbados,Lamb & Goat,Animal,4.08,142.88
-North America,Barbados,Fish,Animal,37.41,59.73
-North America,Barbados,Eggs,Animal,9.61,8.83
-North America,Barbados,Milk - inc. cheese,Animal,110.48,157.37
-North America,Barbados,Wheat and Wheat Products,Plant,65.71,12.53
-North America,Barbados,Rice,Plant,15.66,20.04
-North America,Barbados,Soybeans,Plant,0.1,0.05
-North America,Barbados,Nuts inc. Peanut Butter,Plant,4.16,7.36
-Europe,Lithuania,Pork,Animal,45.67,161.65
-Europe,Lithuania,Poultry,Animal,26.84,28.83
-Europe,Lithuania,Beef,Animal,4.49,138.55
-Europe,Lithuania,Lamb & Goat,Animal,0.24,8.4
-Europe,Lithuania,Fish,Animal,42.39,67.68
-Europe,Lithuania,Eggs,Animal,13.11,12.04
-Europe,Lithuania,Milk - inc. cheese,Animal,295.46,420.85
-Europe,Lithuania,Wheat and Wheat Products,Plant,121.59,23.19
-Europe,Lithuania,Rice,Plant,3.07,3.93
-Europe,Lithuania,Soybeans,Plant,0.02,0.01
-Europe,Lithuania,Nuts inc. Peanut Butter,Plant,2.13,3.77
-Europe,Turkey,Pork,Animal,0.01,0.04
-Europe,Turkey,Poultry,Animal,18.78,20.17
-Europe,Turkey,Beef,Animal,11.64,359.19
-Europe,Turkey,Lamb & Goat,Animal,4.68,163.89
-Europe,Turkey,Fish,Animal,5.58,8.91
-Europe,Turkey,Eggs,Animal,8.2,7.53
-Europe,Turkey,Milk - inc. cheese,Animal,193.94,276.25
-Europe,Turkey,Wheat and Wheat Products,Plant,169.96,32.41
-Europe,Turkey,Rice,Plant,10.74,13.74
-Europe,Turkey,Soybeans,Plant,1.71,0.77
-Europe,Turkey,Nuts inc. Peanut Butter,Plant,7.97,14.11
-Europe,Estonia,Pork,Animal,29.68,105.05
-Europe,Estonia,Poultry,Animal,21.11,22.68
-Europe,Estonia,Beef,Animal,7.19,221.87
-Europe,Estonia,Lamb & Goat,Animal,0.44,15.41
-Europe,Estonia,Fish,Animal,12.78,20.41
-Europe,Estonia,Eggs,Animal,12.66,11.63
-Europe,Estonia,Milk - inc. cheese,Animal,284.85,405.74
-Europe,Estonia,Wheat and Wheat Products,Plant,89.36,17.04
-Europe,Estonia,Rice,Plant,2.56,3.28
-Europe,Estonia,Soybeans,Plant,0.04,0.02
-Europe,Estonia,Nuts inc. Peanut Butter,Plant,4.29,7.59
-North America,Mexico,Pork,Animal,15.23,53.91
-North America,Mexico,Poultry,Animal,30.12,32.35
-North America,Mexico,Beef,Animal,15.33,473.05
-North America,Mexico,Lamb & Goat,Animal,0.89,31.17
-North America,Mexico,Fish,Animal,7.56,12.07
-North America,Mexico,Eggs,Animal,18.34,16.85
-North America,Mexico,Milk - inc. cheese,Animal,111.87,159.35
-North America,Mexico,Wheat and Wheat Products,Plant,35.21,6.71
-North America,Mexico,Rice,Plant,5.64,7.22
-North America,Mexico,Soybeans,Plant,0.02,0.01
-North America,Mexico,Nuts inc. Peanut Butter,Plant,2.51,4.44
-North America,Costa Rica,Pork,Animal,10.28,36.39
-North America,Costa Rica,Poultry,Animal,24.47,26.29
-North America,Costa Rica,Beef,Animal,15.23,469.97
-North America,Costa Rica,Lamb & Goat,Animal,0.02,0.7
-North America,Costa Rica,Fish,Animal,11.32,18.07
-North America,Costa Rica,Eggs,Animal,10.55,9.69
-North America,Costa Rica,Milk - inc. cheese,Animal,183.28,261.06
-North America,Costa Rica,Wheat and Wheat Products,Plant,39.31,7.5
-North America,Costa Rica,Rice,Plant,45.69,58.47
-North America,Costa Rica,Soybeans,Plant,1.54,0.69
-North America,Costa Rica,Nuts inc. Peanut Butter,Plant,1.38,2.44
-South America,Bolivia,Pork,Animal,8.89,31.47
-South America,Bolivia,Poultry,Animal,34.31,36.86
-South America,Bolivia,Beef,Animal,19.78,610.37
-South America,Bolivia,Lamb & Goat,Animal,1.72,60.23
-South America,Bolivia,Fish,Animal,2.18,3.48
-South America,Bolivia,Eggs,Animal,5.18,4.76
-South America,Bolivia,Milk - inc. cheese,Animal,46.04,65.58
-South America,Bolivia,Wheat and Wheat Products,Plant,49.99,9.53
-South America,Bolivia,Rice,Plant,26.99,34.54
-South America,Bolivia,Soybeans,Plant,0.01,0
-South America,Bolivia,Nuts inc. Peanut Butter,Plant,9.16,16.21
-South America,Ecuador,Pork,Animal,14.44,51.11
-South America,Ecuador,Poultry,Animal,21.85,23.47
-South America,Ecuador,Beef,Animal,16.61,512.55
-South America,Ecuador,Lamb & Goat,Animal,0.44,15.41
-South America,Ecuador,Fish,Animal,5.17,8.25
-South America,Ecuador,Eggs,Animal,8.01,7.36
-South America,Ecuador,Milk - inc. cheese,Animal,139.6,198.85
-South America,Ecuador,Wheat and Wheat Products,Plant,39.19,7.47
-South America,Ecuador,Rice,Plant,45.07,57.68
-South America,Ecuador,Soybeans,Plant,0,0
-South America,Ecuador,Nuts inc. Peanut Butter,Plant,0.98,1.73
-North America,Panama,Pork,Animal,13.48,47.71
-North America,Panama,Poultry,Animal,30.81,33.1
-North America,Panama,Beef,Animal,20.4,629.5
-North America,Panama,Lamb & Goat,Animal,0.01,0.35
-North America,Panama,Fish,Animal,11.05,17.64
-North America,Panama,Eggs,Animal,4.53,4.16
-North America,Panama,Milk - inc. cheese,Animal,70.29,100.12
-North America,Panama,Wheat and Wheat Products,Plant,38.96,7.43
-North America,Panama,Rice,Plant,66.42,85
-North America,Panama,Soybeans,Plant,3.53,1.59
-North America,Panama,Nuts inc. Peanut Butter,Plant,1.05,1.86
-Europe,Czech Republic,Pork,Animal,41.17,145.72
-Europe,Czech Republic,Poultry,Animal,19.09,20.51
-Europe,Czech Republic,Beef,Animal,8.15,251.49
-Europe,Czech Republic,Lamb & Goat,Animal,0.34,11.91
-Europe,Czech Republic,Fish,Animal,8.25,13.17
-Europe,Czech Republic,Eggs,Animal,11.66,10.71
-Europe,Czech Republic,Milk - inc. cheese,Animal,195.2,278.04
-Europe,Czech Republic,Wheat and Wheat Products,Plant,92.67,17.67
-Europe,Czech Republic,Rice,Plant,4.79,6.13
-Europe,Czech Republic,Soybeans,Plant,0.82,0.37
-Europe,Czech Republic,Nuts inc. Peanut Butter,Plant,2.47,4.37
-Europe,Romania,Pork,Animal,25.31,89.58
-Europe,Romania,Poultry,Animal,15.38,16.52
-Europe,Romania,Beef,Animal,4.78,147.5
-Europe,Romania,Lamb & Goat,Animal,3.41,119.42
-Europe,Romania,Fish,Animal,6.07,9.69
-Europe,Romania,Eggs,Animal,12.94,11.89
-Europe,Romania,Milk - inc. cheese,Animal,238.33,339.48
-Europe,Romania,Wheat and Wheat Products,Plant,134.87,25.72
-Europe,Romania,Rice,Plant,2.59,3.31
-Europe,Romania,Soybeans,Plant,0.01,0
-Europe,Romania,Nuts inc. Peanut Butter,Plant,1.8,3.19
-South America,Colombia,Pork,Animal,6.51,23.04
-South America,Colombia,Poultry,Animal,27.57,29.62
-South America,Colombia,Beef,Animal,16.36,504.84
-South America,Colombia,Lamb & Goat,Animal,0.21,7.35
-South America,Colombia,Fish,Animal,6.01,9.6
-South America,Colombia,Eggs,Animal,10.78,9.9
-South America,Colombia,Milk - inc. cheese,Animal,108.47,154.5
-South America,Colombia,Wheat and Wheat Products,Plant,29.79,5.68
-South America,Colombia,Rice,Plant,28.02,35.86
-South America,Colombia,Soybeans,Plant,0.89,0.4
-South America,Colombia,Nuts inc. Peanut Butter,Plant,0.42,0.74
-Asia,Maldives,Pork,Animal,1.22,4.32
-Asia,Maldives,Poultry,Animal,18.47,19.84
-Asia,Maldives,Beef,Animal,9.44,291.3
-Asia,Maldives,Lamb & Goat,Animal,0.7,24.51
-Asia,Maldives,Fish,Animal,179.71,286.94
-Asia,Maldives,Eggs,Animal,10.79,9.91
-Asia,Maldives,Milk - inc. cheese,Animal,111.47,158.78
-Asia,Maldives,Wheat and Wheat Products,Plant,77.77,14.83
-Asia,Maldives,Rice,Plant,50.73,64.92
-Asia,Maldives,Soybeans,Plant,0.2,0.09
-Asia,Maldives,Nuts inc. Peanut Butter,Plant,15.83,28.02
-Europe,Cyprus,Pork,Animal,38.38,135.85
-Europe,Cyprus,Poultry,Animal,24.45,26.26
-Europe,Cyprus,Beef,Animal,5.79,178.67
-Europe,Cyprus,Lamb & Goat,Animal,5.05,176.85
-Europe,Cyprus,Fish,Animal,14.86,23.73
-Europe,Cyprus,Eggs,Animal,8.98,8.25
-Europe,Cyprus,Milk - inc. cheese,Animal,113.31,161.4
-Europe,Cyprus,Wheat and Wheat Products,Plant,83.25,15.88
-Europe,Cyprus,Rice,Plant,4.94,6.32
-Europe,Cyprus,Soybeans,Plant,0.04,0.02
-Europe,Cyprus,Nuts inc. Peanut Butter,Plant,4.6,8.14
-Europe,Serbia,Pork,Animal,32.04,113.41
-Europe,Serbia,Poultry,Animal,10.64,11.43
-Europe,Serbia,Beef,Animal,7.05,217.55
-Europe,Serbia,Lamb & Goat,Animal,3.56,124.67
-Europe,Serbia,Fish,Animal,5.59,8.93
-Europe,Serbia,Eggs,Animal,8.89,8.17
-Europe,Serbia,Milk - inc. cheese,Animal,148.53,211.57
-Europe,Serbia,Wheat and Wheat Products,Plant,105.88,20.19
-Europe,Serbia,Rice,Plant,1.22,1.56
-Europe,Serbia,Soybeans,Plant,0,0
-Europe,Serbia,Nuts inc. Peanut Butter,Plant,3.31,5.86
-Asia,United Arab Emirates,Pork,Animal,0,0
-Asia,United Arab Emirates,Poultry,Animal,41.04,44.09
-Asia,United Arab Emirates,Beef,Animal,5.64,174.04
-Asia,United Arab Emirates,Lamb & Goat,Animal,9.08,317.98
-Asia,United Arab Emirates,Fish,Animal,20.41,32.59
-Asia,United Arab Emirates,Eggs,Animal,8.23,7.56
-Asia,United Arab Emirates,Milk - inc. cheese,Animal,132.66,188.96
-Asia,United Arab Emirates,Wheat and Wheat Products,Plant,101.29,19.32
-Asia,United Arab Emirates,Rice,Plant,56.25,71.98
-Asia,United Arab Emirates,Soybeans,Plant,0.08,0.04
-Asia,United Arab Emirates,Nuts inc. Peanut Butter,Plant,23.03,40.76
-Africa,Algeria,Pork,Animal,0,0
-Africa,Algeria,Poultry,Animal,7.42,7.97
-Africa,Algeria,Beef,Animal,5.6,172.8
-Africa,Algeria,Lamb & Goat,Animal,7.69,269.3
-Africa,Algeria,Fish,Animal,3.74,5.97
-Africa,Algeria,Eggs,Animal,8.06,7.4
-Africa,Algeria,Milk - inc. cheese,Animal,141.53,201.6
-Africa,Algeria,Wheat and Wheat Products,Plant,185.42,35.36
-Africa,Algeria,Rice,Plant,2.97,3.8
-Africa,Algeria,Soybeans,Plant,0,0
-Africa,Algeria,Nuts inc. Peanut Butter,Plant,2.08,3.68
-Europe,Ukraine,Pork,Animal,20.56,72.77
-Europe,Ukraine,Poultry,Animal,24.23,26.03
-Europe,Ukraine,Beef,Animal,8.96,276.49
-Europe,Ukraine,Lamb & Goat,Animal,0.41,14.36
-Europe,Ukraine,Fish,Animal,15.23,24.32
-Europe,Ukraine,Eggs,Animal,18.01,16.54
-Europe,Ukraine,Milk - inc. cheese,Animal,145.03,206.58
-Europe,Ukraine,Wheat and Wheat Products,Plant,105.15,20.05
-Europe,Ukraine,Rice,Plant,3,3.84
-Europe,Ukraine,Soybeans,Plant,0.02,0.01
-Europe,Ukraine,Nuts inc. Peanut Butter,Plant,2.68,4.74
-Asia,Pakistan,Pork,Animal,0,0
-Asia,Pakistan,Poultry,Animal,5.01,5.38
-Asia,Pakistan,Beef,Animal,8.82,272.17
-Asia,Pakistan,Lamb & Goat,Animal,2.46,86.15
-Asia,Pakistan,Fish,Animal,1.87,2.99
-Asia,Pakistan,Eggs,Animal,2.95,2.71
-Asia,Pakistan,Milk - inc. cheese,Animal,183.13,260.85
-Asia,Pakistan,Wheat and Wheat Products,Plant,113.63,21.67
-Asia,Pakistan,Rice,Plant,12.25,15.68
-Asia,Pakistan,Soybeans,Plant,0,0
-Asia,Pakistan,Nuts inc. Peanut Butter,Plant,0.83,1.47
-Africa,Swaziland,Pork,Animal,2.43,8.6
-Africa,Swaziland,Poultry,Animal,6.18,6.64
-Africa,Swaziland,Beef,Animal,15.1,465.95
-Africa,Swaziland,Lamb & Goat,Animal,1.94,67.94
-Africa,Swaziland,Fish,Animal,1.26,2.01
-Africa,Swaziland,Eggs,Animal,1.5,1.38
-Africa,Swaziland,Milk - inc. cheese,Animal,56.6,80.62
-Africa,Swaziland,Wheat and Wheat Products,Plant,37.15,7.08
-Africa,Swaziland,Rice,Plant,21.15,27.07
-Africa,Swaziland,Soybeans,Plant,0.55,0.25
-Africa,Swaziland,Nuts inc. Peanut Butter,Plant,6.44,11.4
-Europe,Latvia,Pork,Animal,34.96,123.74
-Europe,Latvia,Poultry,Animal,20.53,22.05
-Europe,Latvia,Beef,Animal,5.11,157.68
-Europe,Latvia,Lamb & Goat,Animal,0.34,11.91
-Europe,Latvia,Fish,Animal,21.3,34.01
-Europe,Latvia,Eggs,Animal,14.03,12.89
-Europe,Latvia,Milk - inc. cheese,Animal,174.11,248
-Europe,Latvia,Wheat and Wheat Products,Plant,72.13,13.76
-Europe,Latvia,Rice,Plant,2.21,2.83
-Europe,Latvia,Soybeans,Plant,0.04,0.02
-Europe,Latvia,Nuts inc. Peanut Butter,Plant,3.78,6.69
-Europe,Bosnia and Herzegovina,Pork,Animal,9.38,33.2
-Europe,Bosnia and Herzegovina,Poultry,Animal,13.17,14.15
-Europe,Bosnia and Herzegovina,Beef,Animal,9.12,281.42
-Europe,Bosnia and Herzegovina,Lamb & Goat,Animal,0.47,16.46
-Europe,Bosnia and Herzegovina,Fish,Animal,4.06,6.48
-Europe,Bosnia and Herzegovina,Eggs,Animal,4.49,4.12
-Europe,Bosnia and Herzegovina,Milk - inc. cheese,Animal,174.03,247.89
-Europe,Bosnia and Herzegovina,Wheat and Wheat Products,Plant,93.56,17.84
-Europe,Bosnia and Herzegovina,Rice,Plant,1.88,2.41
-Europe,Bosnia and Herzegovina,Soybeans,Plant,1.48,0.67
-Europe,Bosnia and Herzegovina,Nuts inc. Peanut Butter,Plant,2,3.54
-Oceania,Fiji,Pork,Animal,4.31,15.26
-Oceania,Fiji,Poultry,Animal,20.26,21.76
-Oceania,Fiji,Beef,Animal,8.96,276.49
-Oceania,Fiji,Lamb & Goat,Animal,5.9,206.62
-Oceania,Fiji,Fish,Animal,35.01,55.9
-Oceania,Fiji,Eggs,Animal,6.44,5.92
-Oceania,Fiji,Milk - inc. cheese,Animal,40.2,57.26
-Oceania,Fiji,Wheat and Wheat Products,Plant,84.22,16.06
-Oceania,Fiji,Rice,Plant,45.62,58.38
-Oceania,Fiji,Soybeans,Plant,0.3,0.14
-Oceania,Fiji,Nuts inc. Peanut Butter,Plant,1.3,2.3
-Asia,South Korea,Pork,Animal,32.76,115.95
-Asia,South Korea,Poultry,Animal,16,17.19
-Asia,South Korea,Beef,Animal,14.53,448.37
-Asia,South Korea,Lamb & Goat,Animal,0.14,4.9
-Asia,South Korea,Fish,Animal,33.09,52.83
-Asia,South Korea,Eggs,Animal,11.24,10.33
-Asia,South Korea,Milk - inc. cheese,Animal,29.05,41.38
-Asia,South Korea,Wheat and Wheat Products,Plant,50.84,9.7
-Asia,South Korea,Rice,Plant,85.18,109
-Asia,South Korea,Soybeans,Plant,8.35,3.76
-Asia,South Korea,Nuts inc. Peanut Butter,Plant,4.88,8.64
-Europe,Poland,Pork,Animal,46.19,163.49
-Europe,Poland,Poultry,Animal,27.41,29.44
-Europe,Poland,Beef,Animal,2.32,71.59
-Europe,Poland,Lamb & Goat,Animal,0.02,0.7
-Europe,Poland,Fish,Animal,10.49,16.75
-Europe,Poland,Eggs,Animal,7.53,6.92
-Europe,Poland,Milk - inc. cheese,Animal,205.39,292.56
-Europe,Poland,Wheat and Wheat Products,Plant,108.83,20.75
-Europe,Poland,Rice,Plant,0.95,1.22
-Europe,Poland,Soybeans,Plant,0.06,0.03
-Europe,Poland,Nuts inc. Peanut Butter,Plant,2.23,3.95
-Asia,Saudi Arabia,Pork,Animal,0,0
-Asia,Saudi Arabia,Poultry,Animal,49.05,52.69
-Asia,Saudi Arabia,Beef,Animal,6.45,199.03
-Asia,Saudi Arabia,Lamb & Goat,Animal,6.54,229.03
-Asia,Saudi Arabia,Fish,Animal,11.99,19.14
-Asia,Saudi Arabia,Eggs,Animal,5.37,4.93
-Asia,Saudi Arabia,Milk - inc. cheese,Animal,83.65,119.15
-Asia,Saudi Arabia,Wheat and Wheat Products,Plant,89.47,17.06
-Asia,Saudi Arabia,Rice,Plant,36.02,46.09
-Asia,Saudi Arabia,Soybeans,Plant,0.05,0.02
-Asia,Saudi Arabia,Nuts inc. Peanut Butter,Plant,3.23,5.72
-Africa,Botswana,Pork,Animal,0.74,2.62
-Africa,Botswana,Poultry,Animal,5.33,5.73
-Africa,Botswana,Beef,Animal,7.85,242.23
-Africa,Botswana,Lamb & Goat,Animal,3.76,131.67
-Africa,Botswana,Fish,Animal,3.98,6.35
-Africa,Botswana,Eggs,Animal,1.95,1.79
-Africa,Botswana,Milk - inc. cheese,Animal,117.74,167.71
-Africa,Botswana,Wheat and Wheat Products,Plant,38.2,7.28
-Africa,Botswana,Rice,Plant,7.06,9.03
-Africa,Botswana,Soybeans,Plant,1.16,0.52
-Africa,Botswana,Nuts inc. Peanut Butter,Plant,1.08,1.91
-Europe,Macedonia,Pork,Animal,10.35,36.63
-Europe,Macedonia,Poultry,Animal,18.77,20.16
-Europe,Macedonia,Beef,Animal,7.69,237.3
-Europe,Macedonia,Lamb & Goat,Animal,0.94,32.92
-Europe,Macedonia,Fish,Animal,5.47,8.73
-Europe,Macedonia,Eggs,Animal,6.38,5.86
-Europe,Macedonia,Milk - inc. cheese,Animal,157.93,224.96
-Europe,Macedonia,Wheat and Wheat Products,Plant,104.8,19.99
-Europe,Macedonia,Rice,Plant,2.81,3.6
-Europe,Macedonia,Soybeans,Plant,0.46,0.21
-Europe,Macedonia,Nuts inc. Peanut Butter,Plant,5.87,10.39
-Europe,Hungary,Pork,Animal,34.93,123.63
-Europe,Hungary,Poultry,Animal,23.78,25.54
-Europe,Hungary,Beef,Animal,4.96,153.06
-Europe,Hungary,Lamb & Goat,Animal,0.11,3.85
-Europe,Hungary,Fish,Animal,4.93,7.87
-Europe,Hungary,Eggs,Animal,12.45,11.44
-Europe,Hungary,Milk - inc. cheese,Animal,159.05,226.55
-Europe,Hungary,Wheat and Wheat Products,Plant,109.98,20.97
-Europe,Hungary,Rice,Plant,2.15,2.75
-Europe,Hungary,Soybeans,Plant,0.01,0
-Europe,Hungary,Nuts inc. Peanut Butter,Plant,0.64,1.13
-South America,Trinidad and Tobago,Pork,Animal,8.92,31.57
-South America,Trinidad and Tobago,Poultry,Animal,58.27,62.59
-South America,Trinidad and Tobago,Beef,Animal,6.13,189.16
-South America,Trinidad and Tobago,Lamb & Goat,Animal,2.79,97.71
-South America,Trinidad and Tobago,Fish,Animal,20.54,32.8
-South America,Trinidad and Tobago,Eggs,Animal,4.2,3.86
-South America,Trinidad and Tobago,Milk - inc. cheese,Animal,103.8,147.85
-South America,Trinidad and Tobago,Wheat and Wheat Products,Plant,90.17,17.2
-South America,Trinidad and Tobago,Rice,Plant,16.38,20.96
-South America,Trinidad and Tobago,Soybeans,Plant,0.04,0.02
-South America,Trinidad and Tobago,Nuts inc. Peanut Butter,Plant,3.78,6.69
-Africa,Tunisia,Pork,Animal,0,0
-Africa,Tunisia,Poultry,Animal,18.5,19.87
-Africa,Tunisia,Beef,Animal,5.53,170.64
-Africa,Tunisia,Lamb & Goat,Animal,5.34,187.01
-Africa,Tunisia,Fish,Animal,12.63,20.17
-Africa,Tunisia,Eggs,Animal,7.67,7.05
-Africa,Tunisia,Milk - inc. cheese,Animal,114.47,163.05
-Africa,Tunisia,Wheat and Wheat Products,Plant,197.5,37.66
-Africa,Tunisia,Rice,Plant,1.07,1.37
-Africa,Tunisia,Soybeans,Plant,1.88,0.85
-Africa,Tunisia,Nuts inc. Peanut Butter,Plant,6.34,11.22
-Africa,Egypt,Pork,Animal,0.02,0.07
-Africa,Egypt,Poultry,Animal,14.43,15.5
-Africa,Egypt,Beef,Animal,12.88,397.45
-Africa,Egypt,Lamb & Goat,Animal,1.58,55.33
-Africa,Egypt,Fish,Animal,21.46,34.26
-Africa,Egypt,Eggs,Animal,4.59,4.22
-Africa,Egypt,Milk - inc. cheese,Animal,59.46,84.69
-Africa,Egypt,Wheat and Wheat Products,Plant,146.83,28
-Africa,Egypt,Rice,Plant,39.77,50.89
-Africa,Egypt,Soybeans,Plant,0.64,0.29
-Africa,Egypt,Nuts inc. Peanut Butter,Plant,1.82,3.22
-Africa,Mauritius,Pork,Animal,4.08,14.44
-Africa,Mauritius,Poultry,Animal,38.51,41.37
-Africa,Mauritius,Beef,Animal,5.99,184.84
-Africa,Mauritius,Lamb & Goat,Animal,4.08,142.88
-Africa,Mauritius,Fish,Animal,19.66,31.39
-Africa,Mauritius,Eggs,Animal,6.32,5.81
-Africa,Mauritius,Milk - inc. cheese,Animal,117.27,167.04
-Africa,Mauritius,Wheat and Wheat Products,Plant,114.02,21.74
-Africa,Mauritius,Rice,Plant,45.56,58.3
-Africa,Mauritius,Soybeans,Plant,0.3,0.14
-Africa,Mauritius,Nuts inc. Peanut Butter,Plant,2.33,4.12
-Europe,Bulgaria,Pork,Animal,26.26,92.95
-Europe,Bulgaria,Poultry,Animal,20.68,22.21
-Europe,Bulgaria,Beef,Animal,3.84,118.49
-Europe,Bulgaria,Lamb & Goat,Animal,1.63,57.08
-Europe,Bulgaria,Fish,Animal,6.24,9.96
-Europe,Bulgaria,Eggs,Animal,8.36,7.68
-Europe,Bulgaria,Milk - inc. cheese,Animal,155.71,221.79
-Europe,Bulgaria,Wheat and Wheat Products,Plant,121.17,23.11
-Europe,Bulgaria,Rice,Plant,2.24,2.87
-Europe,Bulgaria,Soybeans,Plant,0.04,0.02
-Europe,Bulgaria,Nuts inc. Peanut Butter,Plant,2.26,4
-Africa,Morocco,Pork,Animal,0.01,0.04
-Africa,Morocco,Poultry,Animal,20.77,22.31
-Africa,Morocco,Beef,Animal,8.04,248.1
-Africa,Morocco,Lamb & Goat,Animal,4.36,152.69
-Africa,Morocco,Fish,Animal,17.44,27.85
-Africa,Morocco,Eggs,Animal,6.68,6.14
-Africa,Morocco,Milk - inc. cheese,Animal,54.68,77.89
-Africa,Morocco,Wheat and Wheat Products,Plant,179.7,34.27
-Africa,Morocco,Rice,Plant,1.1,1.41
-Africa,Morocco,Soybeans,Plant,0,0
-Africa,Morocco,Nuts inc. Peanut Butter,Plant,3.23,5.72
-Europe,Slovakia,Pork,Animal,31.78,112.49
-Europe,Slovakia,Poultry,Animal,15.13,16.25
-Europe,Slovakia,Beef,Animal,5.19,160.15
-Europe,Slovakia,Lamb & Goat,Animal,0.16,5.6
-Europe,Slovakia,Fish,Animal,8.39,13.4
-Europe,Slovakia,Eggs,Animal,16.05,14.74
-Europe,Slovakia,Milk - inc. cheese,Animal,143.14,203.89
-Europe,Slovakia,Wheat and Wheat Products,Plant,123.62,23.57
-Europe,Slovakia,Rice,Plant,2.88,3.69
-Europe,Slovakia,Soybeans,Plant,0.02,0.01
-Europe,Slovakia,Nuts inc. Peanut Butter,Plant,3.7,6.55
-Africa,Niger,Pork,Animal,0.09,0.32
-Africa,Niger,Poultry,Animal,1.08,1.16
-Africa,Niger,Beef,Animal,8.97,276.8
-Africa,Niger,Lamb & Goat,Animal,4.17,146.03
-Africa,Niger,Fish,Animal,2.7,4.31
-Africa,Niger,Eggs,Animal,0.3,0.28
-Africa,Niger,Milk - inc. cheese,Animal,58.92,83.93
-Africa,Niger,Wheat and Wheat Products,Plant,4.79,0.91
-Africa,Niger,Rice,Plant,13.17,16.85
-Africa,Niger,Soybeans,Plant,0,0
-Africa,Niger,Nuts inc. Peanut Butter,Plant,6.95,12.3
-Africa,Kenya,Pork,Animal,0.29,1.03
-Africa,Kenya,Poultry,Animal,0.47,0.5
-Africa,Kenya,Beef,Animal,9.54,294.38
-Africa,Kenya,Lamb & Goat,Animal,1.86,65.14
-Africa,Kenya,Fish,Animal,4.27,6.82
-Africa,Kenya,Eggs,Animal,1.84,1.69
-Africa,Kenya,Milk - inc. cheese,Animal,94.86,135.12
-Africa,Kenya,Wheat and Wheat Products,Plant,34.65,6.61
-Africa,Kenya,Rice,Plant,12.94,16.56
-Africa,Kenya,Soybeans,Plant,0.2,0.09
-Africa,Kenya,Nuts inc. Peanut Butter,Plant,1.64,2.9
-Asia,Jordan,Pork,Animal,0.02,0.07
-Asia,Jordan,Poultry,Animal,33.39,35.87
-Asia,Jordan,Beef,Animal,5.61,173.11
-Asia,Jordan,Lamb & Goat,Animal,5.68,198.91
-Asia,Jordan,Fish,Animal,5.13,8.19
-Asia,Jordan,Eggs,Animal,3.92,3.6
-Asia,Jordan,Milk - inc. cheese,Animal,77.68,110.65
-Asia,Jordan,Wheat and Wheat Products,Plant,136.74,26.08
-Asia,Jordan,Rice,Plant,19.67,25.17
-Asia,Jordan,Soybeans,Plant,0.02,0.01
-Asia,Jordan,Nuts inc. Peanut Butter,Plant,3.56,6.3
-Asia,Japan,Pork,Animal,20.62,72.98
-Asia,Japan,Poultry,Animal,19.42,20.86
-Asia,Japan,Beef,Animal,9.15,282.35
-Asia,Japan,Lamb & Goat,Animal,0.14,4.9
-Asia,Japan,Fish,Animal,31.1,49.66
-Asia,Japan,Eggs,Animal,19.15,17.59
-Asia,Japan,Milk - inc. cheese,Animal,72.06,102.64
-Asia,Japan,Wheat and Wheat Products,Plant,45.04,8.59
-Asia,Japan,Rice,Plant,59.85,76.59
-Asia,Japan,Soybeans,Plant,7.34,3.3
-Asia,Japan,Nuts inc. Peanut Butter,Plant,2.59,4.58
-Europe,Georgia,Pork,Animal,8.93,31.61
-Europe,Georgia,Poultry,Animal,12.28,13.19
-Europe,Georgia,Beef,Animal,6.04,186.38
-Europe,Georgia,Lamb & Goat,Animal,0.63,22.06
-Europe,Georgia,Fish,Animal,10.42,16.64
-Europe,Georgia,Eggs,Animal,6.12,5.62
-Europe,Georgia,Milk - inc. cheese,Animal,149.26,212.61
-Europe,Georgia,Wheat and Wheat Products,Plant,163.43,31.17
-Europe,Georgia,Rice,Plant,2.64,3.38
-Europe,Georgia,Soybeans,Plant,0,0
-Europe,Georgia,Nuts inc. Peanut Butter,Plant,2.47,4.37
-North America,Grenada,Pork,Animal,11.52,40.78
-North America,Grenada,Poultry,Animal,43.51,46.74
-North America,Grenada,Beef,Animal,3.46,106.77
-North America,Grenada,Lamb & Goat,Animal,1.25,43.77
-North America,Grenada,Fish,Animal,27.95,44.63
-North America,Grenada,Eggs,Animal,10.34,9.5
-North America,Grenada,Milk - inc. cheese,Animal,86.88,123.75
-North America,Grenada,Wheat and Wheat Products,Plant,59.59,11.36
-North America,Grenada,Rice,Plant,9.56,12.23
-North America,Grenada,Soybeans,Plant,0.01,0
-North America,Grenada,Nuts inc. Peanut Butter,Plant,0.18,0.32
-North America,El Salvador,Pork,Animal,3.23,11.43
-North America,El Salvador,Poultry,Animal,19.84,21.31
-North America,El Salvador,Beef,Animal,5.95,183.6
-North America,El Salvador,Lamb & Goat,Animal,0.02,0.7
-North America,El Salvador,Fish,Animal,6.25,9.98
-North America,El Salvador,Eggs,Animal,9.51,8.74
-North America,El Salvador,Milk - inc. cheese,Animal,124.34,177.11
-North America,El Salvador,Wheat and Wheat Products,Plant,28.19,5.38
-North America,El Salvador,Rice,Plant,10.53,13.48
-North America,El Salvador,Soybeans,Plant,0.8,0.36
-North America,El Salvador,Nuts inc. Peanut Butter,Plant,1.1,1.95
-North America,Cuba,Pork,Animal,19.82,70.15
-North America,Cuba,Poultry,Animal,20.15,21.65
-North America,Cuba,Beef,Animal,6.39,197.18
-North America,Cuba,Lamb & Goat,Animal,1.24,43.42
-North America,Cuba,Fish,Animal,4.76,7.6
-North America,Cuba,Eggs,Animal,9.82,9.02
-North America,Cuba,Milk - inc. cheese,Animal,99.94,142.35
-North America,Cuba,Wheat and Wheat Products,Plant,54.62,10.42
-North America,Cuba,Rice,Plant,67.7,86.64
-North America,Cuba,Soybeans,Plant,6.34,2.85
-North America,Cuba,Nuts inc. Peanut Butter,Plant,0.23,0.41
-Asia,China,Pork,Animal,38.43,136.02
-Asia,China,Poultry,Animal,13.2,14.18
-Asia,China,Beef,Animal,5.12,157.99
-Asia,China,Lamb & Goat,Animal,3.13,109.61
-Asia,China,Fish,Animal,21.01,33.55
-Asia,China,Eggs,Animal,18.76,17.23
-Asia,China,Milk - inc. cheese,Animal,32.66,46.52
-Asia,China,Wheat and Wheat Products,Plant,63.36,12.08
-Asia,China,Rice,Plant,78.18,100.05
-Asia,China,Soybeans,Plant,3.66,1.65
-Asia,China,Nuts inc. Peanut Butter,Plant,6.39,11.31
-North America,Honduras,Pork,Animal,6.48,22.94
-North America,Honduras,Poultry,Animal,20.29,21.8
-North America,Honduras,Beef,Animal,7.19,221.87
-North America,Honduras,Lamb & Goat,Animal,0.04,1.4
-North America,Honduras,Fish,Animal,2.7,4.31
-North America,Honduras,Eggs,Animal,5.19,4.77
-North America,Honduras,Milk - inc. cheese,Animal,91.33,130.09
-North America,Honduras,Wheat and Wheat Products,Plant,37.36,7.12
-North America,Honduras,Rice,Plant,14.42,18.45
-North America,Honduras,Soybeans,Plant,0.01,0
-North America,Honduras,Nuts inc. Peanut Butter,Plant,0.75,1.33
-Asia,Taiwan. ROC,Pork,Animal,39.37,139.35
-Asia,Taiwan. ROC,Poultry,Animal,32.13,34.51
-Asia,Taiwan. ROC,Beef,Animal,5.21,160.77
-Asia,Taiwan. ROC,Lamb & Goat,Animal,0.92,32.22
-Asia,Taiwan. ROC,Fish,Animal,18.29,29.2
-Asia,Taiwan. ROC,Eggs,Animal,13.08,12.02
-Asia,Taiwan. ROC,Milk - inc. cheese,Animal,41.72,59.43
-Asia,Taiwan. ROC,Wheat and Wheat Products,Plant,50.92,9.71
-Asia,Taiwan. ROC,Rice,Plant,45.85,58.67
-Asia,Taiwan. ROC,Soybeans,Plant,16.95,7.63
-Asia,Taiwan. ROC,Nuts inc. Peanut Butter,Plant,9.06,16.04
-Africa,Angola,Pork,Animal,8.89,31.47
-Africa,Angola,Poultry,Animal,17.33,18.62
-Africa,Angola,Beef,Animal,8.42,259.82
-Africa,Angola,Lamb & Goat,Animal,1.08,37.82
-Africa,Angola,Fish,Animal,15.24,24.33
-Africa,Angola,Eggs,Animal,1.11,1.02
-Africa,Angola,Milk - inc. cheese,Animal,12.3,17.52
-Africa,Angola,Wheat and Wheat Products,Plant,40.72,7.77
-Africa,Angola,Rice,Plant,8.12,10.39
-Africa,Angola,Soybeans,Plant,0.52,0.23
-Africa,Angola,Nuts inc. Peanut Butter,Plant,2.26,4
-North America,Jamaica,Pork,Animal,3.99,14.12
-North America,Jamaica,Poultry,Animal,52.51,56.41
-North America,Jamaica,Beef,Animal,3.97,122.51
-North America,Jamaica,Lamb & Goat,Animal,1.26,44.13
-North America,Jamaica,Fish,Animal,21.95,35.05
-North America,Jamaica,Eggs,Animal,2.27,2.09
-North America,Jamaica,Milk - inc. cheese,Animal,91.13,129.81
-North America,Jamaica,Wheat and Wheat Products,Plant,70.67,13.48
-North America,Jamaica,Rice,Plant,23.45,30.01
-North America,Jamaica,Soybeans,Plant,0,0
-North America,Jamaica,Nuts inc. Peanut Butter,Plant,1.82,3.22
-Africa,Namibia,Pork,Animal,4.21,14.9
-Africa,Namibia,Poultry,Animal,12.19,13.09
-Africa,Namibia,Beef,Animal,3.75,115.72
-Africa,Namibia,Lamb & Goat,Animal,2.27,79.5
-Africa,Namibia,Fish,Animal,10.7,17.08
-Africa,Namibia,Eggs,Animal,1.63,1.5
-Africa,Namibia,Milk - inc. cheese,Animal,73.05,104.05
-Africa,Namibia,Wheat and Wheat Products,Plant,36.26,6.91
-Africa,Namibia,Rice,Plant,6.31,8.07
-Africa,Namibia,Soybeans,Plant,0.07,0.03
-Africa,Namibia,Nuts inc. Peanut Butter,Plant,0.71,1.26
-North America,Belize,Pork,Animal,16.8,59.46
-North America,Belize,Poultry,Animal,28.31,30.41
-North America,Belize,Beef,Animal,4.86,149.97
-North America,Belize,Lamb & Goat,Animal,0.14,4.9
-North America,Belize,Fish,Animal,7.57,12.09
-North America,Belize,Eggs,Animal,4.85,4.46
-North America,Belize,Milk - inc. cheese,Animal,80.3,114.38
-North America,Belize,Wheat and Wheat Products,Plant,54.06,10.31
-North America,Belize,Rice,Plant,28.42,36.37
-North America,Belize,Soybeans,Plant,1.88,0.85
-North America,Belize,Nuts inc. Peanut Butter,Plant,5.58,9.88
-Asia,Malaysia,Pork,Animal,7.76,27.47
-Asia,Malaysia,Poultry,Animal,41.01,44.05
-Asia,Malaysia,Beef,Animal,6.52,201.19
-Asia,Malaysia,Lamb & Goat,Animal,0.94,32.92
-Asia,Malaysia,Fish,Animal,49.43,78.92
-Asia,Malaysia,Eggs,Animal,16.57,15.22
-Asia,Malaysia,Milk - inc. cheese,Animal,25.28,36.01
-Asia,Malaysia,Wheat and Wheat Products,Plant,51.04,9.73
-Asia,Malaysia,Rice,Plant,81.25,103.98
-Asia,Malaysia,Soybeans,Plant,0.04,0.02
-Asia,Malaysia,Nuts inc. Peanut Butter,Plant,2.9,5.13
-Africa,Zimbabwe,Pork,Animal,2.65,9.38
-Africa,Zimbabwe,Poultry,Animal,4.97,5.34
-Africa,Zimbabwe,Beef,Animal,7.37,227.42
-Africa,Zimbabwe,Lamb & Goat,Animal,0.96,33.62
-Africa,Zimbabwe,Fish,Animal,2.8,4.47
-Africa,Zimbabwe,Eggs,Animal,1.75,1.61
-Africa,Zimbabwe,Milk - inc. cheese,Animal,31.9,45.44
-Africa,Zimbabwe,Wheat and Wheat Products,Plant,31.31,5.97
-Africa,Zimbabwe,Rice,Plant,10.09,12.91
-Africa,Zimbabwe,Soybeans,Plant,0.54,0.24
-Africa,Zimbabwe,Nuts inc. Peanut Butter,Plant,2.22,3.93
-North America,Guatemala,Pork,Animal,4.85,17.17
-North America,Guatemala,Poultry,Animal,16.45,17.67
-North America,Guatemala,Beef,Animal,5.6,172.8
-North America,Guatemala,Lamb & Goat,Animal,0.23,8.05
-North America,Guatemala,Fish,Animal,1.08,1.72
-North America,Guatemala,Eggs,Animal,14.61,13.42
-North America,Guatemala,Milk - inc. cheese,Animal,46.6,66.38
-North America,Guatemala,Wheat and Wheat Products,Plant,35.9,6.85
-North America,Guatemala,Rice,Plant,5.66,7.24
-North America,Guatemala,Soybeans,Plant,0.32,0.14
-North America,Guatemala,Nuts inc. Peanut Butter,Plant,2,3.54
-Africa,Uganda,Pork,Animal,3.37,11.93
-Africa,Uganda,Poultry,Animal,1.51,1.62
-Africa,Uganda,Beef,Animal,5.15,158.92
-Africa,Uganda,Lamb & Goat,Animal,1.25,43.77
-Africa,Uganda,Fish,Animal,12.5,19.96
-Africa,Uganda,Eggs,Animal,0.97,0.89
-Africa,Uganda,Milk - inc. cheese,Animal,37.27,53.09
-Africa,Uganda,Wheat and Wheat Products,Plant,10.14,1.93
-Africa,Uganda,Rice,Plant,4.64,5.94
-Africa,Uganda,Soybeans,Plant,0.01,0
-Africa,Uganda,Nuts inc. Peanut Butter,Plant,3.77,6.67
-Asia,Nepal,Pork,Animal,0.67,2.37
-Asia,Nepal,Poultry,Animal,1.56,1.68
-Asia,Nepal,Beef,Animal,7.89,243.47
-Asia,Nepal,Lamb & Goat,Animal,2.1,73.54
-Asia,Nepal,Fish,Animal,2.17,3.46
-Asia,Nepal,Eggs,Animal,1.42,1.3
-Asia,Nepal,Milk - inc. cheese,Animal,52.1,74.21
-Asia,Nepal,Wheat and Wheat Products,Plant,50.46,9.62
-Asia,Nepal,Rice,Plant,87.75,112.29
-Asia,Nepal,Soybeans,Plant,0.01,0
-Asia,Nepal,Nuts inc. Peanut Butter,Plant,2.42,4.28
-Asia,Iran,Pork,Animal,0,0
-Asia,Iran,Poultry,Animal,25.38,27.26
-Asia,Iran,Beef,Animal,3.58,110.47
-Asia,Iran,Lamb & Goat,Animal,3.69,129.22
-Asia,Iran,Fish,Animal,9.8,15.65
-Asia,Iran,Eggs,Animal,7.7,7.07
-Asia,Iran,Milk - inc. cheese,Animal,46.69,66.51
-Asia,Iran,Wheat and Wheat Products,Plant,153.31,29.24
-Asia,Iran,Rice,Plant,29.95,38.33
-Asia,Iran,Soybeans,Plant,0,0
-Asia,Iran,Nuts inc. Peanut Butter,Plant,12.16,21.52
-Africa,Tanzania,Pork,Animal,0.32,1.13
-Africa,Tanzania,Poultry,Animal,1.84,1.98
-Africa,Tanzania,Beef,Animal,6.09,187.92
-Africa,Tanzania,Lamb & Goat,Animal,1.28,44.83
-Africa,Tanzania,Fish,Animal,5.5,8.78
-Africa,Tanzania,Eggs,Animal,0.58,0.53
-Africa,Tanzania,Milk - inc. cheese,Animal,40.29,57.39
-Africa,Tanzania,Wheat and Wheat Products,Plant,15.94,3.04
-Africa,Tanzania,Rice,Plant,21.01,26.89
-Africa,Tanzania,Soybeans,Plant,0.04,0.02
-Africa,Tanzania,Nuts inc. Peanut Butter,Plant,5.94,10.51
-Africa,Senegal,Pork,Animal,0.94,3.33
-Africa,Senegal,Poultry,Animal,4.62,4.96
-Africa,Senegal,Beef,Animal,5.85,180.52
-Africa,Senegal,Lamb & Goat,Animal,3.19,111.71
-Africa,Senegal,Fish,Animal,22.94,36.63
-Africa,Senegal,Eggs,Animal,1.63,1.5
-Africa,Senegal,Milk - inc. cheese,Animal,16.86,24.02
-Africa,Senegal,Wheat and Wheat Products,Plant,37.32,7.12
-Africa,Senegal,Rice,Plant,72.29,92.51
-Africa,Senegal,Soybeans,Plant,0,0
-Africa,Senegal,Nuts inc. Peanut Butter,Plant,4.03,7.13
-South America,Peru,Pork,Animal,3.85,13.63
-South America,Peru,Poultry,Animal,11.72,12.59
-South America,Peru,Beef,Animal,4.69,144.72
-South America,Peru,Lamb & Goat,Animal,1,35.02
-South America,Peru,Fish,Animal,15.74,25.13
-South America,Peru,Eggs,Animal,8.76,8.05
-South America,Peru,Milk - inc. cheese,Animal,62.15,88.53
-South America,Peru,Wheat and Wheat Products,Plant,56.12,10.7
-South America,Peru,Rice,Plant,48.92,62.6
-South America,Peru,Soybeans,Plant,1.59,0.72
-South America,Peru,Nuts inc. Peanut Butter,Plant,0.65,1.15
-North America,Nicaragua,Pork,Animal,3.38,11.96
-North America,Nicaragua,Poultry,Animal,21.31,22.89
-North America,Nicaragua,Beef,Animal,4.73,145.96
-North America,Nicaragua,Lamb & Goat,Animal,0.01,0.35
-North America,Nicaragua,Fish,Animal,3.59,5.73
-North America,Nicaragua,Eggs,Animal,4.9,4.5
-North America,Nicaragua,Milk - inc. cheese,Animal,85.16,121.3
-North America,Nicaragua,Wheat and Wheat Products,Plant,28.17,5.37
-North America,Nicaragua,Rice,Plant,43.33,55.45
-North America,Nicaragua,Soybeans,Plant,0.01,0
-North America,Nicaragua,Nuts inc. Peanut Butter,Plant,2.36,4.18
-Asia,Vietnam,Pork,Animal,35,123.88
-Asia,Vietnam,Poultry,Animal,12.36,13.28
-Asia,Vietnam,Beef,Animal,7.44,229.58
-Asia,Vietnam,Lamb & Goat,Animal,0.14,4.9
-Asia,Vietnam,Fish,Animal,26.52,42.34
-Asia,Vietnam,Eggs,Animal,3.84,3.53
-Asia,Vietnam,Milk - inc. cheese,Animal,16.36,23.3
-Asia,Vietnam,Wheat and Wheat Products,Plant,10.49,2
-Asia,Vietnam,Rice,Plant,144.56,184.99
-Asia,Vietnam,Soybeans,Plant,5.75,2.59
-Asia,Vietnam,Nuts inc. Peanut Butter,Plant,6.28,11.12
-Africa,Ethiopia,Pork,Animal,0.02,0.07
-Africa,Ethiopia,Poultry,Animal,0.66,0.71
-Africa,Ethiopia,Beef,Animal,3.61,111.4
-Africa,Ethiopia,Lamb & Goat,Animal,1.57,54.98
-Africa,Ethiopia,Fish,Animal,0.24,0.38
-Africa,Ethiopia,Eggs,Animal,0.36,0.33
-Africa,Ethiopia,Milk - inc. cheese,Animal,44.14,62.87
-Africa,Ethiopia,Wheat and Wheat Products,Plant,31.26,5.96
-Africa,Ethiopia,Rice,Plant,2.25,2.88
-Africa,Ethiopia,Soybeans,Plant,0.45,0.2
-Africa,Ethiopia,Nuts inc. Peanut Butter,Plant,1.21,2.14
-Asia,Myanmar,Pork,Animal,11.31,40.03
-Asia,Myanmar,Poultry,Animal,21.87,23.49
-Asia,Myanmar,Beef,Animal,4.94,152.44
-Asia,Myanmar,Lamb & Goat,Animal,0.89,31.17
-Asia,Myanmar,Fish,Animal,54.26,86.64
-Asia,Myanmar,Eggs,Animal,6.45,5.92
-Asia,Myanmar,Milk - inc. cheese,Animal,31.48,44.84
-Asia,Myanmar,Wheat and Wheat Products,Plant,6.22,1.19
-Asia,Myanmar,Rice,Plant,132.8,169.94
-Asia,Myanmar,Soybeans,Plant,0.38,0.17
-Asia,Myanmar,Nuts inc. Peanut Butter,Plant,4.5,7.97
-Africa,Congo,Pork,Animal,2.39,8.46
-Africa,Congo,Poultry,Animal,13.02,13.99
-Africa,Congo,Beef,Animal,4.35,134.23
-Africa,Congo,Lamb & Goat,Animal,0.4,14.01
-Africa,Congo,Fish,Animal,26.22,41.86
-Africa,Congo,Eggs,Animal,0.6,0.55
-Africa,Congo,Milk - inc. cheese,Animal,10.69,15.23
-Africa,Congo,Wheat and Wheat Products,Plant,40.07,7.64
-Africa,Congo,Rice,Plant,16.51,21.13
-Africa,Congo,Soybeans,Plant,0,0
-Africa,Congo,Nuts inc. Peanut Butter,Plant,3.08,5.45
-Africa,Zambia,Pork,Animal,1.66,5.88
-Africa,Zambia,Poultry,Animal,3.29,3.53
-Africa,Zambia,Beef,Animal,4.76,146.88
-Africa,Zambia,Lamb & Goat,Animal,0.68,23.81
-Africa,Zambia,Fish,Animal,6.2,9.9
-Africa,Zambia,Eggs,Animal,3.32,3.05
-Africa,Zambia,Milk - inc. cheese,Animal,9.71,13.83
-Africa,Zambia,Wheat and Wheat Products,Plant,12.1,2.31
-Africa,Zambia,Rice,Plant,3.05,3.9
-Africa,Zambia,Soybeans,Plant,7.3,3.29
-Africa,Zambia,Nuts inc. Peanut Butter,Plant,5.04,8.92
-Africa,Cameroon,Pork,Animal,1.47,5.2
-Africa,Cameroon,Poultry,Animal,3.29,3.53
-Africa,Cameroon,Beef,Animal,4.17,128.68
-Africa,Cameroon,Lamb & Goat,Animal,1.4,49.03
-Africa,Cameroon,Fish,Animal,14.71,23.49
-Africa,Cameroon,Eggs,Animal,0.4,0.37
-Africa,Cameroon,Milk - inc. cheese,Animal,15.27,21.75
-Africa,Cameroon,Wheat and Wheat Products,Plant,22.6,4.31
-Africa,Cameroon,Rice,Plant,23.85,30.52
-Africa,Cameroon,Soybeans,Plant,0.64,0.29
-Africa,Cameroon,Nuts inc. Peanut Butter,Plant,9.29,16.44
-Africa,Madagascar,Pork,Animal,2.56,9.06
-Africa,Madagascar,Poultry,Animal,3.14,3.37
-Africa,Madagascar,Beef,Animal,7.51,231.74
-Africa,Madagascar,Lamb & Goat,Animal,0.57,19.96
-Africa,Madagascar,Fish,Animal,4.41,7.04
-Africa,Madagascar,Eggs,Animal,0.71,0.65
-Africa,Madagascar,Milk - inc. cheese,Animal,24.84,35.38
-Africa,Madagascar,Wheat and Wheat Products,Plant,9.01,1.72
-Africa,Madagascar,Rice,Plant,102.53,131.21
-Africa,Madagascar,Soybeans,Plant,0,0
-Africa,Madagascar,Nuts inc. Peanut Butter,Plant,0.35,0.62
-Africa,Malawi,Pork,Animal,5.45,19.29
-Africa,Malawi,Poultry,Animal,1.38,1.48
-Africa,Malawi,Beef,Animal,2.35,72.52
-Africa,Malawi,Lamb & Goat,Animal,2.07,72.49
-Africa,Malawi,Fish,Animal,7.33,11.7
-Africa,Malawi,Eggs,Animal,1.08,0.99
-Africa,Malawi,Milk - inc. cheese,Animal,7.98,11.37
-Africa,Malawi,Wheat and Wheat Products,Plant,11.77,2.24
-Africa,Malawi,Rice,Plant,4.75,6.08
-Africa,Malawi,Soybeans,Plant,1.76,0.79
-Africa,Malawi,Nuts inc. Peanut Butter,Plant,5.08,8.99
-Africa,Guinea,Pork,Animal,0.16,0.57
-Africa,Guinea,Poultry,Animal,1.83,1.97
-Africa,Guinea,Beef,Animal,6.26,193.17
-Africa,Guinea,Lamb & Goat,Animal,1.6,56.03
-Africa,Guinea,Fish,Animal,9.18,14.66
-Africa,Guinea,Eggs,Animal,1.95,1.79
-Africa,Guinea,Milk - inc. cheese,Animal,20.62,29.37
-Africa,Guinea,Wheat and Wheat Products,Plant,18.55,3.54
-Africa,Guinea,Rice,Plant,97.12,124.28
-Africa,Guinea,Soybeans,Plant,0,0
-Africa,Guinea,Nuts inc. Peanut Butter,Plant,4.14,7.33
-Africa,Nigeria,Pork,Animal,1.47,5.2
-Africa,Nigeria,Poultry,Animal,1.73,1.86
-Africa,Nigeria,Beef,Animal,2.33,71.9
-Africa,Nigeria,Lamb & Goat,Animal,2.72,95.25
-Africa,Nigeria,Fish,Animal,16.03,25.59
-Africa,Nigeria,Eggs,Animal,3.46,3.18
-Africa,Nigeria,Milk - inc. cheese,Animal,7.91,11.27
-Africa,Nigeria,Wheat and Wheat Products,Plant,20.82,3.97
-Africa,Nigeria,Rice,Plant,28.23,36.13
-Africa,Nigeria,Soybeans,Plant,2.6,1.17
-Africa,Nigeria,Nuts inc. Peanut Butter,Plant,6.93,12.27
-Africa,Rwanda,Pork,Animal,0.76,2.69
-Africa,Rwanda,Poultry,Animal,1.34,1.44
-Africa,Rwanda,Beef,Animal,2.53,78.07
-Africa,Rwanda,Lamb & Goat,Animal,1.93,67.59
-Africa,Rwanda,Fish,Animal,3.88,6.2
-Africa,Rwanda,Eggs,Animal,0.16,0.15
-Africa,Rwanda,Milk - inc. cheese,Animal,7.23,10.3
-Africa,Rwanda,Wheat and Wheat Products,Plant,11.34,2.16
-Africa,Rwanda,Rice,Plant,8.7,11.13
-Africa,Rwanda,Soybeans,Plant,1.93,0.87
-Africa,Rwanda,Nuts inc. Peanut Butter,Plant,0.58,1.03
-Asia,Philippines,Pork,Animal,18.4,65.13
-Asia,Philippines,Poultry,Animal,11.91,12.79
-Asia,Philippines,Beef,Animal,4.06,125.28
-Asia,Philippines,Lamb & Goat,Animal,0.56,19.61
-Asia,Philippines,Fish,Animal,28.51,45.52
-Asia,Philippines,Eggs,Animal,4.02,3.69
-Asia,Philippines,Milk - inc. cheese,Animal,15.66,22.31
-Asia,Philippines,Wheat and Wheat Products,Plant,23.12,4.41
-Asia,Philippines,Rice,Plant,119.44,152.85
-Asia,Philippines,Soybeans,Plant,0.03,0.01
-Asia,Philippines,Nuts inc. Peanut Butter,Plant,2.08,3.68
-Africa,Ghana,Pork,Animal,1.36,4.81
-Africa,Ghana,Poultry,Animal,8.63,9.27
-Africa,Ghana,Beef,Animal,1.09,33.64
-Africa,Ghana,Lamb & Goat,Animal,1.74,60.93
-Africa,Ghana,Fish,Animal,26.05,41.59
-Africa,Ghana,Eggs,Animal,1.21,1.11
-Africa,Ghana,Milk - inc. cheese,Animal,9.08,12.93
-Africa,Ghana,Wheat and Wheat Products,Plant,14.45,2.76
-Africa,Ghana,Rice,Plant,32.03,40.99
-Africa,Ghana,Soybeans,Plant,0.01,0
-Africa,Ghana,Nuts inc. Peanut Butter,Plant,5.56,9.84
-Africa,Togo,Pork,Animal,1.57,5.56
-Africa,Togo,Poultry,Animal,6.63,7.12
-Africa,Togo,Beef,Animal,1.53,47.21
-Africa,Togo,Lamb & Goat,Animal,1.58,55.33
-Africa,Togo,Fish,Animal,11.69,18.67
-Africa,Togo,Eggs,Animal,0.86,0.79
-Africa,Togo,Milk - inc. cheese,Animal,7.96,11.34
-Africa,Togo,Wheat and Wheat Products,Plant,12.91,2.46
-Africa,Togo,Rice,Plant,25.99,33.26
-Africa,Togo,Soybeans,Plant,0.01,0
-Africa,Togo,Nuts inc. Peanut Butter,Plant,3.59,6.35
-Africa,Gambia,Pork,Animal,0.18,0.64
-Africa,Gambia,Poultry,Animal,2.66,2.86
-Africa,Gambia,Beef,Animal,2.16,66.65
-Africa,Gambia,Lamb & Goat,Animal,0.71,24.86
-Africa,Gambia,Fish,Animal,23.13,36.93
-Africa,Gambia,Eggs,Animal,0.99,0.91
-Africa,Gambia,Milk - inc. cheese,Animal,45.71,65.11
-Africa,Gambia,Wheat and Wheat Products,Plant,37.91,7.23
-Africa,Gambia,Rice,Plant,61.84,79.14
-Africa,Gambia,Soybeans,Plant,0,0
-Africa,Gambia,Nuts inc. Peanut Butter,Plant,5.27,9.33
-Asia,India,Pork,Animal,0.28,0.99
-Asia,India,Poultry,Animal,1.88,2.02
-Asia,India,Beef,Animal,0.81,24.99
-Asia,India,Lamb & Goat,Animal,0.58,20.31
-Asia,India,Fish,Animal,4.71,7.52
-Asia,India,Eggs,Animal,2.58,2.37
-Asia,India,Milk - inc. cheese,Animal,84.5,120.36
-Asia,India,Wheat and Wheat Products,Plant,60.56,11.55
-Asia,India,Rice,Plant,69.49,88.93
-Asia,India,Soybeans,Plant,0.39,0.18
-Asia,India,Nuts inc. Peanut Butter,Plant,1.92,3.4
-Asia,Thailand,Pork,Animal,13,46.01
-Asia,Thailand,Poultry,Animal,13.69,14.71
-Asia,Thailand,Beef,Animal,2.56,79
-Asia,Thailand,Lamb & Goat,Animal,0.05,1.75
-Asia,Thailand,Fish,Animal,19.45,31.06
-Asia,Thailand,Eggs,Animal,12.35,11.34
-Asia,Thailand,Milk - inc. cheese,Animal,29.35,41.81
-Asia,Thailand,Wheat and Wheat Products,Plant,10.93,2.08
-Asia,Thailand,Rice,Plant,114.57,146.62
-Asia,Thailand,Soybeans,Plant,2.13,0.96
-Asia,Thailand,Nuts inc. Peanut Butter,Plant,1.5,2.66
-Africa,Mozambique,Pork,Animal,5.13,18.16
-Africa,Mozambique,Poultry,Animal,1.41,1.51
-Africa,Mozambique,Beef,Animal,1.04,32.09
-Africa,Mozambique,Lamb & Goat,Animal,0.9,31.52
-Africa,Mozambique,Fish,Animal,7.74,12.36
-Africa,Mozambique,Eggs,Animal,1.7,1.56
-Africa,Mozambique,Milk - inc. cheese,Animal,4.79,6.82
-Africa,Mozambique,Wheat and Wheat Products,Plant,14.65,2.79
-Africa,Mozambique,Rice,Plant,23.41,29.96
-Africa,Mozambique,Soybeans,Plant,0.03,0.01
-Africa,Mozambique,Nuts inc. Peanut Butter,Plant,2.61,4.62
-Africa,Cambodia,Pork,Animal,6.52,23.08
-Africa,Cambodia,Poultry,Animal,1.84,1.98
-Africa,Cambodia,Beef,Animal,4.85,149.66
-Africa,Cambodia,Lamb & Goat,Animal,0,0
-Africa,Cambodia,Fish,Animal,39.59,63.21
-Africa,Cambodia,Eggs,Animal,1.37,1.26
-Africa,Cambodia,Milk - inc. cheese,Animal,3.47,4.94
-Africa,Cambodia,Wheat and Wheat Products,Plant,2.74,0.52
-Africa,Cambodia,Rice,Plant,159.1,203.6
-Africa,Cambodia,Soybeans,Plant,4.33,1.95
-Africa,Cambodia,Nuts inc. Peanut Butter,Plant,1.25,2.21
-Africa,Sierra Leone,Pork,Animal,1.22,4.32
-Africa,Sierra Leone,Poultry,Animal,4.97,5.34
-Africa,Sierra Leone,Beef,Animal,1.99,61.41
-Africa,Sierra Leone,Lamb & Goat,Animal,0.65,22.76
-Africa,Sierra Leone,Fish,Animal,32.03,51.14
-Africa,Sierra Leone,Eggs,Animal,1.92,1.76
-Africa,Sierra Leone,Milk - inc. cheese,Animal,7,9.97
-Africa,Sierra Leone,Wheat and Wheat Products,Plant,8.72,1.66
-Africa,Sierra Leone,Rice,Plant,103.3,132.19
-Africa,Sierra Leone,Soybeans,Plant,0,0
-Africa,Sierra Leone,Nuts inc. Peanut Butter,Plant,5.57,9.86
-Asia,Sri Lanka,Pork,Animal,0.05,0.18
-Asia,Sri Lanka,Poultry,Animal,4.96,5.33
-Asia,Sri Lanka,Beef,Animal,1.38,42.58
-Asia,Sri Lanka,Lamb & Goat,Animal,0.09,3.15
-Asia,Sri Lanka,Fish,Animal,24.92,39.79
-Asia,Sri Lanka,Eggs,Animal,4.57,4.2
-Asia,Sri Lanka,Milk - inc. cheese,Animal,34.98,49.83
-Asia,Sri Lanka,Wheat and Wheat Products,Plant,37.01,7.06
-Asia,Sri Lanka,Rice,Plant,109.72,140.41
-Asia,Sri Lanka,Soybeans,Plant,0,0
-Asia,Sri Lanka,Nuts inc. Peanut Butter,Plant,1.09,1.93
-Asia,Indonesia,Pork,Animal,2.98,10.55
-Asia,Indonesia,Poultry,Animal,7.5,8.06
-Asia,Indonesia,Beef,Animal,2.59,79.92
-Asia,Indonesia,Lamb & Goat,Animal,0.46,16.11
-Asia,Indonesia,Fish,Animal,25.65,40.95
-Asia,Indonesia,Eggs,Animal,4.88,4.48
-Asia,Indonesia,Milk - inc. cheese,Animal,14.82,21.11
-Asia,Indonesia,Wheat and Wheat Products,Plant,25.45,4.85
-Asia,Indonesia,Rice,Plant,134.62,172.27
-Asia,Indonesia,Soybeans,Plant,1.12,0.5
-Asia,Indonesia,Nuts inc. Peanut Butter,Plant,4.92,8.71
-Africa,Liberia,Pork,Animal,4.01,14.19
-Africa,Liberia,Poultry,Animal,8.91,9.57
-Africa,Liberia,Beef,Animal,0.78,24.07
-Africa,Liberia,Lamb & Goat,Animal,0.48,16.81
-Africa,Liberia,Fish,Animal,4.13,6.59
-Africa,Liberia,Eggs,Animal,2.05,1.88
-Africa,Liberia,Milk - inc. cheese,Animal,3.04,4.33
-Africa,Liberia,Wheat and Wheat Products,Plant,10.95,2.09
-Africa,Liberia,Rice,Plant,94.75,121.25
-Africa,Liberia,Soybeans,Plant,0.63,0.28
-Africa,Liberia,Nuts inc. Peanut Butter,Plant,1.31,2.32
-Asia,Bangladesh,Pork,Animal,0,0
-Asia,Bangladesh,Poultry,Animal,1.4,1.5
-Asia,Bangladesh,Beef,Animal,1.28,39.5
-Asia,Bangladesh,Lamb & Goat,Animal,1.33,46.58
-Asia,Bangladesh,Fish,Animal,18.07,28.85
-Asia,Bangladesh,Eggs,Animal,2.08,1.91
-Asia,Bangladesh,Milk - inc. cheese,Animal,21.91,31.21
-Asia,Bangladesh,Wheat and Wheat Products,Plant,17.47,3.33
-Asia,Bangladesh,Rice,Plant,171.73,219.76
-Asia,Bangladesh,Soybeans,Plant,0.61,0.27
-Asia,Bangladesh,Nuts inc. Peanut Butter,Plant,0.72,1.27
+region,country,food_category,food_category_type,product_type,consumption,co2_emmission
+South America,Argentina,Pork,Other Meat (inc. Fish),Animal,10.51,37.2
+South America,Argentina,Poultry,Poultry (inc. Eggs),Animal,38.66,41.53
+South America,Argentina,Beef,Beef,Animal,55.48,1712
+South America,Argentina,Lamb & Goat,Other Meat (inc. Fish),Animal,1.56,54.63
+South America,Argentina,Fish,Other Meat (inc. Fish),Animal,4.36,6.96
+South America,Argentina,Eggs,Poultry (inc. Eggs),Animal,11.39,10.46
+South America,Argentina,Milk - inc. cheese,Milk (inc. cheese),Animal,195.08,277.87
+South America,Argentina,Wheat and Wheat Products,Grains,Plant,103.11,19.66
+South America,Argentina,Rice,Grains,Plant,8.77,11.22
+South America,Argentina,Soybeans,Legumes,Plant,0,0
+South America,Argentina,Nuts inc. Peanut Butter,Legumes,Plant,0.49,0.87
+Oceania,Australia,Pork,Other Meat (inc. Fish),Animal,24.14,85.44
+Oceania,Australia,Poultry,Poultry (inc. Eggs),Animal,46.12,49.54
+Oceania,Australia,Beef,Beef,Animal,33.86,1044.85
+Oceania,Australia,Lamb & Goat,Other Meat (inc. Fish),Animal,9.87,345.65
+Oceania,Australia,Fish,Other Meat (inc. Fish),Animal,17.69,28.25
+Oceania,Australia,Eggs,Poultry (inc. Eggs),Animal,8.51,7.82
+Oceania,Australia,Milk - inc. cheese,Milk (inc. cheese),Animal,234.49,334.01
+Oceania,Australia,Wheat and Wheat Products,Grains,Plant,70.46,13.44
+Oceania,Australia,Rice,Grains,Plant,11.03,14.12
+Oceania,Australia,Soybeans,Legumes,Plant,0.19,0.09
+Oceania,Australia,Nuts inc. Peanut Butter,Legumes,Plant,8.73,15.45
+Europe,Albania,Pork,Other Meat (inc. Fish),Animal,10.88,38.51
+Europe,Albania,Poultry,Poultry (inc. Eggs),Animal,13.23,14.21
+Europe,Albania,Beef,Beef,Animal,22.5,694.3
+Europe,Albania,Lamb & Goat,Other Meat (inc. Fish),Animal,15.32,536.5
+Europe,Albania,Fish,Other Meat (inc. Fish),Animal,3.85,6.15
+Europe,Albania,Eggs,Poultry (inc. Eggs),Animal,12.45,11.44
+Europe,Albania,Milk - inc. cheese,Milk (inc. cheese),Animal,303.72,432.62
+Europe,Albania,Wheat and Wheat Products,Grains,Plant,138.64,26.44
+Europe,Albania,Rice,Grains,Plant,7.78,9.96
+Europe,Albania,Soybeans,Legumes,Plant,0,0
+Europe,Albania,Nuts inc. Peanut Butter,Legumes,Plant,4.36,7.72
+Europe,Iceland,Pork,Other Meat (inc. Fish),Animal,21.69,76.77
+Europe,Iceland,Poultry,Poultry (inc. Eggs),Animal,26.87,28.86
+Europe,Iceland,Beef,Beef,Animal,13.36,412.26
+Europe,Iceland,Lamb & Goat,Other Meat (inc. Fish),Animal,21.12,739.62
+Europe,Iceland,Fish,Other Meat (inc. Fish),Animal,74.41,118.81
+Europe,Iceland,Eggs,Poultry (inc. Eggs),Animal,8.24,7.57
+Europe,Iceland,Milk - inc. cheese,Milk (inc. cheese),Animal,225.82,321.66
+Europe,Iceland,Wheat and Wheat Products,Grains,Plant,72.92,13.91
+Europe,Iceland,Rice,Grains,Plant,3.89,4.98
+Europe,Iceland,Soybeans,Legumes,Plant,0.11,0.05
+Europe,Iceland,Nuts inc. Peanut Butter,Legumes,Plant,3.88,6.87
+Oceania,New Zealand,Pork,Other Meat (inc. Fish),Animal,22.29,78.9
+Oceania,New Zealand,Poultry,Poultry (inc. Eggs),Animal,34.98,37.58
+Oceania,New Zealand,Beef,Beef,Animal,22.49,693.99
+Oceania,New Zealand,Lamb & Goat,Other Meat (inc. Fish),Animal,18.91,662.23
+Oceania,New Zealand,Fish,Other Meat (inc. Fish),Animal,20.36,32.51
+Oceania,New Zealand,Eggs,Poultry (inc. Eggs),Animal,9.91,9.1
+Oceania,New Zealand,Milk - inc. cheese,Milk (inc. cheese),Animal,137.25,195.5
+Oceania,New Zealand,Wheat and Wheat Products,Grains,Plant,76.91,14.67
+Oceania,New Zealand,Rice,Grains,Plant,9.16,11.72
+Oceania,New Zealand,Soybeans,Legumes,Plant,0.44,0.2
+Oceania,New Zealand,Nuts inc. Peanut Butter,Legumes,Plant,8.22,14.55
+North America,USA,Pork,Other Meat (inc. Fish),Animal,27.64,97.83
+North America,USA,Poultry,Poultry (inc. Eggs),Animal,50.01,53.72
+North America,USA,Beef,Beef,Animal,36.24,1118.29
+North America,USA,Lamb & Goat,Other Meat (inc. Fish),Animal,0.43,15.06
+North America,USA,Fish,Other Meat (inc. Fish),Animal,12.35,19.72
+North America,USA,Eggs,Poultry (inc. Eggs),Animal,14.58,13.39
+North America,USA,Milk - inc. cheese,Milk (inc. cheese),Animal,254.69,362.78
+North America,USA,Wheat and Wheat Products,Grains,Plant,80.43,15.34
+North America,USA,Rice,Grains,Plant,6.88,8.8
+North America,USA,Soybeans,Legumes,Plant,0.04,0.02
+North America,USA,Nuts inc. Peanut Butter,Legumes,Plant,7.86,13.91
+South America,Uruguay,Pork,Other Meat (inc. Fish),Animal,16.84,59.61
+South America,Uruguay,Poultry,Poultry (inc. Eggs),Animal,27.45,29.49
+South America,Uruguay,Beef,Beef,Animal,29.1,897.96
+South America,Uruguay,Lamb & Goat,Other Meat (inc. Fish),Animal,8.23,288.21
+South America,Uruguay,Fish,Other Meat (inc. Fish),Animal,6.53,10.43
+South America,Uruguay,Eggs,Poultry (inc. Eggs),Animal,13.14,12.07
+South America,Uruguay,Milk - inc. cheese,Milk (inc. cheese),Animal,210.54,299.89
+South America,Uruguay,Wheat and Wheat Products,Grains,Plant,109.31,20.85
+South America,Uruguay,Rice,Grains,Plant,11.5,14.72
+South America,Uruguay,Soybeans,Legumes,Plant,0.01,0
+South America,Uruguay,Nuts inc. Peanut Butter,Legumes,Plant,0.95,1.68
+Europe,Luxembourg,Pork,Other Meat (inc. Fish),Animal,43.58,154.25
+Europe,Luxembourg,Poultry,Poultry (inc. Eggs),Animal,21.37,22.96
+Europe,Luxembourg,Beef,Beef,Animal,29.88,922.03
+Europe,Luxembourg,Lamb & Goat,Other Meat (inc. Fish),Animal,1.67,58.48
+Europe,Luxembourg,Fish,Other Meat (inc. Fish),Animal,23.09,36.87
+Europe,Luxembourg,Eggs,Poultry (inc. Eggs),Animal,14.64,13.45
+Europe,Luxembourg,Milk - inc. cheese,Milk (inc. cheese),Animal,255.3,363.65
+Europe,Luxembourg,Wheat and Wheat Products,Grains,Plant,103.2,19.68
+Europe,Luxembourg,Rice,Grains,Plant,4.2,5.37
+Europe,Luxembourg,Soybeans,Legumes,Plant,0.04,0.02
+Europe,Luxembourg,Nuts inc. Peanut Butter,Legumes,Plant,0.93,1.65
+South America,Brazil,Pork,Other Meat (inc. Fish),Animal,12.6,44.6
+South America,Brazil,Poultry,Poultry (inc. Eggs),Animal,45,48.34
+South America,Brazil,Beef,Beef,Animal,39.25,1211.17
+South America,Brazil,Lamb & Goat,Other Meat (inc. Fish),Animal,0.62,21.71
+South America,Brazil,Fish,Other Meat (inc. Fish),Animal,10.01,15.98
+South America,Brazil,Eggs,Poultry (inc. Eggs),Animal,8.98,8.25
+South America,Brazil,Milk - inc. cheese,Milk (inc. cheese),Animal,149.28,212.63
+South America,Brazil,Wheat and Wheat Products,Grains,Plant,53,10.11
+South America,Brazil,Rice,Grains,Plant,32.13,41.12
+South America,Brazil,Soybeans,Legumes,Plant,3.62,1.63
+South America,Brazil,Nuts inc. Peanut Butter,Legumes,Plant,0.67,1.19
+Asia,Kazakhstan,Pork,Other Meat (inc. Fish),Animal,10.36,36.67
+Asia,Kazakhstan,Poultry,Poultry (inc. Eggs),Animal,18.38,19.74
+Asia,Kazakhstan,Beef,Beef,Animal,23.38,721.46
+Asia,Kazakhstan,Lamb & Goat,Other Meat (inc. Fish),Animal,9.56,334.79
+Asia,Kazakhstan,Fish,Other Meat (inc. Fish),Animal,5.21,8.32
+Asia,Kazakhstan,Eggs,Poultry (inc. Eggs),Animal,8.29,7.62
+Asia,Kazakhstan,Milk - inc. cheese,Milk (inc. cheese),Animal,288.12,410.4
+Asia,Kazakhstan,Wheat and Wheat Products,Grains,Plant,92.31,17.6
+Asia,Kazakhstan,Rice,Grains,Plant,7.32,9.37
+Asia,Kazakhstan,Soybeans,Legumes,Plant,0.03,0.01
+Asia,Kazakhstan,Nuts inc. Peanut Butter,Legumes,Plant,5.14,9.1
+Europe,Sweden,Pork,Other Meat (inc. Fish),Animal,37,130.96
+Europe,Sweden,Poultry,Poultry (inc. Eggs),Animal,16.64,17.87
+Europe,Sweden,Beef,Beef,Animal,24.58,758.49
+Europe,Sweden,Lamb & Goat,Other Meat (inc. Fish),Animal,1.41,49.38
+Europe,Sweden,Fish,Other Meat (inc. Fish),Animal,23.86,38.1
+Europe,Sweden,Eggs,Poultry (inc. Eggs),Animal,13.37,12.28
+Europe,Sweden,Milk - inc. cheese,Milk (inc. cheese),Animal,341.23,486.05
+Europe,Sweden,Wheat and Wheat Products,Grains,Plant,79.59,15.18
+Europe,Sweden,Rice,Grains,Plant,5.96,7.63
+Europe,Sweden,Soybeans,Legumes,Plant,0.13,0.06
+Europe,Sweden,Nuts inc. Peanut Butter,Legumes,Plant,6.23,11.03
+North America,Bermuda,Pork,Other Meat (inc. Fish),Animal,28.24,99.96
+North America,Bermuda,Poultry,Poultry (inc. Eggs),Animal,32.62,35.04
+North America,Bermuda,Beef,Beef,Animal,33.15,1022.94
+North America,Bermuda,Lamb & Goat,Other Meat (inc. Fish),Animal,2.71,94.9
+North America,Bermuda,Fish,Other Meat (inc. Fish),Animal,33.22,53.04
+North America,Bermuda,Eggs,Poultry (inc. Eggs),Animal,14.92,13.71
+North America,Bermuda,Milk - inc. cheese,Milk (inc. cheese),Animal,95.56,136.12
+North America,Bermuda,Wheat and Wheat Products,Grains,Plant,54.88,10.47
+North America,Bermuda,Rice,Grains,Plant,5.38,6.88
+North America,Bermuda,Soybeans,Legumes,Plant,0.22,0.1
+North America,Bermuda,Nuts inc. Peanut Butter,Legumes,Plant,5.72,10.12
+Europe,Denmark,Pork,Other Meat (inc. Fish),Animal,24.87,88.03
+Europe,Denmark,Poultry,Poultry (inc. Eggs),Animal,26.75,28.73
+Europe,Denmark,Beef,Beef,Animal,28.46,878.22
+Europe,Denmark,Lamb & Goat,Other Meat (inc. Fish),Animal,0.92,32.22
+Europe,Denmark,Fish,Other Meat (inc. Fish),Animal,16.49,26.33
+Europe,Denmark,Eggs,Poultry (inc. Eggs),Animal,15.35,14.1
+Europe,Denmark,Milk - inc. cheese,Milk (inc. cheese),Animal,277.3,394.99
+Europe,Denmark,Wheat and Wheat Products,Grains,Plant,98,18.69
+Europe,Denmark,Rice,Grains,Plant,4.96,6.35
+Europe,Denmark,Soybeans,Legumes,Plant,0.03,0.01
+Europe,Denmark,Nuts inc. Peanut Butter,Legumes,Plant,5.94,10.51
+Europe,Finland,Pork,Other Meat (inc. Fish),Animal,36.14,127.92
+Europe,Finland,Poultry,Poultry (inc. Eggs),Animal,19.87,21.34
+Europe,Finland,Beef,Beef,Animal,19.22,593.09
+Europe,Finland,Lamb & Goat,Other Meat (inc. Fish),Animal,0.53,18.56
+Europe,Finland,Fish,Other Meat (inc. Fish),Animal,33.8,53.97
+Europe,Finland,Eggs,Poultry (inc. Eggs),Animal,9.55,8.77
+Europe,Finland,Milk - inc. cheese,Milk (inc. cheese),Animal,430.76,613.57
+Europe,Finland,Wheat and Wheat Products,Grains,Plant,81.99,15.64
+Europe,Finland,Rice,Grains,Plant,4.42,5.66
+Europe,Finland,Soybeans,Legumes,Plant,0.08,0.04
+Europe,Finland,Nuts inc. Peanut Butter,Legumes,Plant,3.43,6.07
+Europe,Ireland,Pork,Other Meat (inc. Fish),Animal,32.4,114.68
+Europe,Ireland,Poultry,Poultry (inc. Eggs),Animal,26.26,28.21
+Europe,Ireland,Beef,Beef,Animal,22.35,689.67
+Europe,Ireland,Lamb & Goat,Other Meat (inc. Fish),Animal,4.1,143.58
+Europe,Ireland,Fish,Other Meat (inc. Fish),Animal,17.39,27.77
+Europe,Ireland,Eggs,Poultry (inc. Eggs),Animal,8.96,8.23
+Europe,Ireland,Milk - inc. cheese,Milk (inc. cheese),Animal,291.86,415.73
+Europe,Ireland,Wheat and Wheat Products,Grains,Plant,107.98,20.59
+Europe,Ireland,Rice,Grains,Plant,3,3.84
+Europe,Ireland,Soybeans,Legumes,Plant,0.25,0.11
+Europe,Ireland,Nuts inc. Peanut Butter,Legumes,Plant,4.1,7.26
+Europe,Greece,Pork,Other Meat (inc. Fish),Animal,28.31,100.2
+Europe,Greece,Poultry,Poultry (inc. Eggs),Animal,15.74,16.91
+Europe,Greece,Beef,Beef,Animal,16.1,496.81
+Europe,Greece,Lamb & Goat,Other Meat (inc. Fish),Animal,12.47,436.7
+Europe,Greece,Fish,Other Meat (inc. Fish),Animal,14.42,23.02
+Europe,Greece,Eggs,Poultry (inc. Eggs),Animal,10.13,9.31
+Europe,Greece,Milk - inc. cheese,Milk (inc. cheese),Animal,255.26,363.59
+Europe,Greece,Wheat and Wheat Products,Grains,Plant,124.04,23.65
+Europe,Greece,Rice,Grains,Plant,6.64,8.5
+Europe,Greece,Soybeans,Legumes,Plant,0.02,0.01
+Europe,Greece,Nuts inc. Peanut Butter,Legumes,Plant,10.5,18.59
+Europe,France,Pork,Other Meat (inc. Fish),Animal,33.05,116.98
+Europe,France,Poultry,Poultry (inc. Eggs),Animal,22.93,24.63
+Europe,France,Beef,Beef,Animal,23.81,734.73
+Europe,France,Lamb & Goat,Other Meat (inc. Fish),Animal,3.28,114.87
+Europe,France,Fish,Other Meat (inc. Fish),Animal,22.91,36.58
+Europe,France,Eggs,Poultry (inc. Eggs),Animal,13.13,12.06
+Europe,France,Milk - inc. cheese,Milk (inc. cheese),Animal,241.31,343.72
+Europe,France,Wheat and Wheat Products,Grains,Plant,108.43,20.68
+Europe,France,Rice,Grains,Plant,4.88,6.24
+Europe,France,Soybeans,Legumes,Plant,0.05,0.02
+Europe,France,Nuts inc. Peanut Butter,Legumes,Plant,5.39,9.54
+Europe,Canada,Pork,Other Meat (inc. Fish),Animal,22.81,80.74
+Europe,Canada,Poultry,Poultry (inc. Eggs),Animal,36.68,39.4
+Europe,Canada,Beef,Beef,Animal,30.25,933.45
+Europe,Canada,Lamb & Goat,Other Meat (inc. Fish),Animal,0.97,33.97
+Europe,Canada,Fish,Other Meat (inc. Fish),Animal,14.56,23.25
+Europe,Canada,Eggs,Poultry (inc. Eggs),Animal,12.95,11.9
+Europe,Canada,Milk - inc. cheese,Milk (inc. cheese),Animal,187.77,267.46
+Europe,Canada,Wheat and Wheat Products,Grains,Plant,84.96,16.2
+Europe,Canada,Rice,Grains,Plant,12.65,16.19
+Europe,Canada,Soybeans,Legumes,Plant,0.94,0.42
+Europe,Canada,Nuts inc. Peanut Butter,Legumes,Plant,8.01,14.18
+Europe,Norway,Pork,Other Meat (inc. Fish),Animal,23.51,83.21
+Europe,Norway,Poultry,Poultry (inc. Eggs),Animal,21.01,22.57
+Europe,Norway,Beef,Beef,Animal,19.83,611.91
+Europe,Norway,Lamb & Goat,Other Meat (inc. Fish),Animal,5.34,187.01
+Europe,Norway,Fish,Other Meat (inc. Fish),Animal,38.18,60.96
+Europe,Norway,Eggs,Poultry (inc. Eggs),Animal,11.41,10.48
+Europe,Norway,Milk - inc. cheese,Milk (inc. cheese),Animal,261.34,372.25
+Europe,Norway,Wheat and Wheat Products,Grains,Plant,97.12,18.52
+Europe,Norway,Rice,Grains,Plant,4.36,5.58
+Europe,Norway,Soybeans,Legumes,Plant,0.11,0.05
+Europe,Norway,Nuts inc. Peanut Butter,Legumes,Plant,5.28,9.35
+Asia,Hong Kong SAR. China,Pork,Other Meat (inc. Fish),Animal,67.11,237.54
+Asia,Hong Kong SAR. China,Poultry,Poultry (inc. Eggs),Animal,54.86,58.93
+Asia,Hong Kong SAR. China,Beef,Beef,Animal,25.82,796.75
+Asia,Hong Kong SAR. China,Lamb & Goat,Other Meat (inc. Fish),Animal,2.22,77.74
+Asia,Hong Kong SAR. China,Fish,Other Meat (inc. Fish),Animal,42.44,67.76
+Asia,Hong Kong SAR. China,Eggs,Poultry (inc. Eggs),Animal,14.5,13.32
+Asia,Hong Kong SAR. China,Milk - inc. cheese,Milk (inc. cheese),Animal,105.85,150.77
+Asia,Hong Kong SAR. China,Wheat and Wheat Products,Grains,Plant,53.14,10.13
+Asia,Hong Kong SAR. China,Rice,Grains,Plant,43.48,55.64
+Asia,Hong Kong SAR. China,Soybeans,Legumes,Plant,2.79,1.26
+Asia,Hong Kong SAR. China,Nuts inc. Peanut Butter,Legumes,Plant,13.81,24.44
+Oceania,French Polynesia,Pork,Other Meat (inc. Fish),Animal,14.75,52.21
+Oceania,French Polynesia,Poultry,Poultry (inc. Eggs),Animal,49.55,53.23
+Oceania,French Polynesia,Beef,Beef,Animal,30.9,953.51
+Oceania,French Polynesia,Lamb & Goat,Other Meat (inc. Fish),Animal,2.83,99.11
+Oceania,French Polynesia,Fish,Other Meat (inc. Fish),Animal,38.95,62.19
+Oceania,French Polynesia,Eggs,Poultry (inc. Eggs),Animal,8.75,8.04
+Oceania,French Polynesia,Milk - inc. cheese,Milk (inc. cheese),Animal,93.56,133.27
+Oceania,French Polynesia,Wheat and Wheat Products,Grains,Plant,68.67,13.1
+Oceania,French Polynesia,Rice,Grains,Plant,35.59,45.54
+Oceania,French Polynesia,Soybeans,Legumes,Plant,0.77,0.35
+Oceania,French Polynesia,Nuts inc. Peanut Butter,Legumes,Plant,2.34,4.14
+Europe,Israel,Pork,Other Meat (inc. Fish),Animal,1.99,7.04
+Europe,Israel,Poultry,Poultry (inc. Eggs),Animal,62.5,67.14
+Europe,Israel,Beef,Beef,Animal,28.78,888.09
+Europe,Israel,Lamb & Goat,Other Meat (inc. Fish),Animal,1.87,65.49
+Europe,Israel,Fish,Other Meat (inc. Fish),Animal,22.18,35.41
+Europe,Israel,Eggs,Poultry (inc. Eggs),Animal,11.35,10.43
+Europe,Israel,Milk - inc. cheese,Milk (inc. cheese),Animal,193.6,275.76
+Europe,Israel,Wheat and Wheat Products,Grains,Plant,110.86,21.14
+Europe,Israel,Rice,Grains,Plant,16.81,21.51
+Europe,Israel,Soybeans,Legumes,Plant,0.1,0.05
+Europe,Israel,Nuts inc. Peanut Butter,Legumes,Plant,7.71,13.65
+Europe,Switzerland,Pork,Other Meat (inc. Fish),Animal,31.49,111.46
+Europe,Switzerland,Poultry,Poultry (inc. Eggs),Animal,16.38,17.6
+Europe,Switzerland,Beef,Beef,Animal,21.26,656.04
+Europe,Switzerland,Lamb & Goat,Other Meat (inc. Fish),Animal,1.42,49.73
+Europe,Switzerland,Fish,Other Meat (inc. Fish),Animal,13.48,21.52
+Europe,Switzerland,Eggs,Poultry (inc. Eggs),Animal,10.53,9.67
+Europe,Switzerland,Milk - inc. cheese,Milk (inc. cheese),Animal,318.69,453.94
+Europe,Switzerland,Wheat and Wheat Products,Grains,Plant,89.51,17.07
+Europe,Switzerland,Rice,Grains,Plant,2.43,3.11
+Europe,Switzerland,Soybeans,Legumes,Plant,0.44,0.2
+Europe,Switzerland,Nuts inc. Peanut Butter,Legumes,Plant,9.27,16.41
+Europe,Netherlands,Pork,Other Meat (inc. Fish),Animal,36.36,128.7
+Europe,Netherlands,Poultry,Poultry (inc. Eggs),Animal,23.9,25.67
+Europe,Netherlands,Beef,Beef,Animal,17.67,545.26
+Europe,Netherlands,Lamb & Goat,Other Meat (inc. Fish),Animal,0.94,32.92
+Europe,Netherlands,Fish,Other Meat (inc. Fish),Animal,18.64,29.76
+Europe,Netherlands,Eggs,Poultry (inc. Eggs),Animal,14.03,12.89
+Europe,Netherlands,Milk - inc. cheese,Milk (inc. cheese),Animal,341.47,486.39
+Europe,Netherlands,Wheat and Wheat Products,Grains,Plant,70.17,13.38
+Europe,Netherlands,Rice,Grains,Plant,2.93,3.75
+Europe,Netherlands,Soybeans,Legumes,Plant,0.12,0.05
+Europe,Netherlands,Nuts inc. Peanut Butter,Legumes,Plant,7.94,14.05
+Asia,Kuwait,Pork,Other Meat (inc. Fish),Animal,0,0
+Asia,Kuwait,Poultry,Poultry (inc. Eggs),Animal,53.61,57.59
+Asia,Kuwait,Beef,Beef,Animal,13.03,402.08
+Asia,Kuwait,Lamb & Goat,Other Meat (inc. Fish),Animal,15.61,546.66
+Asia,Kuwait,Fish,Other Meat (inc. Fish),Animal,11.99,19.14
+Asia,Kuwait,Eggs,Poultry (inc. Eggs),Animal,12.6,11.57
+Asia,Kuwait,Milk - inc. cheese,Milk (inc. cheese),Animal,157.66,224.57
+Asia,Kuwait,Wheat and Wheat Products,Grains,Plant,96.76,18.45
+Asia,Kuwait,Rice,Grains,Plant,43.83,56.09
+Asia,Kuwait,Soybeans,Legumes,Plant,0.06,0.03
+Asia,Kuwait,Nuts inc. Peanut Butter,Legumes,Plant,5.23,9.26
+Europe,United Kingdom,Pork,Other Meat (inc. Fish),Animal,25.79,91.28
+Europe,United Kingdom,Poultry,Poultry (inc. Eggs),Animal,31.55,33.89
+Europe,United Kingdom,Beef,Beef,Animal,18.12,559.15
+Europe,United Kingdom,Lamb & Goat,Other Meat (inc. Fish),Animal,4.49,157.24
+Europe,United Kingdom,Fish,Other Meat (inc. Fish),Animal,15.49,24.73
+Europe,United Kingdom,Eggs,Poultry (inc. Eggs),Animal,11.08,10.18
+Europe,United Kingdom,Milk - inc. cheese,Milk (inc. cheese),Animal,232.2,330.75
+Europe,United Kingdom,Wheat and Wheat Products,Grains,Plant,98.63,18.81
+Europe,United Kingdom,Rice,Grains,Plant,6.39,8.18
+Europe,United Kingdom,Soybeans,Legumes,Plant,0.05,0.02
+Europe,United Kingdom,Nuts inc. Peanut Butter,Legumes,Plant,4.18,7.4
+Europe,Austria,Pork,Other Meat (inc. Fish),Animal,52.56,186.04
+Europe,Austria,Poultry,Poultry (inc. Eggs),Animal,18.61,19.99
+Europe,Austria,Beef,Beef,Animal,17.14,528.9
+Europe,Austria,Lamb & Goat,Other Meat (inc. Fish),Animal,1.16,40.62
+Europe,Austria,Fish,Other Meat (inc. Fish),Animal,12.16,19.42
+Europe,Austria,Eggs,Poultry (inc. Eggs),Animal,14.68,13.49
+Europe,Austria,Milk - inc. cheese,Milk (inc. cheese),Animal,258.09,367.62
+Europe,Austria,Wheat and Wheat Products,Grains,Plant,81.1,15.47
+Europe,Austria,Rice,Grains,Plant,3.7,4.73
+Europe,Austria,Soybeans,Legumes,Plant,2.06,0.93
+Europe,Austria,Nuts inc. Peanut Butter,Legumes,Plant,7.88,13.95
+Asia,Oman,Pork,Other Meat (inc. Fish),Animal,0.01,0.04
+Asia,Oman,Poultry,Poultry (inc. Eggs),Animal,31.51,33.85
+Asia,Oman,Beef,Beef,Animal,15.1,465.95
+Asia,Oman,Lamb & Goat,Other Meat (inc. Fish),Animal,12.87,450.71
+Asia,Oman,Fish,Other Meat (inc. Fish),Animal,21.56,34.42
+Asia,Oman,Eggs,Poultry (inc. Eggs),Animal,7.8,7.17
+Asia,Oman,Milk - inc. cheese,Milk (inc. cheese),Animal,152.28,216.91
+Asia,Oman,Wheat and Wheat Products,Grains,Plant,64.1,12.22
+Asia,Oman,Rice,Grains,Plant,56.55,72.37
+Asia,Oman,Soybeans,Legumes,Plant,0.21,0.09
+Asia,Oman,Nuts inc. Peanut Butter,Legumes,Plant,1.68,2.97
+Europe,Italy,Pork,Other Meat (inc. Fish),Animal,40.28,142.57
+Europe,Italy,Poultry,Poultry (inc. Eggs),Animal,18.61,19.99
+Europe,Italy,Beef,Beef,Animal,18.6,573.96
+Europe,Italy,Lamb & Goat,Other Meat (inc. Fish),Animal,0.92,32.22
+Europe,Italy,Fish,Other Meat (inc. Fish),Animal,15.6,24.91
+Europe,Italy,Eggs,Poultry (inc. Eggs),Animal,13.34,12.25
+Europe,Italy,Milk - inc. cheese,Milk (inc. cheese),Animal,246.88,351.66
+Europe,Italy,Wheat and Wheat Products,Grains,Plant,146.37,27.91
+Europe,Italy,Rice,Grains,Plant,5.74,7.35
+Europe,Italy,Soybeans,Legumes,Plant,0.01,0
+Europe,Italy,Nuts inc. Peanut Butter,Legumes,Plant,7.63,13.51
+North America,Bahamas,Pork,Other Meat (inc. Fish),Animal,32.74,115.88
+North America,Bahamas,Poultry,Poultry (inc. Eggs),Animal,45.74,49.13
+North America,Bahamas,Beef,Beef,Animal,19.92,614.69
+North America,Bahamas,Lamb & Goat,Other Meat (inc. Fish),Animal,5.22,182.8
+North America,Bahamas,Fish,Other Meat (inc. Fish),Animal,18.8,30.02
+North America,Bahamas,Eggs,Poultry (inc. Eggs),Animal,6.2,5.7
+North America,Bahamas,Milk - inc. cheese,Milk (inc. cheese),Animal,104.76,149.22
+North America,Bahamas,Wheat and Wheat Products,Grains,Plant,39.98,7.62
+North America,Bahamas,Rice,Grains,Plant,23.97,30.67
+North America,Bahamas,Soybeans,Legumes,Plant,0.09,0.04
+North America,Bahamas,Nuts inc. Peanut Butter,Legumes,Plant,4.03,7.13
+Europe,Portugal,Pork,Other Meat (inc. Fish),Animal,37.91,134.18
+Europe,Portugal,Poultry,Poultry (inc. Eggs),Animal,30.14,32.38
+Europe,Portugal,Beef,Beef,Animal,16.45,507.61
+Europe,Portugal,Lamb & Goat,Other Meat (inc. Fish),Animal,2.38,83.35
+Europe,Portugal,Fish,Other Meat (inc. Fish),Animal,45.39,72.47
+Europe,Portugal,Eggs,Poultry (inc. Eggs),Animal,9.05,8.31
+Europe,Portugal,Milk - inc. cheese,Milk (inc. cheese),Animal,205.04,292.06
+Europe,Portugal,Wheat and Wheat Products,Grains,Plant,94.3,17.98
+Europe,Portugal,Rice,Grains,Plant,14.86,19.02
+Europe,Portugal,Soybeans,Legumes,Plant,0.01,0
+Europe,Portugal,Nuts inc. Peanut Butter,Legumes,Plant,3.91,6.92
+Europe,Malta,Pork,Other Meat (inc. Fish),Animal,34.24,121.19
+Europe,Malta,Poultry,Poultry (inc. Eggs),Animal,26.4,28.36
+Europe,Malta,Beef,Beef,Animal,19.22,593.09
+Europe,Malta,Lamb & Goat,Other Meat (inc. Fish),Animal,1.19,41.67
+Europe,Malta,Fish,Other Meat (inc. Fish),Animal,24.58,39.25
+Europe,Malta,Eggs,Poultry (inc. Eggs),Animal,11.64,10.69
+Europe,Malta,Milk - inc. cheese,Milk (inc. cheese),Animal,190.06,270.72
+Europe,Malta,Wheat and Wheat Products,Grains,Plant,139.58,26.62
+Europe,Malta,Rice,Grains,Plant,4.96,6.35
+Europe,Malta,Soybeans,Legumes,Plant,0.05,0.02
+Europe,Malta,Nuts inc. Peanut Butter,Legumes,Plant,5.62,9.95
+Asia,Armenia,Pork,Other Meat (inc. Fish),Animal,9.67,34.23
+Asia,Armenia,Poultry,Poultry (inc. Eggs),Animal,13.35,14.34
+Asia,Armenia,Beef,Beef,Animal,19.66,606.67
+Asia,Armenia,Lamb & Goat,Other Meat (inc. Fish),Animal,3.02,105.76
+Asia,Armenia,Fish,Other Meat (inc. Fish),Animal,4.36,6.96
+Asia,Armenia,Eggs,Poultry (inc. Eggs),Animal,11.69,10.74
+Asia,Armenia,Milk - inc. cheese,Milk (inc. cheese),Animal,209.03,297.74
+Asia,Armenia,Wheat and Wheat Products,Grains,Plant,130.6,24.91
+Asia,Armenia,Rice,Grains,Plant,3.18,4.07
+Asia,Armenia,Soybeans,Legumes,Plant,0,0
+Asia,Armenia,Nuts inc. Peanut Butter,Legumes,Plant,2.55,4.51
+Europe,Slovenia,Pork,Other Meat (inc. Fish),Animal,28.19,99.78
+Europe,Slovenia,Poultry,Poultry (inc. Eggs),Animal,23.46,25.2
+Europe,Slovenia,Beef,Beef,Animal,18.43,568.71
+Europe,Slovenia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.79,27.67
+Europe,Slovenia,Fish,Other Meat (inc. Fish),Animal,7.76,12.39
+Europe,Slovenia,Eggs,Poultry (inc. Eggs),Animal,9.36,8.6
+Europe,Slovenia,Milk - inc. cheese,Milk (inc. cheese),Animal,235.01,334.75
+Europe,Slovenia,Wheat and Wheat Products,Grains,Plant,103.43,19.72
+Europe,Slovenia,Rice,Grains,Plant,3.95,5.05
+Europe,Slovenia,Soybeans,Legumes,Plant,0.75,0.34
+Europe,Slovenia,Nuts inc. Peanut Butter,Legumes,Plant,5.28,9.35
+South America,Chile,Pork,Other Meat (inc. Fish),Animal,24.68,87.35
+South America,Chile,Poultry,Poultry (inc. Eggs),Animal,36.52,39.23
+South America,Chile,Beef,Beef,Animal,23.86,736.27
+South America,Chile,Lamb & Goat,Other Meat (inc. Fish),Animal,0.42,14.71
+South America,Chile,Fish,Other Meat (inc. Fish),Animal,7.65,12.21
+South America,Chile,Eggs,Poultry (inc. Eggs),Animal,9.97,9.16
+South America,Chile,Milk - inc. cheese,Milk (inc. cheese),Animal,116.11,165.39
+South America,Chile,Wheat and Wheat Products,Grains,Plant,104.74,19.97
+South America,Chile,Rice,Grains,Plant,8.85,11.33
+South America,Chile,Soybeans,Legumes,Plant,0.04,0.02
+South America,Chile,Nuts inc. Peanut Butter,Legumes,Plant,2.22,3.93
+South America,Venezuela,Pork,Other Meat (inc. Fish),Animal,7.23,25.59
+South America,Venezuela,Poultry,Poultry (inc. Eggs),Animal,39.28,42.19
+South America,Venezuela,Beef,Beef,Animal,25.89,798.91
+South America,Venezuela,Lamb & Goat,Other Meat (inc. Fish),Animal,0.32,11.21
+South America,Venezuela,Fish,Other Meat (inc. Fish),Animal,8.34,13.32
+South America,Venezuela,Eggs,Poultry (inc. Eggs),Animal,5.63,5.17
+South America,Venezuela,Milk - inc. cheese,Milk (inc. cheese),Animal,117.79,167.78
+South America,Venezuela,Wheat and Wheat Products,Grains,Plant,49.17,9.38
+South America,Venezuela,Rice,Grains,Plant,23.39,29.93
+South America,Venezuela,Soybeans,Legumes,Plant,0,0
+South America,Venezuela,Nuts inc. Peanut Butter,Legumes,Plant,0.35,0.62
+Europe,Belgium,Pork,Other Meat (inc. Fish),Animal,38.65,136.8
+Europe,Belgium,Poultry,Poultry (inc. Eggs),Animal,12.2,13.11
+Europe,Belgium,Beef,Beef,Animal,15.63,482.31
+Europe,Belgium,Lamb & Goat,Other Meat (inc. Fish),Animal,1.32,46.23
+Europe,Belgium,Fish,Other Meat (inc. Fish),Animal,18.97,30.29
+Europe,Belgium,Eggs,Poultry (inc. Eggs),Animal,12.59,11.57
+Europe,Belgium,Milk - inc. cheese,Milk (inc. cheese),Animal,236.19,336.43
+Europe,Belgium,Wheat and Wheat Products,Grains,Plant,111.91,21.34
+Europe,Belgium,Rice,Grains,Plant,8.61,11.02
+Europe,Belgium,Soybeans,Legumes,Plant,0.07,0.03
+Europe,Belgium,Nuts inc. Peanut Butter,Legumes,Plant,7.32,12.96
+Europe,Germany,Pork,Other Meat (inc. Fish),Animal,51.81,183.38
+Europe,Germany,Poultry,Poultry (inc. Eggs),Animal,17.75,19.07
+Europe,Germany,Beef,Beef,Animal,13.16,406.09
+Europe,Germany,Lamb & Goat,Other Meat (inc. Fish),Animal,0.73,25.56
+Europe,Germany,Fish,Other Meat (inc. Fish),Animal,11.16,17.82
+Europe,Germany,Eggs,Poultry (inc. Eggs),Animal,12.2,11.21
+Europe,Germany,Milk - inc. cheese,Milk (inc. cheese),Animal,258.7,368.49
+Europe,Germany,Wheat and Wheat Products,Grains,Plant,83.41,15.91
+Europe,Germany,Rice,Grains,Plant,3.34,4.27
+Europe,Germany,Soybeans,Legumes,Plant,0.88,0.4
+Europe,Germany,Nuts inc. Peanut Butter,Legumes,Plant,7.96,14.09
+Europe,Russia,Pork,Other Meat (inc. Fish),Animal,25.66,90.82
+Europe,Russia,Poultry,Poultry (inc. Eggs),Animal,27.5,29.54
+Europe,Russia,Beef,Beef,Animal,16.98,523.97
+Europe,Russia,Lamb & Goat,Other Meat (inc. Fish),Animal,1.4,49.03
+Europe,Russia,Fish,Other Meat (inc. Fish),Animal,20.82,33.24
+Europe,Russia,Eggs,Poultry (inc. Eggs),Animal,15.43,14.17
+Europe,Russia,Milk - inc. cheese,Milk (inc. cheese),Animal,163.57,232.99
+Europe,Russia,Wheat and Wheat Products,Grains,Plant,130.99,24.98
+Europe,Russia,Rice,Grains,Plant,4.71,6.03
+Europe,Russia,Soybeans,Legumes,Plant,0.05,0.02
+Europe,Russia,Nuts inc. Peanut Butter,Legumes,Plant,1.62,2.87
+Europe,Croatia,Pork,Other Meat (inc. Fish),Animal,42.79,151.46
+Europe,Croatia,Poultry,Poultry (inc. Eggs),Animal,8.52,9.15
+Europe,Croatia,Beef,Beef,Animal,12.41,382.95
+Europe,Croatia,Lamb & Goat,Other Meat (inc. Fish),Animal,1.71,59.88
+Europe,Croatia,Fish,Other Meat (inc. Fish),Animal,15.83,25.28
+Europe,Croatia,Eggs,Poultry (inc. Eggs),Animal,8.48,7.79
+Europe,Croatia,Milk - inc. cheese,Milk (inc. cheese),Animal,231.02,329.06
+Europe,Croatia,Wheat and Wheat Products,Grains,Plant,106.59,20.33
+Europe,Croatia,Rice,Grains,Plant,2.64,3.38
+Europe,Croatia,Soybeans,Legumes,Plant,0,0
+Europe,Croatia,Nuts inc. Peanut Butter,Legumes,Plant,3.88,6.87
+Europe,Belarus,Pork,Other Meat (inc. Fish),Animal,40.37,142.89
+Europe,Belarus,Poultry,Poultry (inc. Eggs),Animal,31.29,33.61
+Europe,Belarus,Beef,Beef,Animal,17.11,527.98
+Europe,Belarus,Lamb & Goat,Other Meat (inc. Fish),Animal,0.11,3.85
+Europe,Belarus,Fish,Other Meat (inc. Fish),Animal,15.75,25.15
+Europe,Belarus,Eggs,Poultry (inc. Eggs),Animal,15.86,14.57
+Europe,Belarus,Milk - inc. cheese,Milk (inc. cheese),Animal,133.73,190.49
+Europe,Belarus,Wheat and Wheat Products,Grains,Plant,60.48,11.53
+Europe,Belarus,Rice,Grains,Plant,3.17,4.06
+Europe,Belarus,Soybeans,Legumes,Plant,0.3,0.14
+Europe,Belarus,Nuts inc. Peanut Butter,Legumes,Plant,3.36,5.95
+Europe,Spain,Pork,Other Meat (inc. Fish),Animal,48.92,173.15
+Europe,Spain,Poultry,Poultry (inc. Eggs),Animal,28.63,30.75
+Europe,Spain,Beef,Beef,Animal,12.15,374.92
+Europe,Spain,Lamb & Goat,Other Meat (inc. Fish),Animal,2.16,75.64
+Europe,Spain,Fish,Other Meat (inc. Fish),Animal,28.83,46.03
+Europe,Spain,Eggs,Poultry (inc. Eggs),Animal,13.32,12.24
+Europe,Spain,Milk - inc. cheese,Milk (inc. cheese),Animal,164.29,234.01
+Europe,Spain,Wheat and Wheat Products,Grains,Plant,93.88,17.9
+Europe,Spain,Rice,Grains,Plant,8.32,10.65
+Europe,Spain,Soybeans,Legumes,Plant,0.02,0.01
+Europe,Spain,Nuts inc. Peanut Butter,Legumes,Plant,7.44,13.17
+South America,Paraguay,Pork,Other Meat (inc. Fish),Animal,26.24,92.88
+South America,Paraguay,Poultry,Poultry (inc. Eggs),Animal,6.39,6.86
+South America,Paraguay,Beef,Beef,Animal,19.81,611.29
+South America,Paraguay,Lamb & Goat,Other Meat (inc. Fish),Animal,0.56,19.61
+South America,Paraguay,Fish,Other Meat (inc. Fish),Animal,3.6,5.75
+South America,Paraguay,Eggs,Poultry (inc. Eggs),Animal,18.83,17.3
+South America,Paraguay,Milk - inc. cheese,Milk (inc. cheese),Animal,75.72,107.86
+South America,Paraguay,Wheat and Wheat Products,Grains,Plant,31.51,6.01
+South America,Paraguay,Rice,Grains,Plant,4.91,6.28
+South America,Paraguay,Soybeans,Legumes,Plant,0,0
+South America,Paraguay,Nuts inc. Peanut Butter,Legumes,Plant,1.6,2.83
+Oceania,New Caledonia,Pork,Other Meat (inc. Fish),Animal,19.9,70.44
+Oceania,New Caledonia,Poultry,Poultry (inc. Eggs),Animal,44.36,47.65
+Oceania,New Caledonia,Beef,Beef,Animal,16.07,495.89
+Oceania,New Caledonia,Lamb & Goat,Other Meat (inc. Fish),Animal,1.95,68.29
+Oceania,New Caledonia,Fish,Other Meat (inc. Fish),Animal,19.38,30.94
+Oceania,New Caledonia,Eggs,Poultry (inc. Eggs),Animal,8.85,8.13
+Oceania,New Caledonia,Milk - inc. cheese,Milk (inc. cheese),Animal,108,153.84
+Oceania,New Caledonia,Wheat and Wheat Products,Grains,Plant,81.75,15.59
+Oceania,New Caledonia,Rice,Grains,Plant,17.47,22.36
+Oceania,New Caledonia,Soybeans,Legumes,Plant,0.55,0.25
+Oceania,New Caledonia,Nuts inc. Peanut Butter,Legumes,Plant,2.96,5.24
+Africa,South Africa,Pork,Other Meat (inc. Fish),Animal,4.16,14.72
+Africa,South Africa,Poultry,Poultry (inc. Eggs),Animal,37.57,40.36
+Africa,South Africa,Beef,Beef,Animal,18.03,556.37
+Africa,South Africa,Lamb & Goat,Other Meat (inc. Fish),Animal,4.28,149.89
+Africa,South Africa,Fish,Other Meat (inc. Fish),Animal,5.56,8.88
+Africa,South Africa,Eggs,Poultry (inc. Eggs),Animal,7.21,6.62
+Africa,South Africa,Milk - inc. cheese,Milk (inc. cheese),Animal,55.75,79.41
+Africa,South Africa,Wheat and Wheat Products,Grains,Plant,60.13,11.47
+Africa,South Africa,Rice,Grains,Plant,17.41,22.28
+Africa,South Africa,Soybeans,Legumes,Plant,1.27,0.57
+Africa,South Africa,Nuts inc. Peanut Butter,Legumes,Plant,1.04,1.84
+North America,Barbados,Pork,Other Meat (inc. Fish),Animal,8.3,29.38
+North America,Barbados,Poultry,Poultry (inc. Eggs),Animal,42.62,45.78
+North America,Barbados,Beef,Beef,Animal,13.13,405.16
+North America,Barbados,Lamb & Goat,Other Meat (inc. Fish),Animal,4.08,142.88
+North America,Barbados,Fish,Other Meat (inc. Fish),Animal,37.41,59.73
+North America,Barbados,Eggs,Poultry (inc. Eggs),Animal,9.61,8.83
+North America,Barbados,Milk - inc. cheese,Milk (inc. cheese),Animal,110.48,157.37
+North America,Barbados,Wheat and Wheat Products,Grains,Plant,65.71,12.53
+North America,Barbados,Rice,Grains,Plant,15.66,20.04
+North America,Barbados,Soybeans,Legumes,Plant,0.1,0.05
+North America,Barbados,Nuts inc. Peanut Butter,Legumes,Plant,4.16,7.36
+Europe,Lithuania,Pork,Other Meat (inc. Fish),Animal,45.67,161.65
+Europe,Lithuania,Poultry,Poultry (inc. Eggs),Animal,26.84,28.83
+Europe,Lithuania,Beef,Beef,Animal,4.49,138.55
+Europe,Lithuania,Lamb & Goat,Other Meat (inc. Fish),Animal,0.24,8.4
+Europe,Lithuania,Fish,Other Meat (inc. Fish),Animal,42.39,67.68
+Europe,Lithuania,Eggs,Poultry (inc. Eggs),Animal,13.11,12.04
+Europe,Lithuania,Milk - inc. cheese,Milk (inc. cheese),Animal,295.46,420.85
+Europe,Lithuania,Wheat and Wheat Products,Grains,Plant,121.59,23.19
+Europe,Lithuania,Rice,Grains,Plant,3.07,3.93
+Europe,Lithuania,Soybeans,Legumes,Plant,0.02,0.01
+Europe,Lithuania,Nuts inc. Peanut Butter,Legumes,Plant,2.13,3.77
+Europe,Turkey,Pork,Other Meat (inc. Fish),Animal,0.01,0.04
+Europe,Turkey,Poultry,Poultry (inc. Eggs),Animal,18.78,20.17
+Europe,Turkey,Beef,Beef,Animal,11.64,359.19
+Europe,Turkey,Lamb & Goat,Other Meat (inc. Fish),Animal,4.68,163.89
+Europe,Turkey,Fish,Other Meat (inc. Fish),Animal,5.58,8.91
+Europe,Turkey,Eggs,Poultry (inc. Eggs),Animal,8.2,7.53
+Europe,Turkey,Milk - inc. cheese,Milk (inc. cheese),Animal,193.94,276.25
+Europe,Turkey,Wheat and Wheat Products,Grains,Plant,169.96,32.41
+Europe,Turkey,Rice,Grains,Plant,10.74,13.74
+Europe,Turkey,Soybeans,Legumes,Plant,1.71,0.77
+Europe,Turkey,Nuts inc. Peanut Butter,Legumes,Plant,7.97,14.11
+Europe,Estonia,Pork,Other Meat (inc. Fish),Animal,29.68,105.05
+Europe,Estonia,Poultry,Poultry (inc. Eggs),Animal,21.11,22.68
+Europe,Estonia,Beef,Beef,Animal,7.19,221.87
+Europe,Estonia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.44,15.41
+Europe,Estonia,Fish,Other Meat (inc. Fish),Animal,12.78,20.41
+Europe,Estonia,Eggs,Poultry (inc. Eggs),Animal,12.66,11.63
+Europe,Estonia,Milk - inc. cheese,Milk (inc. cheese),Animal,284.85,405.74
+Europe,Estonia,Wheat and Wheat Products,Grains,Plant,89.36,17.04
+Europe,Estonia,Rice,Grains,Plant,2.56,3.28
+Europe,Estonia,Soybeans,Legumes,Plant,0.04,0.02
+Europe,Estonia,Nuts inc. Peanut Butter,Legumes,Plant,4.29,7.59
+North America,Mexico,Pork,Other Meat (inc. Fish),Animal,15.23,53.91
+North America,Mexico,Poultry,Poultry (inc. Eggs),Animal,30.12,32.35
+North America,Mexico,Beef,Beef,Animal,15.33,473.05
+North America,Mexico,Lamb & Goat,Other Meat (inc. Fish),Animal,0.89,31.17
+North America,Mexico,Fish,Other Meat (inc. Fish),Animal,7.56,12.07
+North America,Mexico,Eggs,Poultry (inc. Eggs),Animal,18.34,16.85
+North America,Mexico,Milk - inc. cheese,Milk (inc. cheese),Animal,111.87,159.35
+North America,Mexico,Wheat and Wheat Products,Grains,Plant,35.21,6.71
+North America,Mexico,Rice,Grains,Plant,5.64,7.22
+North America,Mexico,Soybeans,Legumes,Plant,0.02,0.01
+North America,Mexico,Nuts inc. Peanut Butter,Legumes,Plant,2.51,4.44
+North America,Costa Rica,Pork,Other Meat (inc. Fish),Animal,10.28,36.39
+North America,Costa Rica,Poultry,Poultry (inc. Eggs),Animal,24.47,26.29
+North America,Costa Rica,Beef,Beef,Animal,15.23,469.97
+North America,Costa Rica,Lamb & Goat,Other Meat (inc. Fish),Animal,0.02,0.7
+North America,Costa Rica,Fish,Other Meat (inc. Fish),Animal,11.32,18.07
+North America,Costa Rica,Eggs,Poultry (inc. Eggs),Animal,10.55,9.69
+North America,Costa Rica,Milk - inc. cheese,Milk (inc. cheese),Animal,183.28,261.06
+North America,Costa Rica,Wheat and Wheat Products,Grains,Plant,39.31,7.5
+North America,Costa Rica,Rice,Grains,Plant,45.69,58.47
+North America,Costa Rica,Soybeans,Legumes,Plant,1.54,0.69
+North America,Costa Rica,Nuts inc. Peanut Butter,Legumes,Plant,1.38,2.44
+South America,Bolivia,Pork,Other Meat (inc. Fish),Animal,8.89,31.47
+South America,Bolivia,Poultry,Poultry (inc. Eggs),Animal,34.31,36.86
+South America,Bolivia,Beef,Beef,Animal,19.78,610.37
+South America,Bolivia,Lamb & Goat,Other Meat (inc. Fish),Animal,1.72,60.23
+South America,Bolivia,Fish,Other Meat (inc. Fish),Animal,2.18,3.48
+South America,Bolivia,Eggs,Poultry (inc. Eggs),Animal,5.18,4.76
+South America,Bolivia,Milk - inc. cheese,Milk (inc. cheese),Animal,46.04,65.58
+South America,Bolivia,Wheat and Wheat Products,Grains,Plant,49.99,9.53
+South America,Bolivia,Rice,Grains,Plant,26.99,34.54
+South America,Bolivia,Soybeans,Legumes,Plant,0.01,0
+South America,Bolivia,Nuts inc. Peanut Butter,Legumes,Plant,9.16,16.21
+South America,Ecuador,Pork,Other Meat (inc. Fish),Animal,14.44,51.11
+South America,Ecuador,Poultry,Poultry (inc. Eggs),Animal,21.85,23.47
+South America,Ecuador,Beef,Beef,Animal,16.61,512.55
+South America,Ecuador,Lamb & Goat,Other Meat (inc. Fish),Animal,0.44,15.41
+South America,Ecuador,Fish,Other Meat (inc. Fish),Animal,5.17,8.25
+South America,Ecuador,Eggs,Poultry (inc. Eggs),Animal,8.01,7.36
+South America,Ecuador,Milk - inc. cheese,Milk (inc. cheese),Animal,139.6,198.85
+South America,Ecuador,Wheat and Wheat Products,Grains,Plant,39.19,7.47
+South America,Ecuador,Rice,Grains,Plant,45.07,57.68
+South America,Ecuador,Soybeans,Legumes,Plant,0,0
+South America,Ecuador,Nuts inc. Peanut Butter,Legumes,Plant,0.98,1.73
+North America,Panama,Pork,Other Meat (inc. Fish),Animal,13.48,47.71
+North America,Panama,Poultry,Poultry (inc. Eggs),Animal,30.81,33.1
+North America,Panama,Beef,Beef,Animal,20.4,629.5
+North America,Panama,Lamb & Goat,Other Meat (inc. Fish),Animal,0.01,0.35
+North America,Panama,Fish,Other Meat (inc. Fish),Animal,11.05,17.64
+North America,Panama,Eggs,Poultry (inc. Eggs),Animal,4.53,4.16
+North America,Panama,Milk - inc. cheese,Milk (inc. cheese),Animal,70.29,100.12
+North America,Panama,Wheat and Wheat Products,Grains,Plant,38.96,7.43
+North America,Panama,Rice,Grains,Plant,66.42,85
+North America,Panama,Soybeans,Legumes,Plant,3.53,1.59
+North America,Panama,Nuts inc. Peanut Butter,Legumes,Plant,1.05,1.86
+Europe,Czech Republic,Pork,Other Meat (inc. Fish),Animal,41.17,145.72
+Europe,Czech Republic,Poultry,Poultry (inc. Eggs),Animal,19.09,20.51
+Europe,Czech Republic,Beef,Beef,Animal,8.15,251.49
+Europe,Czech Republic,Lamb & Goat,Other Meat (inc. Fish),Animal,0.34,11.91
+Europe,Czech Republic,Fish,Other Meat (inc. Fish),Animal,8.25,13.17
+Europe,Czech Republic,Eggs,Poultry (inc. Eggs),Animal,11.66,10.71
+Europe,Czech Republic,Milk - inc. cheese,Milk (inc. cheese),Animal,195.2,278.04
+Europe,Czech Republic,Wheat and Wheat Products,Grains,Plant,92.67,17.67
+Europe,Czech Republic,Rice,Grains,Plant,4.79,6.13
+Europe,Czech Republic,Soybeans,Legumes,Plant,0.82,0.37
+Europe,Czech Republic,Nuts inc. Peanut Butter,Legumes,Plant,2.47,4.37
+Europe,Romania,Pork,Other Meat (inc. Fish),Animal,25.31,89.58
+Europe,Romania,Poultry,Poultry (inc. Eggs),Animal,15.38,16.52
+Europe,Romania,Beef,Beef,Animal,4.78,147.5
+Europe,Romania,Lamb & Goat,Other Meat (inc. Fish),Animal,3.41,119.42
+Europe,Romania,Fish,Other Meat (inc. Fish),Animal,6.07,9.69
+Europe,Romania,Eggs,Poultry (inc. Eggs),Animal,12.94,11.89
+Europe,Romania,Milk - inc. cheese,Milk (inc. cheese),Animal,238.33,339.48
+Europe,Romania,Wheat and Wheat Products,Grains,Plant,134.87,25.72
+Europe,Romania,Rice,Grains,Plant,2.59,3.31
+Europe,Romania,Soybeans,Legumes,Plant,0.01,0
+Europe,Romania,Nuts inc. Peanut Butter,Legumes,Plant,1.8,3.19
+South America,Colombia,Pork,Other Meat (inc. Fish),Animal,6.51,23.04
+South America,Colombia,Poultry,Poultry (inc. Eggs),Animal,27.57,29.62
+South America,Colombia,Beef,Beef,Animal,16.36,504.84
+South America,Colombia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.21,7.35
+South America,Colombia,Fish,Other Meat (inc. Fish),Animal,6.01,9.6
+South America,Colombia,Eggs,Poultry (inc. Eggs),Animal,10.78,9.9
+South America,Colombia,Milk - inc. cheese,Milk (inc. cheese),Animal,108.47,154.5
+South America,Colombia,Wheat and Wheat Products,Grains,Plant,29.79,5.68
+South America,Colombia,Rice,Grains,Plant,28.02,35.86
+South America,Colombia,Soybeans,Legumes,Plant,0.89,0.4
+South America,Colombia,Nuts inc. Peanut Butter,Legumes,Plant,0.42,0.74
+Asia,Maldives,Pork,Other Meat (inc. Fish),Animal,1.22,4.32
+Asia,Maldives,Poultry,Poultry (inc. Eggs),Animal,18.47,19.84
+Asia,Maldives,Beef,Beef,Animal,9.44,291.3
+Asia,Maldives,Lamb & Goat,Other Meat (inc. Fish),Animal,0.7,24.51
+Asia,Maldives,Fish,Other Meat (inc. Fish),Animal,179.71,286.94
+Asia,Maldives,Eggs,Poultry (inc. Eggs),Animal,10.79,9.91
+Asia,Maldives,Milk - inc. cheese,Milk (inc. cheese),Animal,111.47,158.78
+Asia,Maldives,Wheat and Wheat Products,Grains,Plant,77.77,14.83
+Asia,Maldives,Rice,Grains,Plant,50.73,64.92
+Asia,Maldives,Soybeans,Legumes,Plant,0.2,0.09
+Asia,Maldives,Nuts inc. Peanut Butter,Legumes,Plant,15.83,28.02
+Europe,Cyprus,Pork,Other Meat (inc. Fish),Animal,38.38,135.85
+Europe,Cyprus,Poultry,Poultry (inc. Eggs),Animal,24.45,26.26
+Europe,Cyprus,Beef,Beef,Animal,5.79,178.67
+Europe,Cyprus,Lamb & Goat,Other Meat (inc. Fish),Animal,5.05,176.85
+Europe,Cyprus,Fish,Other Meat (inc. Fish),Animal,14.86,23.73
+Europe,Cyprus,Eggs,Poultry (inc. Eggs),Animal,8.98,8.25
+Europe,Cyprus,Milk - inc. cheese,Milk (inc. cheese),Animal,113.31,161.4
+Europe,Cyprus,Wheat and Wheat Products,Grains,Plant,83.25,15.88
+Europe,Cyprus,Rice,Grains,Plant,4.94,6.32
+Europe,Cyprus,Soybeans,Legumes,Plant,0.04,0.02
+Europe,Cyprus,Nuts inc. Peanut Butter,Legumes,Plant,4.6,8.14
+Europe,Serbia,Pork,Other Meat (inc. Fish),Animal,32.04,113.41
+Europe,Serbia,Poultry,Poultry (inc. Eggs),Animal,10.64,11.43
+Europe,Serbia,Beef,Beef,Animal,7.05,217.55
+Europe,Serbia,Lamb & Goat,Other Meat (inc. Fish),Animal,3.56,124.67
+Europe,Serbia,Fish,Other Meat (inc. Fish),Animal,5.59,8.93
+Europe,Serbia,Eggs,Poultry (inc. Eggs),Animal,8.89,8.17
+Europe,Serbia,Milk - inc. cheese,Milk (inc. cheese),Animal,148.53,211.57
+Europe,Serbia,Wheat and Wheat Products,Grains,Plant,105.88,20.19
+Europe,Serbia,Rice,Grains,Plant,1.22,1.56
+Europe,Serbia,Soybeans,Legumes,Plant,0,0
+Europe,Serbia,Nuts inc. Peanut Butter,Legumes,Plant,3.31,5.86
+Asia,United Arab Emirates,Pork,Other Meat (inc. Fish),Animal,0,0
+Asia,United Arab Emirates,Poultry,Poultry (inc. Eggs),Animal,41.04,44.09
+Asia,United Arab Emirates,Beef,Beef,Animal,5.64,174.04
+Asia,United Arab Emirates,Lamb & Goat,Other Meat (inc. Fish),Animal,9.08,317.98
+Asia,United Arab Emirates,Fish,Other Meat (inc. Fish),Animal,20.41,32.59
+Asia,United Arab Emirates,Eggs,Poultry (inc. Eggs),Animal,8.23,7.56
+Asia,United Arab Emirates,Milk - inc. cheese,Milk (inc. cheese),Animal,132.66,188.96
+Asia,United Arab Emirates,Wheat and Wheat Products,Grains,Plant,101.29,19.32
+Asia,United Arab Emirates,Rice,Grains,Plant,56.25,71.98
+Asia,United Arab Emirates,Soybeans,Legumes,Plant,0.08,0.04
+Asia,United Arab Emirates,Nuts inc. Peanut Butter,Legumes,Plant,23.03,40.76
+Africa,Algeria,Pork,Other Meat (inc. Fish),Animal,0,0
+Africa,Algeria,Poultry,Poultry (inc. Eggs),Animal,7.42,7.97
+Africa,Algeria,Beef,Beef,Animal,5.6,172.8
+Africa,Algeria,Lamb & Goat,Other Meat (inc. Fish),Animal,7.69,269.3
+Africa,Algeria,Fish,Other Meat (inc. Fish),Animal,3.74,5.97
+Africa,Algeria,Eggs,Poultry (inc. Eggs),Animal,8.06,7.4
+Africa,Algeria,Milk - inc. cheese,Milk (inc. cheese),Animal,141.53,201.6
+Africa,Algeria,Wheat and Wheat Products,Grains,Plant,185.42,35.36
+Africa,Algeria,Rice,Grains,Plant,2.97,3.8
+Africa,Algeria,Soybeans,Legumes,Plant,0,0
+Africa,Algeria,Nuts inc. Peanut Butter,Legumes,Plant,2.08,3.68
+Europe,Ukraine,Pork,Other Meat (inc. Fish),Animal,20.56,72.77
+Europe,Ukraine,Poultry,Poultry (inc. Eggs),Animal,24.23,26.03
+Europe,Ukraine,Beef,Beef,Animal,8.96,276.49
+Europe,Ukraine,Lamb & Goat,Other Meat (inc. Fish),Animal,0.41,14.36
+Europe,Ukraine,Fish,Other Meat (inc. Fish),Animal,15.23,24.32
+Europe,Ukraine,Eggs,Poultry (inc. Eggs),Animal,18.01,16.54
+Europe,Ukraine,Milk - inc. cheese,Milk (inc. cheese),Animal,145.03,206.58
+Europe,Ukraine,Wheat and Wheat Products,Grains,Plant,105.15,20.05
+Europe,Ukraine,Rice,Grains,Plant,3,3.84
+Europe,Ukraine,Soybeans,Legumes,Plant,0.02,0.01
+Europe,Ukraine,Nuts inc. Peanut Butter,Legumes,Plant,2.68,4.74
+Asia,Pakistan,Pork,Other Meat (inc. Fish),Animal,0,0
+Asia,Pakistan,Poultry,Poultry (inc. Eggs),Animal,5.01,5.38
+Asia,Pakistan,Beef,Beef,Animal,8.82,272.17
+Asia,Pakistan,Lamb & Goat,Other Meat (inc. Fish),Animal,2.46,86.15
+Asia,Pakistan,Fish,Other Meat (inc. Fish),Animal,1.87,2.99
+Asia,Pakistan,Eggs,Poultry (inc. Eggs),Animal,2.95,2.71
+Asia,Pakistan,Milk - inc. cheese,Milk (inc. cheese),Animal,183.13,260.85
+Asia,Pakistan,Wheat and Wheat Products,Grains,Plant,113.63,21.67
+Asia,Pakistan,Rice,Grains,Plant,12.25,15.68
+Asia,Pakistan,Soybeans,Legumes,Plant,0,0
+Asia,Pakistan,Nuts inc. Peanut Butter,Legumes,Plant,0.83,1.47
+Africa,Swaziland,Pork,Other Meat (inc. Fish),Animal,2.43,8.6
+Africa,Swaziland,Poultry,Poultry (inc. Eggs),Animal,6.18,6.64
+Africa,Swaziland,Beef,Beef,Animal,15.1,465.95
+Africa,Swaziland,Lamb & Goat,Other Meat (inc. Fish),Animal,1.94,67.94
+Africa,Swaziland,Fish,Other Meat (inc. Fish),Animal,1.26,2.01
+Africa,Swaziland,Eggs,Poultry (inc. Eggs),Animal,1.5,1.38
+Africa,Swaziland,Milk - inc. cheese,Milk (inc. cheese),Animal,56.6,80.62
+Africa,Swaziland,Wheat and Wheat Products,Grains,Plant,37.15,7.08
+Africa,Swaziland,Rice,Grains,Plant,21.15,27.07
+Africa,Swaziland,Soybeans,Legumes,Plant,0.55,0.25
+Africa,Swaziland,Nuts inc. Peanut Butter,Legumes,Plant,6.44,11.4
+Europe,Latvia,Pork,Other Meat (inc. Fish),Animal,34.96,123.74
+Europe,Latvia,Poultry,Poultry (inc. Eggs),Animal,20.53,22.05
+Europe,Latvia,Beef,Beef,Animal,5.11,157.68
+Europe,Latvia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.34,11.91
+Europe,Latvia,Fish,Other Meat (inc. Fish),Animal,21.3,34.01
+Europe,Latvia,Eggs,Poultry (inc. Eggs),Animal,14.03,12.89
+Europe,Latvia,Milk - inc. cheese,Milk (inc. cheese),Animal,174.11,248
+Europe,Latvia,Wheat and Wheat Products,Grains,Plant,72.13,13.76
+Europe,Latvia,Rice,Grains,Plant,2.21,2.83
+Europe,Latvia,Soybeans,Legumes,Plant,0.04,0.02
+Europe,Latvia,Nuts inc. Peanut Butter,Legumes,Plant,3.78,6.69
+Europe,Bosnia and Herzegovina,Pork,Other Meat (inc. Fish),Animal,9.38,33.2
+Europe,Bosnia and Herzegovina,Poultry,Poultry (inc. Eggs),Animal,13.17,14.15
+Europe,Bosnia and Herzegovina,Beef,Beef,Animal,9.12,281.42
+Europe,Bosnia and Herzegovina,Lamb & Goat,Other Meat (inc. Fish),Animal,0.47,16.46
+Europe,Bosnia and Herzegovina,Fish,Other Meat (inc. Fish),Animal,4.06,6.48
+Europe,Bosnia and Herzegovina,Eggs,Poultry (inc. Eggs),Animal,4.49,4.12
+Europe,Bosnia and Herzegovina,Milk - inc. cheese,Milk (inc. cheese),Animal,174.03,247.89
+Europe,Bosnia and Herzegovina,Wheat and Wheat Products,Grains,Plant,93.56,17.84
+Europe,Bosnia and Herzegovina,Rice,Grains,Plant,1.88,2.41
+Europe,Bosnia and Herzegovina,Soybeans,Legumes,Plant,1.48,0.67
+Europe,Bosnia and Herzegovina,Nuts inc. Peanut Butter,Legumes,Plant,2,3.54
+Oceania,Fiji,Pork,Other Meat (inc. Fish),Animal,4.31,15.26
+Oceania,Fiji,Poultry,Poultry (inc. Eggs),Animal,20.26,21.76
+Oceania,Fiji,Beef,Beef,Animal,8.96,276.49
+Oceania,Fiji,Lamb & Goat,Other Meat (inc. Fish),Animal,5.9,206.62
+Oceania,Fiji,Fish,Other Meat (inc. Fish),Animal,35.01,55.9
+Oceania,Fiji,Eggs,Poultry (inc. Eggs),Animal,6.44,5.92
+Oceania,Fiji,Milk - inc. cheese,Milk (inc. cheese),Animal,40.2,57.26
+Oceania,Fiji,Wheat and Wheat Products,Grains,Plant,84.22,16.06
+Oceania,Fiji,Rice,Grains,Plant,45.62,58.38
+Oceania,Fiji,Soybeans,Legumes,Plant,0.3,0.14
+Oceania,Fiji,Nuts inc. Peanut Butter,Legumes,Plant,1.3,2.3
+Asia,South Korea,Pork,Other Meat (inc. Fish),Animal,32.76,115.95
+Asia,South Korea,Poultry,Poultry (inc. Eggs),Animal,16,17.19
+Asia,South Korea,Beef,Beef,Animal,14.53,448.37
+Asia,South Korea,Lamb & Goat,Other Meat (inc. Fish),Animal,0.14,4.9
+Asia,South Korea,Fish,Other Meat (inc. Fish),Animal,33.09,52.83
+Asia,South Korea,Eggs,Poultry (inc. Eggs),Animal,11.24,10.33
+Asia,South Korea,Milk - inc. cheese,Milk (inc. cheese),Animal,29.05,41.38
+Asia,South Korea,Wheat and Wheat Products,Grains,Plant,50.84,9.7
+Asia,South Korea,Rice,Grains,Plant,85.18,109
+Asia,South Korea,Soybeans,Legumes,Plant,8.35,3.76
+Asia,South Korea,Nuts inc. Peanut Butter,Legumes,Plant,4.88,8.64
+Europe,Poland,Pork,Other Meat (inc. Fish),Animal,46.19,163.49
+Europe,Poland,Poultry,Poultry (inc. Eggs),Animal,27.41,29.44
+Europe,Poland,Beef,Beef,Animal,2.32,71.59
+Europe,Poland,Lamb & Goat,Other Meat (inc. Fish),Animal,0.02,0.7
+Europe,Poland,Fish,Other Meat (inc. Fish),Animal,10.49,16.75
+Europe,Poland,Eggs,Poultry (inc. Eggs),Animal,7.53,6.92
+Europe,Poland,Milk - inc. cheese,Milk (inc. cheese),Animal,205.39,292.56
+Europe,Poland,Wheat and Wheat Products,Grains,Plant,108.83,20.75
+Europe,Poland,Rice,Grains,Plant,0.95,1.22
+Europe,Poland,Soybeans,Legumes,Plant,0.06,0.03
+Europe,Poland,Nuts inc. Peanut Butter,Legumes,Plant,2.23,3.95
+Asia,Saudi Arabia,Pork,Other Meat (inc. Fish),Animal,0,0
+Asia,Saudi Arabia,Poultry,Poultry (inc. Eggs),Animal,49.05,52.69
+Asia,Saudi Arabia,Beef,Beef,Animal,6.45,199.03
+Asia,Saudi Arabia,Lamb & Goat,Other Meat (inc. Fish),Animal,6.54,229.03
+Asia,Saudi Arabia,Fish,Other Meat (inc. Fish),Animal,11.99,19.14
+Asia,Saudi Arabia,Eggs,Poultry (inc. Eggs),Animal,5.37,4.93
+Asia,Saudi Arabia,Milk - inc. cheese,Milk (inc. cheese),Animal,83.65,119.15
+Asia,Saudi Arabia,Wheat and Wheat Products,Grains,Plant,89.47,17.06
+Asia,Saudi Arabia,Rice,Grains,Plant,36.02,46.09
+Asia,Saudi Arabia,Soybeans,Legumes,Plant,0.05,0.02
+Asia,Saudi Arabia,Nuts inc. Peanut Butter,Legumes,Plant,3.23,5.72
+Africa,Botswana,Pork,Other Meat (inc. Fish),Animal,0.74,2.62
+Africa,Botswana,Poultry,Poultry (inc. Eggs),Animal,5.33,5.73
+Africa,Botswana,Beef,Beef,Animal,7.85,242.23
+Africa,Botswana,Lamb & Goat,Other Meat (inc. Fish),Animal,3.76,131.67
+Africa,Botswana,Fish,Other Meat (inc. Fish),Animal,3.98,6.35
+Africa,Botswana,Eggs,Poultry (inc. Eggs),Animal,1.95,1.79
+Africa,Botswana,Milk - inc. cheese,Milk (inc. cheese),Animal,117.74,167.71
+Africa,Botswana,Wheat and Wheat Products,Grains,Plant,38.2,7.28
+Africa,Botswana,Rice,Grains,Plant,7.06,9.03
+Africa,Botswana,Soybeans,Legumes,Plant,1.16,0.52
+Africa,Botswana,Nuts inc. Peanut Butter,Legumes,Plant,1.08,1.91
+Europe,Macedonia,Pork,Other Meat (inc. Fish),Animal,10.35,36.63
+Europe,Macedonia,Poultry,Poultry (inc. Eggs),Animal,18.77,20.16
+Europe,Macedonia,Beef,Beef,Animal,7.69,237.3
+Europe,Macedonia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.94,32.92
+Europe,Macedonia,Fish,Other Meat (inc. Fish),Animal,5.47,8.73
+Europe,Macedonia,Eggs,Poultry (inc. Eggs),Animal,6.38,5.86
+Europe,Macedonia,Milk - inc. cheese,Milk (inc. cheese),Animal,157.93,224.96
+Europe,Macedonia,Wheat and Wheat Products,Grains,Plant,104.8,19.99
+Europe,Macedonia,Rice,Grains,Plant,2.81,3.6
+Europe,Macedonia,Soybeans,Legumes,Plant,0.46,0.21
+Europe,Macedonia,Nuts inc. Peanut Butter,Legumes,Plant,5.87,10.39
+Europe,Hungary,Pork,Other Meat (inc. Fish),Animal,34.93,123.63
+Europe,Hungary,Poultry,Poultry (inc. Eggs),Animal,23.78,25.54
+Europe,Hungary,Beef,Beef,Animal,4.96,153.06
+Europe,Hungary,Lamb & Goat,Other Meat (inc. Fish),Animal,0.11,3.85
+Europe,Hungary,Fish,Other Meat (inc. Fish),Animal,4.93,7.87
+Europe,Hungary,Eggs,Poultry (inc. Eggs),Animal,12.45,11.44
+Europe,Hungary,Milk - inc. cheese,Milk (inc. cheese),Animal,159.05,226.55
+Europe,Hungary,Wheat and Wheat Products,Grains,Plant,109.98,20.97
+Europe,Hungary,Rice,Grains,Plant,2.15,2.75
+Europe,Hungary,Soybeans,Legumes,Plant,0.01,0
+Europe,Hungary,Nuts inc. Peanut Butter,Legumes,Plant,0.64,1.13
+South America,Trinidad and Tobago,Pork,Other Meat (inc. Fish),Animal,8.92,31.57
+South America,Trinidad and Tobago,Poultry,Poultry (inc. Eggs),Animal,58.27,62.59
+South America,Trinidad and Tobago,Beef,Beef,Animal,6.13,189.16
+South America,Trinidad and Tobago,Lamb & Goat,Other Meat (inc. Fish),Animal,2.79,97.71
+South America,Trinidad and Tobago,Fish,Other Meat (inc. Fish),Animal,20.54,32.8
+South America,Trinidad and Tobago,Eggs,Poultry (inc. Eggs),Animal,4.2,3.86
+South America,Trinidad and Tobago,Milk - inc. cheese,Milk (inc. cheese),Animal,103.8,147.85
+South America,Trinidad and Tobago,Wheat and Wheat Products,Grains,Plant,90.17,17.2
+South America,Trinidad and Tobago,Rice,Grains,Plant,16.38,20.96
+South America,Trinidad and Tobago,Soybeans,Legumes,Plant,0.04,0.02
+South America,Trinidad and Tobago,Nuts inc. Peanut Butter,Legumes,Plant,3.78,6.69
+Africa,Tunisia,Pork,Other Meat (inc. Fish),Animal,0,0
+Africa,Tunisia,Poultry,Poultry (inc. Eggs),Animal,18.5,19.87
+Africa,Tunisia,Beef,Beef,Animal,5.53,170.64
+Africa,Tunisia,Lamb & Goat,Other Meat (inc. Fish),Animal,5.34,187.01
+Africa,Tunisia,Fish,Other Meat (inc. Fish),Animal,12.63,20.17
+Africa,Tunisia,Eggs,Poultry (inc. Eggs),Animal,7.67,7.05
+Africa,Tunisia,Milk - inc. cheese,Milk (inc. cheese),Animal,114.47,163.05
+Africa,Tunisia,Wheat and Wheat Products,Grains,Plant,197.5,37.66
+Africa,Tunisia,Rice,Grains,Plant,1.07,1.37
+Africa,Tunisia,Soybeans,Legumes,Plant,1.88,0.85
+Africa,Tunisia,Nuts inc. Peanut Butter,Legumes,Plant,6.34,11.22
+Africa,Egypt,Pork,Other Meat (inc. Fish),Animal,0.02,0.07
+Africa,Egypt,Poultry,Poultry (inc. Eggs),Animal,14.43,15.5
+Africa,Egypt,Beef,Beef,Animal,12.88,397.45
+Africa,Egypt,Lamb & Goat,Other Meat (inc. Fish),Animal,1.58,55.33
+Africa,Egypt,Fish,Other Meat (inc. Fish),Animal,21.46,34.26
+Africa,Egypt,Eggs,Poultry (inc. Eggs),Animal,4.59,4.22
+Africa,Egypt,Milk - inc. cheese,Milk (inc. cheese),Animal,59.46,84.69
+Africa,Egypt,Wheat and Wheat Products,Grains,Plant,146.83,28
+Africa,Egypt,Rice,Grains,Plant,39.77,50.89
+Africa,Egypt,Soybeans,Legumes,Plant,0.64,0.29
+Africa,Egypt,Nuts inc. Peanut Butter,Legumes,Plant,1.82,3.22
+Africa,Mauritius,Pork,Other Meat (inc. Fish),Animal,4.08,14.44
+Africa,Mauritius,Poultry,Poultry (inc. Eggs),Animal,38.51,41.37
+Africa,Mauritius,Beef,Beef,Animal,5.99,184.84
+Africa,Mauritius,Lamb & Goat,Other Meat (inc. Fish),Animal,4.08,142.88
+Africa,Mauritius,Fish,Other Meat (inc. Fish),Animal,19.66,31.39
+Africa,Mauritius,Eggs,Poultry (inc. Eggs),Animal,6.32,5.81
+Africa,Mauritius,Milk - inc. cheese,Milk (inc. cheese),Animal,117.27,167.04
+Africa,Mauritius,Wheat and Wheat Products,Grains,Plant,114.02,21.74
+Africa,Mauritius,Rice,Grains,Plant,45.56,58.3
+Africa,Mauritius,Soybeans,Legumes,Plant,0.3,0.14
+Africa,Mauritius,Nuts inc. Peanut Butter,Legumes,Plant,2.33,4.12
+Europe,Bulgaria,Pork,Other Meat (inc. Fish),Animal,26.26,92.95
+Europe,Bulgaria,Poultry,Poultry (inc. Eggs),Animal,20.68,22.21
+Europe,Bulgaria,Beef,Beef,Animal,3.84,118.49
+Europe,Bulgaria,Lamb & Goat,Other Meat (inc. Fish),Animal,1.63,57.08
+Europe,Bulgaria,Fish,Other Meat (inc. Fish),Animal,6.24,9.96
+Europe,Bulgaria,Eggs,Poultry (inc. Eggs),Animal,8.36,7.68
+Europe,Bulgaria,Milk - inc. cheese,Milk (inc. cheese),Animal,155.71,221.79
+Europe,Bulgaria,Wheat and Wheat Products,Grains,Plant,121.17,23.11
+Europe,Bulgaria,Rice,Grains,Plant,2.24,2.87
+Europe,Bulgaria,Soybeans,Legumes,Plant,0.04,0.02
+Europe,Bulgaria,Nuts inc. Peanut Butter,Legumes,Plant,2.26,4
+Africa,Morocco,Pork,Other Meat (inc. Fish),Animal,0.01,0.04
+Africa,Morocco,Poultry,Poultry (inc. Eggs),Animal,20.77,22.31
+Africa,Morocco,Beef,Beef,Animal,8.04,248.1
+Africa,Morocco,Lamb & Goat,Other Meat (inc. Fish),Animal,4.36,152.69
+Africa,Morocco,Fish,Other Meat (inc. Fish),Animal,17.44,27.85
+Africa,Morocco,Eggs,Poultry (inc. Eggs),Animal,6.68,6.14
+Africa,Morocco,Milk - inc. cheese,Milk (inc. cheese),Animal,54.68,77.89
+Africa,Morocco,Wheat and Wheat Products,Grains,Plant,179.7,34.27
+Africa,Morocco,Rice,Grains,Plant,1.1,1.41
+Africa,Morocco,Soybeans,Legumes,Plant,0,0
+Africa,Morocco,Nuts inc. Peanut Butter,Legumes,Plant,3.23,5.72
+Europe,Slovakia,Pork,Other Meat (inc. Fish),Animal,31.78,112.49
+Europe,Slovakia,Poultry,Poultry (inc. Eggs),Animal,15.13,16.25
+Europe,Slovakia,Beef,Beef,Animal,5.19,160.15
+Europe,Slovakia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.16,5.6
+Europe,Slovakia,Fish,Other Meat (inc. Fish),Animal,8.39,13.4
+Europe,Slovakia,Eggs,Poultry (inc. Eggs),Animal,16.05,14.74
+Europe,Slovakia,Milk - inc. cheese,Milk (inc. cheese),Animal,143.14,203.89
+Europe,Slovakia,Wheat and Wheat Products,Grains,Plant,123.62,23.57
+Europe,Slovakia,Rice,Grains,Plant,2.88,3.69
+Europe,Slovakia,Soybeans,Legumes,Plant,0.02,0.01
+Europe,Slovakia,Nuts inc. Peanut Butter,Legumes,Plant,3.7,6.55
+Africa,Niger,Pork,Other Meat (inc. Fish),Animal,0.09,0.32
+Africa,Niger,Poultry,Poultry (inc. Eggs),Animal,1.08,1.16
+Africa,Niger,Beef,Beef,Animal,8.97,276.8
+Africa,Niger,Lamb & Goat,Other Meat (inc. Fish),Animal,4.17,146.03
+Africa,Niger,Fish,Other Meat (inc. Fish),Animal,2.7,4.31
+Africa,Niger,Eggs,Poultry (inc. Eggs),Animal,0.3,0.28
+Africa,Niger,Milk - inc. cheese,Milk (inc. cheese),Animal,58.92,83.93
+Africa,Niger,Wheat and Wheat Products,Grains,Plant,4.79,0.91
+Africa,Niger,Rice,Grains,Plant,13.17,16.85
+Africa,Niger,Soybeans,Legumes,Plant,0,0
+Africa,Niger,Nuts inc. Peanut Butter,Legumes,Plant,6.95,12.3
+Africa,Kenya,Pork,Other Meat (inc. Fish),Animal,0.29,1.03
+Africa,Kenya,Poultry,Poultry (inc. Eggs),Animal,0.47,0.5
+Africa,Kenya,Beef,Beef,Animal,9.54,294.38
+Africa,Kenya,Lamb & Goat,Other Meat (inc. Fish),Animal,1.86,65.14
+Africa,Kenya,Fish,Other Meat (inc. Fish),Animal,4.27,6.82
+Africa,Kenya,Eggs,Poultry (inc. Eggs),Animal,1.84,1.69
+Africa,Kenya,Milk - inc. cheese,Milk (inc. cheese),Animal,94.86,135.12
+Africa,Kenya,Wheat and Wheat Products,Grains,Plant,34.65,6.61
+Africa,Kenya,Rice,Grains,Plant,12.94,16.56
+Africa,Kenya,Soybeans,Legumes,Plant,0.2,0.09
+Africa,Kenya,Nuts inc. Peanut Butter,Legumes,Plant,1.64,2.9
+Asia,Jordan,Pork,Other Meat (inc. Fish),Animal,0.02,0.07
+Asia,Jordan,Poultry,Poultry (inc. Eggs),Animal,33.39,35.87
+Asia,Jordan,Beef,Beef,Animal,5.61,173.11
+Asia,Jordan,Lamb & Goat,Other Meat (inc. Fish),Animal,5.68,198.91
+Asia,Jordan,Fish,Other Meat (inc. Fish),Animal,5.13,8.19
+Asia,Jordan,Eggs,Poultry (inc. Eggs),Animal,3.92,3.6
+Asia,Jordan,Milk - inc. cheese,Milk (inc. cheese),Animal,77.68,110.65
+Asia,Jordan,Wheat and Wheat Products,Grains,Plant,136.74,26.08
+Asia,Jordan,Rice,Grains,Plant,19.67,25.17
+Asia,Jordan,Soybeans,Legumes,Plant,0.02,0.01
+Asia,Jordan,Nuts inc. Peanut Butter,Legumes,Plant,3.56,6.3
+Asia,Japan,Pork,Other Meat (inc. Fish),Animal,20.62,72.98
+Asia,Japan,Poultry,Poultry (inc. Eggs),Animal,19.42,20.86
+Asia,Japan,Beef,Beef,Animal,9.15,282.35
+Asia,Japan,Lamb & Goat,Other Meat (inc. Fish),Animal,0.14,4.9
+Asia,Japan,Fish,Other Meat (inc. Fish),Animal,31.1,49.66
+Asia,Japan,Eggs,Poultry (inc. Eggs),Animal,19.15,17.59
+Asia,Japan,Milk - inc. cheese,Milk (inc. cheese),Animal,72.06,102.64
+Asia,Japan,Wheat and Wheat Products,Grains,Plant,45.04,8.59
+Asia,Japan,Rice,Grains,Plant,59.85,76.59
+Asia,Japan,Soybeans,Legumes,Plant,7.34,3.3
+Asia,Japan,Nuts inc. Peanut Butter,Legumes,Plant,2.59,4.58
+Europe,Georgia,Pork,Other Meat (inc. Fish),Animal,8.93,31.61
+Europe,Georgia,Poultry,Poultry (inc. Eggs),Animal,12.28,13.19
+Europe,Georgia,Beef,Beef,Animal,6.04,186.38
+Europe,Georgia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.63,22.06
+Europe,Georgia,Fish,Other Meat (inc. Fish),Animal,10.42,16.64
+Europe,Georgia,Eggs,Poultry (inc. Eggs),Animal,6.12,5.62
+Europe,Georgia,Milk - inc. cheese,Milk (inc. cheese),Animal,149.26,212.61
+Europe,Georgia,Wheat and Wheat Products,Grains,Plant,163.43,31.17
+Europe,Georgia,Rice,Grains,Plant,2.64,3.38
+Europe,Georgia,Soybeans,Legumes,Plant,0,0
+Europe,Georgia,Nuts inc. Peanut Butter,Legumes,Plant,2.47,4.37
+North America,Grenada,Pork,Other Meat (inc. Fish),Animal,11.52,40.78
+North America,Grenada,Poultry,Poultry (inc. Eggs),Animal,43.51,46.74
+North America,Grenada,Beef,Beef,Animal,3.46,106.77
+North America,Grenada,Lamb & Goat,Other Meat (inc. Fish),Animal,1.25,43.77
+North America,Grenada,Fish,Other Meat (inc. Fish),Animal,27.95,44.63
+North America,Grenada,Eggs,Poultry (inc. Eggs),Animal,10.34,9.5
+North America,Grenada,Milk - inc. cheese,Milk (inc. cheese),Animal,86.88,123.75
+North America,Grenada,Wheat and Wheat Products,Grains,Plant,59.59,11.36
+North America,Grenada,Rice,Grains,Plant,9.56,12.23
+North America,Grenada,Soybeans,Legumes,Plant,0.01,0
+North America,Grenada,Nuts inc. Peanut Butter,Legumes,Plant,0.18,0.32
+North America,El Salvador,Pork,Other Meat (inc. Fish),Animal,3.23,11.43
+North America,El Salvador,Poultry,Poultry (inc. Eggs),Animal,19.84,21.31
+North America,El Salvador,Beef,Beef,Animal,5.95,183.6
+North America,El Salvador,Lamb & Goat,Other Meat (inc. Fish),Animal,0.02,0.7
+North America,El Salvador,Fish,Other Meat (inc. Fish),Animal,6.25,9.98
+North America,El Salvador,Eggs,Poultry (inc. Eggs),Animal,9.51,8.74
+North America,El Salvador,Milk - inc. cheese,Milk (inc. cheese),Animal,124.34,177.11
+North America,El Salvador,Wheat and Wheat Products,Grains,Plant,28.19,5.38
+North America,El Salvador,Rice,Grains,Plant,10.53,13.48
+North America,El Salvador,Soybeans,Legumes,Plant,0.8,0.36
+North America,El Salvador,Nuts inc. Peanut Butter,Legumes,Plant,1.1,1.95
+North America,Cuba,Pork,Other Meat (inc. Fish),Animal,19.82,70.15
+North America,Cuba,Poultry,Poultry (inc. Eggs),Animal,20.15,21.65
+North America,Cuba,Beef,Beef,Animal,6.39,197.18
+North America,Cuba,Lamb & Goat,Other Meat (inc. Fish),Animal,1.24,43.42
+North America,Cuba,Fish,Other Meat (inc. Fish),Animal,4.76,7.6
+North America,Cuba,Eggs,Poultry (inc. Eggs),Animal,9.82,9.02
+North America,Cuba,Milk - inc. cheese,Milk (inc. cheese),Animal,99.94,142.35
+North America,Cuba,Wheat and Wheat Products,Grains,Plant,54.62,10.42
+North America,Cuba,Rice,Grains,Plant,67.7,86.64
+North America,Cuba,Soybeans,Legumes,Plant,6.34,2.85
+North America,Cuba,Nuts inc. Peanut Butter,Legumes,Plant,0.23,0.41
+Asia,China,Pork,Other Meat (inc. Fish),Animal,38.43,136.02
+Asia,China,Poultry,Poultry (inc. Eggs),Animal,13.2,14.18
+Asia,China,Beef,Beef,Animal,5.12,157.99
+Asia,China,Lamb & Goat,Other Meat (inc. Fish),Animal,3.13,109.61
+Asia,China,Fish,Other Meat (inc. Fish),Animal,21.01,33.55
+Asia,China,Eggs,Poultry (inc. Eggs),Animal,18.76,17.23
+Asia,China,Milk - inc. cheese,Milk (inc. cheese),Animal,32.66,46.52
+Asia,China,Wheat and Wheat Products,Grains,Plant,63.36,12.08
+Asia,China,Rice,Grains,Plant,78.18,100.05
+Asia,China,Soybeans,Legumes,Plant,3.66,1.65
+Asia,China,Nuts inc. Peanut Butter,Legumes,Plant,6.39,11.31
+North America,Honduras,Pork,Other Meat (inc. Fish),Animal,6.48,22.94
+North America,Honduras,Poultry,Poultry (inc. Eggs),Animal,20.29,21.8
+North America,Honduras,Beef,Beef,Animal,7.19,221.87
+North America,Honduras,Lamb & Goat,Other Meat (inc. Fish),Animal,0.04,1.4
+North America,Honduras,Fish,Other Meat (inc. Fish),Animal,2.7,4.31
+North America,Honduras,Eggs,Poultry (inc. Eggs),Animal,5.19,4.77
+North America,Honduras,Milk - inc. cheese,Milk (inc. cheese),Animal,91.33,130.09
+North America,Honduras,Wheat and Wheat Products,Grains,Plant,37.36,7.12
+North America,Honduras,Rice,Grains,Plant,14.42,18.45
+North America,Honduras,Soybeans,Legumes,Plant,0.01,0
+North America,Honduras,Nuts inc. Peanut Butter,Legumes,Plant,0.75,1.33
+Asia,Taiwan. ROC,Pork,Other Meat (inc. Fish),Animal,39.37,139.35
+Asia,Taiwan. ROC,Poultry,Poultry (inc. Eggs),Animal,32.13,34.51
+Asia,Taiwan. ROC,Beef,Beef,Animal,5.21,160.77
+Asia,Taiwan. ROC,Lamb & Goat,Other Meat (inc. Fish),Animal,0.92,32.22
+Asia,Taiwan. ROC,Fish,Other Meat (inc. Fish),Animal,18.29,29.2
+Asia,Taiwan. ROC,Eggs,Poultry (inc. Eggs),Animal,13.08,12.02
+Asia,Taiwan. ROC,Milk - inc. cheese,Milk (inc. cheese),Animal,41.72,59.43
+Asia,Taiwan. ROC,Wheat and Wheat Products,Grains,Plant,50.92,9.71
+Asia,Taiwan. ROC,Rice,Grains,Plant,45.85,58.67
+Asia,Taiwan. ROC,Soybeans,Legumes,Plant,16.95,7.63
+Asia,Taiwan. ROC,Nuts inc. Peanut Butter,Legumes,Plant,9.06,16.04
+Africa,Angola,Pork,Other Meat (inc. Fish),Animal,8.89,31.47
+Africa,Angola,Poultry,Poultry (inc. Eggs),Animal,17.33,18.62
+Africa,Angola,Beef,Beef,Animal,8.42,259.82
+Africa,Angola,Lamb & Goat,Other Meat (inc. Fish),Animal,1.08,37.82
+Africa,Angola,Fish,Other Meat (inc. Fish),Animal,15.24,24.33
+Africa,Angola,Eggs,Poultry (inc. Eggs),Animal,1.11,1.02
+Africa,Angola,Milk - inc. cheese,Milk (inc. cheese),Animal,12.3,17.52
+Africa,Angola,Wheat and Wheat Products,Grains,Plant,40.72,7.77
+Africa,Angola,Rice,Grains,Plant,8.12,10.39
+Africa,Angola,Soybeans,Legumes,Plant,0.52,0.23
+Africa,Angola,Nuts inc. Peanut Butter,Legumes,Plant,2.26,4
+North America,Jamaica,Pork,Other Meat (inc. Fish),Animal,3.99,14.12
+North America,Jamaica,Poultry,Poultry (inc. Eggs),Animal,52.51,56.41
+North America,Jamaica,Beef,Beef,Animal,3.97,122.51
+North America,Jamaica,Lamb & Goat,Other Meat (inc. Fish),Animal,1.26,44.13
+North America,Jamaica,Fish,Other Meat (inc. Fish),Animal,21.95,35.05
+North America,Jamaica,Eggs,Poultry (inc. Eggs),Animal,2.27,2.09
+North America,Jamaica,Milk - inc. cheese,Milk (inc. cheese),Animal,91.13,129.81
+North America,Jamaica,Wheat and Wheat Products,Grains,Plant,70.67,13.48
+North America,Jamaica,Rice,Grains,Plant,23.45,30.01
+North America,Jamaica,Soybeans,Legumes,Plant,0,0
+North America,Jamaica,Nuts inc. Peanut Butter,Legumes,Plant,1.82,3.22
+Africa,Namibia,Pork,Other Meat (inc. Fish),Animal,4.21,14.9
+Africa,Namibia,Poultry,Poultry (inc. Eggs),Animal,12.19,13.09
+Africa,Namibia,Beef,Beef,Animal,3.75,115.72
+Africa,Namibia,Lamb & Goat,Other Meat (inc. Fish),Animal,2.27,79.5
+Africa,Namibia,Fish,Other Meat (inc. Fish),Animal,10.7,17.08
+Africa,Namibia,Eggs,Poultry (inc. Eggs),Animal,1.63,1.5
+Africa,Namibia,Milk - inc. cheese,Milk (inc. cheese),Animal,73.05,104.05
+Africa,Namibia,Wheat and Wheat Products,Grains,Plant,36.26,6.91
+Africa,Namibia,Rice,Grains,Plant,6.31,8.07
+Africa,Namibia,Soybeans,Legumes,Plant,0.07,0.03
+Africa,Namibia,Nuts inc. Peanut Butter,Legumes,Plant,0.71,1.26
+North America,Belize,Pork,Other Meat (inc. Fish),Animal,16.8,59.46
+North America,Belize,Poultry,Poultry (inc. Eggs),Animal,28.31,30.41
+North America,Belize,Beef,Beef,Animal,4.86,149.97
+North America,Belize,Lamb & Goat,Other Meat (inc. Fish),Animal,0.14,4.9
+North America,Belize,Fish,Other Meat (inc. Fish),Animal,7.57,12.09
+North America,Belize,Eggs,Poultry (inc. Eggs),Animal,4.85,4.46
+North America,Belize,Milk - inc. cheese,Milk (inc. cheese),Animal,80.3,114.38
+North America,Belize,Wheat and Wheat Products,Grains,Plant,54.06,10.31
+North America,Belize,Rice,Grains,Plant,28.42,36.37
+North America,Belize,Soybeans,Legumes,Plant,1.88,0.85
+North America,Belize,Nuts inc. Peanut Butter,Legumes,Plant,5.58,9.88
+Asia,Malaysia,Pork,Other Meat (inc. Fish),Animal,7.76,27.47
+Asia,Malaysia,Poultry,Poultry (inc. Eggs),Animal,41.01,44.05
+Asia,Malaysia,Beef,Beef,Animal,6.52,201.19
+Asia,Malaysia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.94,32.92
+Asia,Malaysia,Fish,Other Meat (inc. Fish),Animal,49.43,78.92
+Asia,Malaysia,Eggs,Poultry (inc. Eggs),Animal,16.57,15.22
+Asia,Malaysia,Milk - inc. cheese,Milk (inc. cheese),Animal,25.28,36.01
+Asia,Malaysia,Wheat and Wheat Products,Grains,Plant,51.04,9.73
+Asia,Malaysia,Rice,Grains,Plant,81.25,103.98
+Asia,Malaysia,Soybeans,Legumes,Plant,0.04,0.02
+Asia,Malaysia,Nuts inc. Peanut Butter,Legumes,Plant,2.9,5.13
+Africa,Zimbabwe,Pork,Other Meat (inc. Fish),Animal,2.65,9.38
+Africa,Zimbabwe,Poultry,Poultry (inc. Eggs),Animal,4.97,5.34
+Africa,Zimbabwe,Beef,Beef,Animal,7.37,227.42
+Africa,Zimbabwe,Lamb & Goat,Other Meat (inc. Fish),Animal,0.96,33.62
+Africa,Zimbabwe,Fish,Other Meat (inc. Fish),Animal,2.8,4.47
+Africa,Zimbabwe,Eggs,Poultry (inc. Eggs),Animal,1.75,1.61
+Africa,Zimbabwe,Milk - inc. cheese,Milk (inc. cheese),Animal,31.9,45.44
+Africa,Zimbabwe,Wheat and Wheat Products,Grains,Plant,31.31,5.97
+Africa,Zimbabwe,Rice,Grains,Plant,10.09,12.91
+Africa,Zimbabwe,Soybeans,Legumes,Plant,0.54,0.24
+Africa,Zimbabwe,Nuts inc. Peanut Butter,Legumes,Plant,2.22,3.93
+North America,Guatemala,Pork,Other Meat (inc. Fish),Animal,4.85,17.17
+North America,Guatemala,Poultry,Poultry (inc. Eggs),Animal,16.45,17.67
+North America,Guatemala,Beef,Beef,Animal,5.6,172.8
+North America,Guatemala,Lamb & Goat,Other Meat (inc. Fish),Animal,0.23,8.05
+North America,Guatemala,Fish,Other Meat (inc. Fish),Animal,1.08,1.72
+North America,Guatemala,Eggs,Poultry (inc. Eggs),Animal,14.61,13.42
+North America,Guatemala,Milk - inc. cheese,Milk (inc. cheese),Animal,46.6,66.38
+North America,Guatemala,Wheat and Wheat Products,Grains,Plant,35.9,6.85
+North America,Guatemala,Rice,Grains,Plant,5.66,7.24
+North America,Guatemala,Soybeans,Legumes,Plant,0.32,0.14
+North America,Guatemala,Nuts inc. Peanut Butter,Legumes,Plant,2,3.54
+Africa,Uganda,Pork,Other Meat (inc. Fish),Animal,3.37,11.93
+Africa,Uganda,Poultry,Poultry (inc. Eggs),Animal,1.51,1.62
+Africa,Uganda,Beef,Beef,Animal,5.15,158.92
+Africa,Uganda,Lamb & Goat,Other Meat (inc. Fish),Animal,1.25,43.77
+Africa,Uganda,Fish,Other Meat (inc. Fish),Animal,12.5,19.96
+Africa,Uganda,Eggs,Poultry (inc. Eggs),Animal,0.97,0.89
+Africa,Uganda,Milk - inc. cheese,Milk (inc. cheese),Animal,37.27,53.09
+Africa,Uganda,Wheat and Wheat Products,Grains,Plant,10.14,1.93
+Africa,Uganda,Rice,Grains,Plant,4.64,5.94
+Africa,Uganda,Soybeans,Legumes,Plant,0.01,0
+Africa,Uganda,Nuts inc. Peanut Butter,Legumes,Plant,3.77,6.67
+Asia,Nepal,Pork,Other Meat (inc. Fish),Animal,0.67,2.37
+Asia,Nepal,Poultry,Poultry (inc. Eggs),Animal,1.56,1.68
+Asia,Nepal,Beef,Beef,Animal,7.89,243.47
+Asia,Nepal,Lamb & Goat,Other Meat (inc. Fish),Animal,2.1,73.54
+Asia,Nepal,Fish,Other Meat (inc. Fish),Animal,2.17,3.46
+Asia,Nepal,Eggs,Poultry (inc. Eggs),Animal,1.42,1.3
+Asia,Nepal,Milk - inc. cheese,Milk (inc. cheese),Animal,52.1,74.21
+Asia,Nepal,Wheat and Wheat Products,Grains,Plant,50.46,9.62
+Asia,Nepal,Rice,Grains,Plant,87.75,112.29
+Asia,Nepal,Soybeans,Legumes,Plant,0.01,0
+Asia,Nepal,Nuts inc. Peanut Butter,Legumes,Plant,2.42,4.28
+Asia,Iran,Pork,Other Meat (inc. Fish),Animal,0,0
+Asia,Iran,Poultry,Poultry (inc. Eggs),Animal,25.38,27.26
+Asia,Iran,Beef,Beef,Animal,3.58,110.47
+Asia,Iran,Lamb & Goat,Other Meat (inc. Fish),Animal,3.69,129.22
+Asia,Iran,Fish,Other Meat (inc. Fish),Animal,9.8,15.65
+Asia,Iran,Eggs,Poultry (inc. Eggs),Animal,7.7,7.07
+Asia,Iran,Milk - inc. cheese,Milk (inc. cheese),Animal,46.69,66.51
+Asia,Iran,Wheat and Wheat Products,Grains,Plant,153.31,29.24
+Asia,Iran,Rice,Grains,Plant,29.95,38.33
+Asia,Iran,Soybeans,Legumes,Plant,0,0
+Asia,Iran,Nuts inc. Peanut Butter,Legumes,Plant,12.16,21.52
+Africa,Tanzania,Pork,Other Meat (inc. Fish),Animal,0.32,1.13
+Africa,Tanzania,Poultry,Poultry (inc. Eggs),Animal,1.84,1.98
+Africa,Tanzania,Beef,Beef,Animal,6.09,187.92
+Africa,Tanzania,Lamb & Goat,Other Meat (inc. Fish),Animal,1.28,44.83
+Africa,Tanzania,Fish,Other Meat (inc. Fish),Animal,5.5,8.78
+Africa,Tanzania,Eggs,Poultry (inc. Eggs),Animal,0.58,0.53
+Africa,Tanzania,Milk - inc. cheese,Milk (inc. cheese),Animal,40.29,57.39
+Africa,Tanzania,Wheat and Wheat Products,Grains,Plant,15.94,3.04
+Africa,Tanzania,Rice,Grains,Plant,21.01,26.89
+Africa,Tanzania,Soybeans,Legumes,Plant,0.04,0.02
+Africa,Tanzania,Nuts inc. Peanut Butter,Legumes,Plant,5.94,10.51
+Africa,Senegal,Pork,Other Meat (inc. Fish),Animal,0.94,3.33
+Africa,Senegal,Poultry,Poultry (inc. Eggs),Animal,4.62,4.96
+Africa,Senegal,Beef,Beef,Animal,5.85,180.52
+Africa,Senegal,Lamb & Goat,Other Meat (inc. Fish),Animal,3.19,111.71
+Africa,Senegal,Fish,Other Meat (inc. Fish),Animal,22.94,36.63
+Africa,Senegal,Eggs,Poultry (inc. Eggs),Animal,1.63,1.5
+Africa,Senegal,Milk - inc. cheese,Milk (inc. cheese),Animal,16.86,24.02
+Africa,Senegal,Wheat and Wheat Products,Grains,Plant,37.32,7.12
+Africa,Senegal,Rice,Grains,Plant,72.29,92.51
+Africa,Senegal,Soybeans,Legumes,Plant,0,0
+Africa,Senegal,Nuts inc. Peanut Butter,Legumes,Plant,4.03,7.13
+South America,Peru,Pork,Other Meat (inc. Fish),Animal,3.85,13.63
+South America,Peru,Poultry,Poultry (inc. Eggs),Animal,11.72,12.59
+South America,Peru,Beef,Beef,Animal,4.69,144.72
+South America,Peru,Lamb & Goat,Other Meat (inc. Fish),Animal,1,35.02
+South America,Peru,Fish,Other Meat (inc. Fish),Animal,15.74,25.13
+South America,Peru,Eggs,Poultry (inc. Eggs),Animal,8.76,8.05
+South America,Peru,Milk - inc. cheese,Milk (inc. cheese),Animal,62.15,88.53
+South America,Peru,Wheat and Wheat Products,Grains,Plant,56.12,10.7
+South America,Peru,Rice,Grains,Plant,48.92,62.6
+South America,Peru,Soybeans,Legumes,Plant,1.59,0.72
+South America,Peru,Nuts inc. Peanut Butter,Legumes,Plant,0.65,1.15
+North America,Nicaragua,Pork,Other Meat (inc. Fish),Animal,3.38,11.96
+North America,Nicaragua,Poultry,Poultry (inc. Eggs),Animal,21.31,22.89
+North America,Nicaragua,Beef,Beef,Animal,4.73,145.96
+North America,Nicaragua,Lamb & Goat,Other Meat (inc. Fish),Animal,0.01,0.35
+North America,Nicaragua,Fish,Other Meat (inc. Fish),Animal,3.59,5.73
+North America,Nicaragua,Eggs,Poultry (inc. Eggs),Animal,4.9,4.5
+North America,Nicaragua,Milk - inc. cheese,Milk (inc. cheese),Animal,85.16,121.3
+North America,Nicaragua,Wheat and Wheat Products,Grains,Plant,28.17,5.37
+North America,Nicaragua,Rice,Grains,Plant,43.33,55.45
+North America,Nicaragua,Soybeans,Legumes,Plant,0.01,0
+North America,Nicaragua,Nuts inc. Peanut Butter,Legumes,Plant,2.36,4.18
+Asia,Vietnam,Pork,Other Meat (inc. Fish),Animal,35,123.88
+Asia,Vietnam,Poultry,Poultry (inc. Eggs),Animal,12.36,13.28
+Asia,Vietnam,Beef,Beef,Animal,7.44,229.58
+Asia,Vietnam,Lamb & Goat,Other Meat (inc. Fish),Animal,0.14,4.9
+Asia,Vietnam,Fish,Other Meat (inc. Fish),Animal,26.52,42.34
+Asia,Vietnam,Eggs,Poultry (inc. Eggs),Animal,3.84,3.53
+Asia,Vietnam,Milk - inc. cheese,Milk (inc. cheese),Animal,16.36,23.3
+Asia,Vietnam,Wheat and Wheat Products,Grains,Plant,10.49,2
+Asia,Vietnam,Rice,Grains,Plant,144.56,184.99
+Asia,Vietnam,Soybeans,Legumes,Plant,5.75,2.59
+Asia,Vietnam,Nuts inc. Peanut Butter,Legumes,Plant,6.28,11.12
+Africa,Ethiopia,Pork,Other Meat (inc. Fish),Animal,0.02,0.07
+Africa,Ethiopia,Poultry,Poultry (inc. Eggs),Animal,0.66,0.71
+Africa,Ethiopia,Beef,Beef,Animal,3.61,111.4
+Africa,Ethiopia,Lamb & Goat,Other Meat (inc. Fish),Animal,1.57,54.98
+Africa,Ethiopia,Fish,Other Meat (inc. Fish),Animal,0.24,0.38
+Africa,Ethiopia,Eggs,Poultry (inc. Eggs),Animal,0.36,0.33
+Africa,Ethiopia,Milk - inc. cheese,Milk (inc. cheese),Animal,44.14,62.87
+Africa,Ethiopia,Wheat and Wheat Products,Grains,Plant,31.26,5.96
+Africa,Ethiopia,Rice,Grains,Plant,2.25,2.88
+Africa,Ethiopia,Soybeans,Legumes,Plant,0.45,0.2
+Africa,Ethiopia,Nuts inc. Peanut Butter,Legumes,Plant,1.21,2.14
+Asia,Myanmar,Pork,Other Meat (inc. Fish),Animal,11.31,40.03
+Asia,Myanmar,Poultry,Poultry (inc. Eggs),Animal,21.87,23.49
+Asia,Myanmar,Beef,Beef,Animal,4.94,152.44
+Asia,Myanmar,Lamb & Goat,Other Meat (inc. Fish),Animal,0.89,31.17
+Asia,Myanmar,Fish,Other Meat (inc. Fish),Animal,54.26,86.64
+Asia,Myanmar,Eggs,Poultry (inc. Eggs),Animal,6.45,5.92
+Asia,Myanmar,Milk - inc. cheese,Milk (inc. cheese),Animal,31.48,44.84
+Asia,Myanmar,Wheat and Wheat Products,Grains,Plant,6.22,1.19
+Asia,Myanmar,Rice,Grains,Plant,132.8,169.94
+Asia,Myanmar,Soybeans,Legumes,Plant,0.38,0.17
+Asia,Myanmar,Nuts inc. Peanut Butter,Legumes,Plant,4.5,7.97
+Africa,Congo,Pork,Other Meat (inc. Fish),Animal,2.39,8.46
+Africa,Congo,Poultry,Poultry (inc. Eggs),Animal,13.02,13.99
+Africa,Congo,Beef,Beef,Animal,4.35,134.23
+Africa,Congo,Lamb & Goat,Other Meat (inc. Fish),Animal,0.4,14.01
+Africa,Congo,Fish,Other Meat (inc. Fish),Animal,26.22,41.86
+Africa,Congo,Eggs,Poultry (inc. Eggs),Animal,0.6,0.55
+Africa,Congo,Milk - inc. cheese,Milk (inc. cheese),Animal,10.69,15.23
+Africa,Congo,Wheat and Wheat Products,Grains,Plant,40.07,7.64
+Africa,Congo,Rice,Grains,Plant,16.51,21.13
+Africa,Congo,Soybeans,Legumes,Plant,0,0
+Africa,Congo,Nuts inc. Peanut Butter,Legumes,Plant,3.08,5.45
+Africa,Zambia,Pork,Other Meat (inc. Fish),Animal,1.66,5.88
+Africa,Zambia,Poultry,Poultry (inc. Eggs),Animal,3.29,3.53
+Africa,Zambia,Beef,Beef,Animal,4.76,146.88
+Africa,Zambia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.68,23.81
+Africa,Zambia,Fish,Other Meat (inc. Fish),Animal,6.2,9.9
+Africa,Zambia,Eggs,Poultry (inc. Eggs),Animal,3.32,3.05
+Africa,Zambia,Milk - inc. cheese,Milk (inc. cheese),Animal,9.71,13.83
+Africa,Zambia,Wheat and Wheat Products,Grains,Plant,12.1,2.31
+Africa,Zambia,Rice,Grains,Plant,3.05,3.9
+Africa,Zambia,Soybeans,Legumes,Plant,7.3,3.29
+Africa,Zambia,Nuts inc. Peanut Butter,Legumes,Plant,5.04,8.92
+Africa,Cameroon,Pork,Other Meat (inc. Fish),Animal,1.47,5.2
+Africa,Cameroon,Poultry,Poultry (inc. Eggs),Animal,3.29,3.53
+Africa,Cameroon,Beef,Beef,Animal,4.17,128.68
+Africa,Cameroon,Lamb & Goat,Other Meat (inc. Fish),Animal,1.4,49.03
+Africa,Cameroon,Fish,Other Meat (inc. Fish),Animal,14.71,23.49
+Africa,Cameroon,Eggs,Poultry (inc. Eggs),Animal,0.4,0.37
+Africa,Cameroon,Milk - inc. cheese,Milk (inc. cheese),Animal,15.27,21.75
+Africa,Cameroon,Wheat and Wheat Products,Grains,Plant,22.6,4.31
+Africa,Cameroon,Rice,Grains,Plant,23.85,30.52
+Africa,Cameroon,Soybeans,Legumes,Plant,0.64,0.29
+Africa,Cameroon,Nuts inc. Peanut Butter,Legumes,Plant,9.29,16.44
+Africa,Madagascar,Pork,Other Meat (inc. Fish),Animal,2.56,9.06
+Africa,Madagascar,Poultry,Poultry (inc. Eggs),Animal,3.14,3.37
+Africa,Madagascar,Beef,Beef,Animal,7.51,231.74
+Africa,Madagascar,Lamb & Goat,Other Meat (inc. Fish),Animal,0.57,19.96
+Africa,Madagascar,Fish,Other Meat (inc. Fish),Animal,4.41,7.04
+Africa,Madagascar,Eggs,Poultry (inc. Eggs),Animal,0.71,0.65
+Africa,Madagascar,Milk - inc. cheese,Milk (inc. cheese),Animal,24.84,35.38
+Africa,Madagascar,Wheat and Wheat Products,Grains,Plant,9.01,1.72
+Africa,Madagascar,Rice,Grains,Plant,102.53,131.21
+Africa,Madagascar,Soybeans,Legumes,Plant,0,0
+Africa,Madagascar,Nuts inc. Peanut Butter,Legumes,Plant,0.35,0.62
+Africa,Malawi,Pork,Other Meat (inc. Fish),Animal,5.45,19.29
+Africa,Malawi,Poultry,Poultry (inc. Eggs),Animal,1.38,1.48
+Africa,Malawi,Beef,Beef,Animal,2.35,72.52
+Africa,Malawi,Lamb & Goat,Other Meat (inc. Fish),Animal,2.07,72.49
+Africa,Malawi,Fish,Other Meat (inc. Fish),Animal,7.33,11.7
+Africa,Malawi,Eggs,Poultry (inc. Eggs),Animal,1.08,0.99
+Africa,Malawi,Milk - inc. cheese,Milk (inc. cheese),Animal,7.98,11.37
+Africa,Malawi,Wheat and Wheat Products,Grains,Plant,11.77,2.24
+Africa,Malawi,Rice,Grains,Plant,4.75,6.08
+Africa,Malawi,Soybeans,Legumes,Plant,1.76,0.79
+Africa,Malawi,Nuts inc. Peanut Butter,Legumes,Plant,5.08,8.99
+Africa,Guinea,Pork,Other Meat (inc. Fish),Animal,0.16,0.57
+Africa,Guinea,Poultry,Poultry (inc. Eggs),Animal,1.83,1.97
+Africa,Guinea,Beef,Beef,Animal,6.26,193.17
+Africa,Guinea,Lamb & Goat,Other Meat (inc. Fish),Animal,1.6,56.03
+Africa,Guinea,Fish,Other Meat (inc. Fish),Animal,9.18,14.66
+Africa,Guinea,Eggs,Poultry (inc. Eggs),Animal,1.95,1.79
+Africa,Guinea,Milk - inc. cheese,Milk (inc. cheese),Animal,20.62,29.37
+Africa,Guinea,Wheat and Wheat Products,Grains,Plant,18.55,3.54
+Africa,Guinea,Rice,Grains,Plant,97.12,124.28
+Africa,Guinea,Soybeans,Legumes,Plant,0,0
+Africa,Guinea,Nuts inc. Peanut Butter,Legumes,Plant,4.14,7.33
+Africa,Nigeria,Pork,Other Meat (inc. Fish),Animal,1.47,5.2
+Africa,Nigeria,Poultry,Poultry (inc. Eggs),Animal,1.73,1.86
+Africa,Nigeria,Beef,Beef,Animal,2.33,71.9
+Africa,Nigeria,Lamb & Goat,Other Meat (inc. Fish),Animal,2.72,95.25
+Africa,Nigeria,Fish,Other Meat (inc. Fish),Animal,16.03,25.59
+Africa,Nigeria,Eggs,Poultry (inc. Eggs),Animal,3.46,3.18
+Africa,Nigeria,Milk - inc. cheese,Milk (inc. cheese),Animal,7.91,11.27
+Africa,Nigeria,Wheat and Wheat Products,Grains,Plant,20.82,3.97
+Africa,Nigeria,Rice,Grains,Plant,28.23,36.13
+Africa,Nigeria,Soybeans,Legumes,Plant,2.6,1.17
+Africa,Nigeria,Nuts inc. Peanut Butter,Legumes,Plant,6.93,12.27
+Africa,Rwanda,Pork,Other Meat (inc. Fish),Animal,0.76,2.69
+Africa,Rwanda,Poultry,Poultry (inc. Eggs),Animal,1.34,1.44
+Africa,Rwanda,Beef,Beef,Animal,2.53,78.07
+Africa,Rwanda,Lamb & Goat,Other Meat (inc. Fish),Animal,1.93,67.59
+Africa,Rwanda,Fish,Other Meat (inc. Fish),Animal,3.88,6.2
+Africa,Rwanda,Eggs,Poultry (inc. Eggs),Animal,0.16,0.15
+Africa,Rwanda,Milk - inc. cheese,Milk (inc. cheese),Animal,7.23,10.3
+Africa,Rwanda,Wheat and Wheat Products,Grains,Plant,11.34,2.16
+Africa,Rwanda,Rice,Grains,Plant,8.7,11.13
+Africa,Rwanda,Soybeans,Legumes,Plant,1.93,0.87
+Africa,Rwanda,Nuts inc. Peanut Butter,Legumes,Plant,0.58,1.03
+Asia,Philippines,Pork,Other Meat (inc. Fish),Animal,18.4,65.13
+Asia,Philippines,Poultry,Poultry (inc. Eggs),Animal,11.91,12.79
+Asia,Philippines,Beef,Beef,Animal,4.06,125.28
+Asia,Philippines,Lamb & Goat,Other Meat (inc. Fish),Animal,0.56,19.61
+Asia,Philippines,Fish,Other Meat (inc. Fish),Animal,28.51,45.52
+Asia,Philippines,Eggs,Poultry (inc. Eggs),Animal,4.02,3.69
+Asia,Philippines,Milk - inc. cheese,Milk (inc. cheese),Animal,15.66,22.31
+Asia,Philippines,Wheat and Wheat Products,Grains,Plant,23.12,4.41
+Asia,Philippines,Rice,Grains,Plant,119.44,152.85
+Asia,Philippines,Soybeans,Legumes,Plant,0.03,0.01
+Asia,Philippines,Nuts inc. Peanut Butter,Legumes,Plant,2.08,3.68
+Africa,Ghana,Pork,Other Meat (inc. Fish),Animal,1.36,4.81
+Africa,Ghana,Poultry,Poultry (inc. Eggs),Animal,8.63,9.27
+Africa,Ghana,Beef,Beef,Animal,1.09,33.64
+Africa,Ghana,Lamb & Goat,Other Meat (inc. Fish),Animal,1.74,60.93
+Africa,Ghana,Fish,Other Meat (inc. Fish),Animal,26.05,41.59
+Africa,Ghana,Eggs,Poultry (inc. Eggs),Animal,1.21,1.11
+Africa,Ghana,Milk - inc. cheese,Milk (inc. cheese),Animal,9.08,12.93
+Africa,Ghana,Wheat and Wheat Products,Grains,Plant,14.45,2.76
+Africa,Ghana,Rice,Grains,Plant,32.03,40.99
+Africa,Ghana,Soybeans,Legumes,Plant,0.01,0
+Africa,Ghana,Nuts inc. Peanut Butter,Legumes,Plant,5.56,9.84
+Africa,Togo,Pork,Other Meat (inc. Fish),Animal,1.57,5.56
+Africa,Togo,Poultry,Poultry (inc. Eggs),Animal,6.63,7.12
+Africa,Togo,Beef,Beef,Animal,1.53,47.21
+Africa,Togo,Lamb & Goat,Other Meat (inc. Fish),Animal,1.58,55.33
+Africa,Togo,Fish,Other Meat (inc. Fish),Animal,11.69,18.67
+Africa,Togo,Eggs,Poultry (inc. Eggs),Animal,0.86,0.79
+Africa,Togo,Milk - inc. cheese,Milk (inc. cheese),Animal,7.96,11.34
+Africa,Togo,Wheat and Wheat Products,Grains,Plant,12.91,2.46
+Africa,Togo,Rice,Grains,Plant,25.99,33.26
+Africa,Togo,Soybeans,Legumes,Plant,0.01,0
+Africa,Togo,Nuts inc. Peanut Butter,Legumes,Plant,3.59,6.35
+Africa,Gambia,Pork,Other Meat (inc. Fish),Animal,0.18,0.64
+Africa,Gambia,Poultry,Poultry (inc. Eggs),Animal,2.66,2.86
+Africa,Gambia,Beef,Beef,Animal,2.16,66.65
+Africa,Gambia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.71,24.86
+Africa,Gambia,Fish,Other Meat (inc. Fish),Animal,23.13,36.93
+Africa,Gambia,Eggs,Poultry (inc. Eggs),Animal,0.99,0.91
+Africa,Gambia,Milk - inc. cheese,Milk (inc. cheese),Animal,45.71,65.11
+Africa,Gambia,Wheat and Wheat Products,Grains,Plant,37.91,7.23
+Africa,Gambia,Rice,Grains,Plant,61.84,79.14
+Africa,Gambia,Soybeans,Legumes,Plant,0,0
+Africa,Gambia,Nuts inc. Peanut Butter,Legumes,Plant,5.27,9.33
+Asia,India,Pork,Other Meat (inc. Fish),Animal,0.28,0.99
+Asia,India,Poultry,Poultry (inc. Eggs),Animal,1.88,2.02
+Asia,India,Beef,Beef,Animal,0.81,24.99
+Asia,India,Lamb & Goat,Other Meat (inc. Fish),Animal,0.58,20.31
+Asia,India,Fish,Other Meat (inc. Fish),Animal,4.71,7.52
+Asia,India,Eggs,Poultry (inc. Eggs),Animal,2.58,2.37
+Asia,India,Milk - inc. cheese,Milk (inc. cheese),Animal,84.5,120.36
+Asia,India,Wheat and Wheat Products,Grains,Plant,60.56,11.55
+Asia,India,Rice,Grains,Plant,69.49,88.93
+Asia,India,Soybeans,Legumes,Plant,0.39,0.18
+Asia,India,Nuts inc. Peanut Butter,Legumes,Plant,1.92,3.4
+Asia,Thailand,Pork,Other Meat (inc. Fish),Animal,13,46.01
+Asia,Thailand,Poultry,Poultry (inc. Eggs),Animal,13.69,14.71
+Asia,Thailand,Beef,Beef,Animal,2.56,79
+Asia,Thailand,Lamb & Goat,Other Meat (inc. Fish),Animal,0.05,1.75
+Asia,Thailand,Fish,Other Meat (inc. Fish),Animal,19.45,31.06
+Asia,Thailand,Eggs,Poultry (inc. Eggs),Animal,12.35,11.34
+Asia,Thailand,Milk - inc. cheese,Milk (inc. cheese),Animal,29.35,41.81
+Asia,Thailand,Wheat and Wheat Products,Grains,Plant,10.93,2.08
+Asia,Thailand,Rice,Grains,Plant,114.57,146.62
+Asia,Thailand,Soybeans,Legumes,Plant,2.13,0.96
+Asia,Thailand,Nuts inc. Peanut Butter,Legumes,Plant,1.5,2.66
+Africa,Mozambique,Pork,Other Meat (inc. Fish),Animal,5.13,18.16
+Africa,Mozambique,Poultry,Poultry (inc. Eggs),Animal,1.41,1.51
+Africa,Mozambique,Beef,Beef,Animal,1.04,32.09
+Africa,Mozambique,Lamb & Goat,Other Meat (inc. Fish),Animal,0.9,31.52
+Africa,Mozambique,Fish,Other Meat (inc. Fish),Animal,7.74,12.36
+Africa,Mozambique,Eggs,Poultry (inc. Eggs),Animal,1.7,1.56
+Africa,Mozambique,Milk - inc. cheese,Milk (inc. cheese),Animal,4.79,6.82
+Africa,Mozambique,Wheat and Wheat Products,Grains,Plant,14.65,2.79
+Africa,Mozambique,Rice,Grains,Plant,23.41,29.96
+Africa,Mozambique,Soybeans,Legumes,Plant,0.03,0.01
+Africa,Mozambique,Nuts inc. Peanut Butter,Legumes,Plant,2.61,4.62
+Africa,Cambodia,Pork,Other Meat (inc. Fish),Animal,6.52,23.08
+Africa,Cambodia,Poultry,Poultry (inc. Eggs),Animal,1.84,1.98
+Africa,Cambodia,Beef,Beef,Animal,4.85,149.66
+Africa,Cambodia,Lamb & Goat,Other Meat (inc. Fish),Animal,0,0
+Africa,Cambodia,Fish,Other Meat (inc. Fish),Animal,39.59,63.21
+Africa,Cambodia,Eggs,Poultry (inc. Eggs),Animal,1.37,1.26
+Africa,Cambodia,Milk - inc. cheese,Milk (inc. cheese),Animal,3.47,4.94
+Africa,Cambodia,Wheat and Wheat Products,Grains,Plant,2.74,0.52
+Africa,Cambodia,Rice,Grains,Plant,159.1,203.6
+Africa,Cambodia,Soybeans,Legumes,Plant,4.33,1.95
+Africa,Cambodia,Nuts inc. Peanut Butter,Legumes,Plant,1.25,2.21
+Africa,Sierra Leone,Pork,Other Meat (inc. Fish),Animal,1.22,4.32
+Africa,Sierra Leone,Poultry,Poultry (inc. Eggs),Animal,4.97,5.34
+Africa,Sierra Leone,Beef,Beef,Animal,1.99,61.41
+Africa,Sierra Leone,Lamb & Goat,Other Meat (inc. Fish),Animal,0.65,22.76
+Africa,Sierra Leone,Fish,Other Meat (inc. Fish),Animal,32.03,51.14
+Africa,Sierra Leone,Eggs,Poultry (inc. Eggs),Animal,1.92,1.76
+Africa,Sierra Leone,Milk - inc. cheese,Milk (inc. cheese),Animal,7,9.97
+Africa,Sierra Leone,Wheat and Wheat Products,Grains,Plant,8.72,1.66
+Africa,Sierra Leone,Rice,Grains,Plant,103.3,132.19
+Africa,Sierra Leone,Soybeans,Legumes,Plant,0,0
+Africa,Sierra Leone,Nuts inc. Peanut Butter,Legumes,Plant,5.57,9.86
+Asia,Sri Lanka,Pork,Other Meat (inc. Fish),Animal,0.05,0.18
+Asia,Sri Lanka,Poultry,Poultry (inc. Eggs),Animal,4.96,5.33
+Asia,Sri Lanka,Beef,Beef,Animal,1.38,42.58
+Asia,Sri Lanka,Lamb & Goat,Other Meat (inc. Fish),Animal,0.09,3.15
+Asia,Sri Lanka,Fish,Other Meat (inc. Fish),Animal,24.92,39.79
+Asia,Sri Lanka,Eggs,Poultry (inc. Eggs),Animal,4.57,4.2
+Asia,Sri Lanka,Milk - inc. cheese,Milk (inc. cheese),Animal,34.98,49.83
+Asia,Sri Lanka,Wheat and Wheat Products,Grains,Plant,37.01,7.06
+Asia,Sri Lanka,Rice,Grains,Plant,109.72,140.41
+Asia,Sri Lanka,Soybeans,Legumes,Plant,0,0
+Asia,Sri Lanka,Nuts inc. Peanut Butter,Legumes,Plant,1.09,1.93
+Asia,Indonesia,Pork,Other Meat (inc. Fish),Animal,2.98,10.55
+Asia,Indonesia,Poultry,Poultry (inc. Eggs),Animal,7.5,8.06
+Asia,Indonesia,Beef,Beef,Animal,2.59,79.92
+Asia,Indonesia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.46,16.11
+Asia,Indonesia,Fish,Other Meat (inc. Fish),Animal,25.65,40.95
+Asia,Indonesia,Eggs,Poultry (inc. Eggs),Animal,4.88,4.48
+Asia,Indonesia,Milk - inc. cheese,Milk (inc. cheese),Animal,14.82,21.11
+Asia,Indonesia,Wheat and Wheat Products,Grains,Plant,25.45,4.85
+Asia,Indonesia,Rice,Grains,Plant,134.62,172.27
+Asia,Indonesia,Soybeans,Legumes,Plant,1.12,0.5
+Asia,Indonesia,Nuts inc. Peanut Butter,Legumes,Plant,4.92,8.71
+Africa,Liberia,Pork,Other Meat (inc. Fish),Animal,4.01,14.19
+Africa,Liberia,Poultry,Poultry (inc. Eggs),Animal,8.91,9.57
+Africa,Liberia,Beef,Beef,Animal,0.78,24.07
+Africa,Liberia,Lamb & Goat,Other Meat (inc. Fish),Animal,0.48,16.81
+Africa,Liberia,Fish,Other Meat (inc. Fish),Animal,4.13,6.59
+Africa,Liberia,Eggs,Poultry (inc. Eggs),Animal,2.05,1.88
+Africa,Liberia,Milk - inc. cheese,Milk (inc. cheese),Animal,3.04,4.33
+Africa,Liberia,Wheat and Wheat Products,Grains,Plant,10.95,2.09
+Africa,Liberia,Rice,Grains,Plant,94.75,121.25
+Africa,Liberia,Soybeans,Legumes,Plant,0.63,0.28
+Africa,Liberia,Nuts inc. Peanut Butter,Legumes,Plant,1.31,2.32
+Asia,Bangladesh,Pork,Other Meat (inc. Fish),Animal,0,0
+Asia,Bangladesh,Poultry,Poultry (inc. Eggs),Animal,1.4,1.5
+Asia,Bangladesh,Beef,Beef,Animal,1.28,39.5
+Asia,Bangladesh,Lamb & Goat,Other Meat (inc. Fish),Animal,1.33,46.58
+Asia,Bangladesh,Fish,Other Meat (inc. Fish),Animal,18.07,28.85
+Asia,Bangladesh,Eggs,Poultry (inc. Eggs),Animal,2.08,1.91
+Asia,Bangladesh,Milk - inc. cheese,Milk (inc. cheese),Animal,21.91,31.21
+Asia,Bangladesh,Wheat and Wheat Products,Grains,Plant,17.47,3.33
+Asia,Bangladesh,Rice,Grains,Plant,171.73,219.76
+Asia,Bangladesh,Soybeans,Legumes,Plant,0.61,0.27
+Asia,Bangladesh,Nuts inc. Peanut Butter,Legumes,Plant,0.72,1.27
